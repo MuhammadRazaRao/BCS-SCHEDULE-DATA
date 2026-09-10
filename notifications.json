@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "title": "Welcome",
+    "message": "Welcome to BCS Schedule App. If you find any issue in this app, contact me from Settings.",
+    "time": "",
+    "unread": true
+  },
+  {
+    "id": 2,
+    "title": "Schedule Updated",
+    "message": "The class schedule has been updated.",
+    "time": "",
+    "unread": true
+  },
+  {
+  "id": 3,
+  "title": "Schedule Update",
+  "message": "We’re adding new classes and updating the schedules. If you notice any issue or missing class, please wait—we’ll be back soon with the updated schedule. Thank you for your patience!",
+  "time": "",
+  "unread": true
+}
+]
