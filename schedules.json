@@ -546,203 +546,216 @@
   ],
   "BCS 2-A": [
     {
-      "id": "bcs2a-monday-1",
-      "day": "Monday",
-      "time": "1:00 PM - 2:30 PM",
-      "subject": "Object Oriented Programming",
-      "teacher": "Ms. Sajida Kalsoom",
-      "room": "Room 107 (AB-2)",
-      "color": "blue"
+        "id": "b2a-wednesday-1",
+        "day": "Wednesday",
+        "time": "1:00 PM - 2:30 PM",
+        "subject": "Object Oriented Programming",
+        "teacher": "Ms. Sajida Kalsom",
+        "room": "Room 107 (AB-2)",
+        "color": "blue"
     },
     {
-      "id": "bcs2a-monday-2",
-      "day": "Monday",
-      "time": "2:30 PM - 4:00 PM",
-      "subject": "Technical and Business Writing",
-      "teacher": "Dr. Maria Farooq",
-      "room": "Room 107 (AB-2)",
-      "color": "blue"
+        "id": "b2a-wednesday-2",
+        "day": "Wednesday",
+        "time": "2:30 PM - 4:00 PM",
+        "subject": "Technical and Business Writing",
+        "teacher": "Dr. Maria Farooq",
+        "room": "Room 107 (AB-2)",
+        "color": "green"
     },
     {
-      "id": "bcs2a-monday-3",
-      "day": "Monday",
-      "time": "4:00 PM - 5:30 PM",
-      "subject": "Discrete Structures",
-      "teacher": "Mr. Haseeb ur Rehman",
-      "room": "Room 107 (AB-2)",
-      "color": "default"
+        "id": "b2a-wednesday-3",
+        "day": "Wednesday",
+        "time": "4:00 PM - 5:30 PM",
+        "subject": "Discrete Structures",
+        "teacher": "Mr. Haseeb ur Rehman",
+        "room": "Room 107 (AB-2)",
+        "color": "pink"
+    },
+
+    {
+        "id": "b2a-thursday-1",
+        "day": "Thursday",
+        "time": "11:30 AM - 1:00 PM",
+        "subject": "Object Oriented Programming",
+        "teacher": "Ms. Sajida Kalsom",
+        "room": "Room 110 (AB-2)",
+        "color": "blue"
     },
     {
-      "id": "bcs2a-tuesday-1",
-      "day": "Tuesday",
-      "time": "11:30 AM - 1:00 PM",
-      "subject": "Object Oriented Programming",
-      "teacher": "Ms. Sajida Kalsoom",
-      "room": "Room 110 (AB-2)",
-      "color": "blue"
+        "id": "b2a-thursday-2",
+        "day": "Thursday",
+        "time": "2:30 PM - 5:30 PM",
+        "subject": "Object Oriented Programming",
+        "teacher": "Ms. Sajida Kalsom",
+        "room": "CL-10",
+        "color": "green",
+        "status": "Lab"
+    },
+
+    {
+        "id": "b2a-friday-1",
+        "day": "Friday",
+        "time": "8:30 AM - 10:30 AM",
+        "subject": "Introduction to Bioinformatics",
+        "teacher": "Dr. Maryam Mehmood",
+        "room": "CL-10",
+        "color": "pink"
     },
     {
-      "id": "bcs2a-tuesday-2",
-      "day": "Tuesday",
-      "time": "4:00 PM - 5:30 PM",
-      "subject": "Object Oriented Programming",
-      "teacher": "Ms. Sajida Kalsoom",
-      "room": "Lab CL-10",
-      "color": "blue",
-      "status": "Lab"
+        "id": "b2a-friday-2",
+        "day": "Friday",
+        "time": "10:30 AM - 1:00 PM",
+        "subject": "Introduction to Bioinformatics",
+        "teacher": "Dr. Maryam Mehmood",
+        "room": "CL-10",
+        "color": "blue",
+        "status": "Lab"
     },
     {
-      "id": "bcs2a-wednesday-1",
-      "day": "Wednesday",
-      "time": "8:30 AM - 10:30 AM",
-      "subject": "Introduction to Bioinformatics",
-      "teacher": "Dr. Maryam Mehmood",
-      "room": "Lab CL-10 (Class)",
-      "color": "green",
-      "status": "Lab"
+        "id": "b2a-friday-3",
+        "day": "Friday",
+        "time": "2:30 PM - 4:00 PM",
+        "subject": "Fehm-e-Quran II",
+        "teacher": "",
+        "room": "Seminar",
+        "color": "green",
+        "status": "Seminar"
+    },
+
+    {
+        "id": "b2a-saturday-1",
+        "day": "Saturday",
+        "time": "8:30 AM - 11:30 AM",
+        "subject": "Pre-Calculus II",
+        "teacher": "Dr. Tariq Hussain",
+        "room": "Room 207 (AB-1)",
+        "color": "pink",
+        "status": "For Pre-Medical Students"
     },
     {
-      "id": "bcs2a-wednesday-2",
-      "day": "Wednesday",
-      "time": "10:30 AM - 1:00 PM",
-      "subject": "Introduction to Bioinformatics",
-      "teacher": "Dr. Maryam Mehmood",
-      "room": "Lab CL-10",
-      "color": "green",
-      "status": "Lab"
+        "id": "b2a-saturday-2",
+        "day": "Saturday",
+        "time": "11:30 AM - 1:00 PM",
+        "subject": "Technical and Business Writing",
+        "teacher": "Dr. Maria Farooq",
+        "room": "Room 110 (AB-2)",
+        "color": "blue"
     },
     {
-      "id": "bcs2a-thursday-1",
-      "day": "Thursday",
-      "time": "8:30 AM - 11:30 AM",
-      "subject": "Pre-Calculus II (Only Pre-Medical)",
-      "teacher": "Dr. Tariq Hussain",
-      "room": "Room 207 (AB-1)",
-      "color": "pink"
-    },
-    {
-      "id": "bcs2a-thursday-2",
-      "day": "Thursday",
-      "time": "1:00 PM - 2:30 PM",
-      "subject": "Fehm-e-Quran II",
-      "teacher": "",
-      "room": "Seminar",
-      "color": "pink",
-      "status": "Friday 1430-1600"
-    },
-    {
-      "id": "bcs2a-friday-1",
-      "day": "Friday",
-      "time": "11:30 AM - 1:00 PM",
-      "subject": "Discrete Structures",
-      "teacher": "Mr. Haseeb ur Rehman",
-      "room": "Room 110 (AB-2)",
-      "color": "default"
-    },
-    {
-      "id": "bcs2a-friday-2",
-      "day": "Friday",
-      "time": "1:00 PM - 2:30 PM",
-      "subject": "Technical and Business Writing",
-      "teacher": "Dr. Maria Farooq",
-      "room": "Room 110 (AB-2)",
-      "color": "blue"
+        "id": "b2a-saturday-3",
+        "day": "Saturday",
+        "time": "1:00 PM - 2:30 PM",
+        "subject": "Discrete Structures",
+        "teacher": "Mr. Haseeb ur Rehman",
+        "room": "Room 110 (AB-2)",
+        "color": "green"
     }
-  ],
+],
+
   "BCS 2-B": [
     {
-      "id": "bcs2b-monday-1",
-      "day": "Monday",
-      "time": "1:00 PM - 2:30 PM",
-      "subject": "Technical and Business Writing",
-      "teacher": "Dr. Maria Farooq",
-      "room": "Room 107 (AB-2)",
-      "color": "blue"
-    },
-    {
-      "id": "bcs2b-monday-2",
-      "day": "Monday",
-      "time": "2:30 PM - 4:00 PM",
+      "id": "b2b-wednesday-1",
+      "day": "Wednesday",
+      "time": "12:30 PM - 2:30 PM",
       "subject": "Introduction to Bioinformatics",
       "teacher": "Dr. Maryam Mehmood",
       "room": "Room 111 (AB-2)",
+      "color": "blue"
+    },
+    {
+      "id": "b2b-wednesday-2",
+      "day": "Wednesday",
+      "time": "2:30 PM - 8:30 PM",
+      "subject": "Introduction to Bioinformatics",
+      "teacher": "Dr. Maryam Mehmood",
+      "room": "CL-14, 3rd Floor (AB-2)",
+      "color": "green",
+      "status": "Lab"
+    },
+    {
+      "id": "b2b-thursday-1",
+      "day": "Thursday",
+      "time": "1:00 PM - 2:30 PM",
+      "subject": "Technical and Business Writing",
+      "teacher": "Dr. Maria Farooq",
+      "room": "Room 107 (AB-2)",
+      "color": "pink"
+    },
+    {
+      "id": "b2b-thursday-2",
+      "day": "Thursday",
+      "time": "2:30 PM - 4:00 PM",
+      "subject": "Object Oriented Programming",
+      "teacher": "Dr. Yasir Munir",
+      "room": "Room 107 (AB-2)",
+      "color": "blue"
+    },
+    {
+      "id": "b2b-thursday-3",
+      "day": "Thursday",
+      "time": "4:00 PM - 5:30 PM",
+      "subject": "Discrete Structures",
+      "teacher": "Mr. Haseeb ur Rehman",
+      "room": "Room 107 (AB-2)",
       "color": "green"
     },
     {
-      "id": "bcs2b-monday-3",
-      "day": "Monday",
-      "time": "4:00 PM - 5:30 PM",
-      "subject": "Introduction to Bioinformatics",
-      "teacher": "Dr. Maryam Mehmood",
-      "room": "Lab CL-14 (AB-2) 3rd Floor",
-      "color": "green",
-      "status": "Lab"
-    },
-    {
-      "id": "bcs2b-tuesday-1",
-      "day": "Tuesday",
+      "id": "b2b-friday-1",
+      "day": "Friday",
       "time": "8:30 AM - 10:00 AM",
       "subject": "Object Oriented Programming",
       "teacher": "Dr. Yasir Munir",
-      "room": "Lab CL-8 (Class)",
-      "color": "blue",
-      "status": "Lab"
-    },
-    {
-      "id": "bcs2b-tuesday-2",
-      "day": "Tuesday",
-      "time": "10:00 AM - 1:00 PM",
-      "subject": "Object Oriented Programming",
-      "teacher": "Ms. Sajida Kalsoom",
-      "room": "Lab CL-8",
-      "color": "blue",
-      "status": "Lab"
-    },
-    {
-      "id": "bcs2b-tuesday-3",
-      "day": "Tuesday",
-      "time": "4:00 PM - 5:30 PM",
-      "subject": "Discrete Structures",
-      "teacher": "Mr. Haseeb ur Rehman",
-      "room": "Room 107 (AB-2)",
-      "color": "default"
-    },
-    {
-      "id": "bcs2b-wednesday-1",
-      "day": "Wednesday",
-      "time": "8:30 AM - 11:30 AM",
-      "subject": "Pre-Calculus II (Only Pre-Medical)",
-      "teacher": "Dr. Tariq Hussain",
-      "room": "Room 207 (AB-1)",
+      "room": "CL-8(class) (AB-2)",
       "color": "pink"
     },
     {
-      "id": "bcs2b-wednesday-2",
-      "day": "Wednesday",
-      "time": "1:00 PM - 2:30 PM",
-      "subject": "Fehm-e-Quran II",
-      "teacher": "",
-      "room": "Seminar",
-      "color": "pink",
-      "status": "Friday 1430-1600"
+      "id": "b2b-friday-2",
+      "day": "Friday",
+      "time": "10:00 AM - 1:00 PM",
+      "subject": "Object Oriented Programming",
+      "teacher": "Dr. Yasir Munir",
+      "room": "CL-8 (AB-2)",
+      "color": "blue",
+      "status": "Lab"
     },
     {
-      "id": "bcs2b-thursday-1",
-      "day": "Thursday",
+      "id": "b2b-friday-3",
+      "day": "Friday",
+      "time": "2:30 PM - 4:00 PM",
+      "subject": "Fehm-e-Quran II",
+      "teacher": "",
+      "room": "",
+      "color": "green",
+      "status": "Seminar"
+    },
+    {
+      "id": "b2b-saturday-1",
+      "day": "Saturday",
+      "time": "8:30 AM - 11:30 AM",
+      "subject": "Pre-Calculus II",
+      "teacher": "Dr. Tariq Hussain",
+      "room": "Room 207 (AB-1)",
+      "color": "pink",
+      "status": "For Pre-Medical Students"
+    },
+    {
+      "id": "b2b-saturday-2",
+      "day": "Saturday",
       "time": "11:30 AM - 1:00 PM",
       "subject": "Discrete Structures",
       "teacher": "Mr. Haseeb ur Rehman",
       "room": "Room 111 (AB-2)",
-      "color": "default"
+      "color": "blue"
     },
     {
-      "id": "bcs2b-friday-1",
-      "day": "Friday",
-      "time": "11:30 AM - 1:00 PM",
+      "id": "b2b-saturday-3",
+      "day": "Saturday",
+      "time": "1:00 PM - 2:30 PM",
       "subject": "Technical and Business Writing",
       "teacher": "Dr. Maria Farooq",
       "room": "Room 111 (AB-2)",
-      "color": "blue"
+      "color": "green"
     }
   ],
   "BSE 2": [
