@@ -1,17 +1,16 @@
 {
-  {
   "BCS 1-A": [
     {
-      "id": "bcs1a-monday-1",
+      "id": "b1a-monday-1",
       "day": "Monday",
       "time": "8:30 AM - 10:30 AM",
       "subject": "Applications of Information and Communication Technologies",
       "teacher": "Ms. Ayesha Hussain",
       "room": "Room 106 (AB-2)",
-      "color": "green"
+      "color": "pink"
     },
     {
-      "id": "bcs1a-monday-2",
+      "id": "b1a-monday-2",
       "day": "Monday",
       "time": "11:30 AM - 1:00 PM",
       "subject": "Programming Fundamentals",
@@ -20,513 +19,537 @@
       "color": "green"
     },
     {
-      "id": "bcs1a-tuesday-1",
+      "id": "b1a-tuesday-1",
       "day": "Tuesday",
       "time": "8:30 AM - 10:30 AM",
       "subject": "Fundamentals of International Relations",
-      "teacher": "Ms. Shazia Mehboob (VF)",
+      "teacher": "",
       "room": "Room 106 (AB-2)",
-      "color": "pink"
-    },
-    {
-      "id": "bcs1a-tuesday-2",
-      "day": "Tuesday",
-      "time": "11:30 AM - 1:00 PM",
-      "subject": "Programming Fundamentals",
-      "teacher": "Mr. Rizwan Rashid",
-      "room": "Room 107 (AB-2)",
-      "color": "green"
-    },
-    {
-      "id": "bcs1a-wednesday-1",
-      "day": "Wednesday",
-      "time": "8:30 AM - 11:30 AM",
-      "subject": "Pre-Calculus I (Only Pre-Medical)",
-      "teacher": "Dr. Fawad Ali",
-      "room": "Room G05 (AB-2)",
-      "color": "green"
-    },
-    {
-      "id": "bcs1a-thursday-1",
-      "day": "Thursday",
-      "time": "8:30 AM - 11:30 AM",
-      "subject": "Applications of Information and Communication Technologies",
-      "teacher": "Ms. Ayesha Hussain",
-      "room": "Lab CL-7 (AB-2 First Floor)",
-      "color": "green",
-      "status": "Lab"
-    },
-    {
-      "id": "bcs1a-thursday-2",
-      "day": "Thursday",
-      "time": "11:30 AM - 2:30 PM",
-      "subject": "Programming Fundamentals",
-      "teacher": "TA",
-      "room": "Lab CL-7 (AB-2 First Floor)",
-      "color": "green",
-      "status": "Lab"
-    },
-    {
-      "id": "bcs1a-friday-1",
-      "day": "Friday",
-      "time": "8:30 AM - 11:30 AM",
-      "subject": "Functional English",
-      "teacher": "Mr. Ali Naqi (VF)",
-      "room": "Room G-08 (AB-2)",
-      "color": "green"
-    },
-    {
-      "id": "bcs1a-friday-2",
-      "day": "Friday",
-      "time": "12:00 PM - 2:00 PM",
-      "subject": "Fehm ul Quran-I",
-      "teacher": "Dr. Zainab Sadiq",
-      "room": "Seminar",
-      "color": "green"
-    }
-  ],
-  "BCS 1-B": [
-    {
-      "id": "bcs1b-monday-1",
-      "day": "Monday",
-      "time": "8:30 AM - 10:00 AM",
-      "subject": "Programming Fundamentals",
-      "teacher": "Mr. Muzafar Iqbal",
-      "room": "Room 107 (AB-2)",
-      "color": "green"
-    },
-    {
-      "id": "bcs1b-monday-2",
-      "day": "Monday",
-      "time": "10:30 AM - 12:30 PM",
-      "subject": "Fundamentals of International Relations",
-      "teacher": "Mr. Attiq ur Rehman (VF)",
-      "room": "Room 106 (AB-2)",
-      "color": "pink"
-    },
-    {
-      "id": "bcs1b-tuesday-1",
-      "day": "Tuesday",
-      "time": "8:30 AM - 10:00 AM",
-      "subject": "Programming Fundamentals",
-      "teacher": "Mr. Muzafar Iqbal",
-      "room": "Room 107 (AB-2)",
-      "color": "green"
-    },
-    {
-      "id": "bcs1b-tuesday-2",
-      "day": "Tuesday",
-      "time": "10:30 AM - 12:30 PM",
-      "subject": "Applications of Information and Communication Technologies",
-      "teacher": "Ms. Ayesha Hussain",
-      "room": "Room 106 (AB-2)",
-      "color": "green"
-    },
-    {
-      "id": "bcs1b-wednesday-1",
-      "day": "Wednesday",
-      "time": "8:30 AM - 11:30 AM",
-      "subject": "Pre-Calculus I (Only Pre-Medical)",
-      "teacher": "Dr. Fawad Ali",
-      "room": "Room G05 (AB-2)",
-      "color": "green"
-    },
-    {
-      "id": "bcs1b-thursday-1",
-      "day": "Thursday",
-      "time": "8:30 AM - 11:30 AM",
-      "subject": "Programming Fundamentals",
-      "teacher": "TA",
-      "room": "Lab CL-8 (AB-2 First Floor)",
-      "color": "green",
-      "status": "Lab"
-    },
-    {
-      "id": "bcs1b-thursday-2",
-      "day": "Thursday",
-      "time": "11:30 AM - 2:30 PM",
-      "subject": "Applications of Information and Communication Technologies",
-      "teacher": "Ms. Waliya Fatima",
-      "room": "Lab CL-8 (AB-2 First Floor)",
-      "color": "green",
-      "status": "Lab"
-    },
-    {
-      "id": "bcs1b-friday-1",
-      "day": "Friday",
-      "time": "8:30 AM - 11:30 AM",
-      "subject": "Functional English",
-      "teacher": "Mr. Ali Naqi (VF)",
-      "room": "Room G-08 (AB-2)",
-      "color": "green"
-    },
-    {
-      "id": "bcs1b-friday-2",
-      "day": "Friday",
-      "time": "11:30 AM - 1:00 PM",
-      "subject": "Fehm ul Quran-I",
-      "teacher": "Dr. Zainab Sadiq",
-      "room": "Seminar",
-      "color": "green"
-    }
-  ],
-  "BSE 1": [
-    {
-      "id": "bse1-monday-1",
-      "day": "Monday",
-      "time": "8:30 AM - 11:30 AM",
-      "subject": "Pre-Calculus I (Only Pre-Medical)",
-      "teacher": "Dr. Iffat Jabeen",
-      "room": "Room G05 (AB-2)",
-      "color": "green"
-    },
-    {
-      "id": "bse1-tuesday-1",
-      "day": "Tuesday",
-      "time": "8:30 AM - 11:30 AM",
-      "subject": "Applications of Information and Communication Technologies",
-      "teacher": "Ms. Sana Nasir",
-      "room": "Lab CL-7 (AB-2 First Floor)",
-      "color": "green",
-      "status": "Lab"
-    },
-    {
-      "id": "bse1-tuesday-2",
-      "day": "Tuesday",
-      "time": "11:30 AM - 2:30 PM",
-      "subject": "Programming Fundamentals",
-      "teacher": "TA",
-      "room": "Lab CL-7 (AB-2 First Floor)",
-      "color": "green",
-      "status": "Lab"
-    },
-    {
-      "id": "bse1-wednesday-1",
-      "day": "Wednesday",
-      "time": "8:30 AM - 10:30 AM",
-      "subject": "Applications of Information and Communication Technologies",
-      "teacher": "Ms. Hilal Jan",
-      "room": "Room 106 (AB-2)",
-      "color": "green"
-    },
-    {
-      "id": "bse1-wednesday-2",
-      "day": "Wednesday",
-      "time": "11:30 AM - 1:00 PM",
-      "subject": "Programming Fundamentals",
-      "teacher": "Mr. Muzafar Iqbal",
-      "room": "Room 107 (AB-2)",
-      "color": "green"
-    },
-    {
-      "id": "bse1-thursday-1",
-      "day": "Thursday",
-      "time": "8:30 AM - 10:30 AM",
-      "subject": "Fundamentals of International Relations",
-      "teacher": "Mr. Attiq ur Rehman (VF)",
-      "room": "Room 106 (AB-2)",
-      "color": "pink"
-    },
-    {
-      "id": "bse1-thursday-2",
-      "day": "Thursday",
-      "time": "11:30 AM - 1:00 PM",
-      "subject": "Programming Fundamentals",
-      "teacher": "Mr. Muzafar Iqbal",
-      "room": "Room 107 (AB-2)",
-      "color": "green"
-    },
-    {
-      "id": "bse1-friday-1",
-      "day": "Friday",
-      "time": "8:30 AM - 11:30 AM",
-      "subject": "Functional English",
-      "teacher": "Mr. Ali Naqi (VF)",
-      "room": "Room G-05 (AB-2)",
-      "color": "green"
-    },
-    {
-      "id": "bse1-friday-2",
-      "day": "Friday",
-      "time": "12:00 PM - 2:00 PM",
-      "subject": "Fehm ul Quran-I",
-      "teacher": "Dr. Zainab Sadiq",
-      "room": "Seminar",
-      "color": "green"
-    }
-  ],
-  "BAI 1": [
-    {
-      "id": "bai1-monday-1",
-      "day": "Monday",
-      "time": "8:30 AM - 10:00 AM",
-      "subject": "Programming Fundamentals",
-      "teacher": "Mr. Umar Iqbal",
-      "room": "Room 110 (AB-2)",
-      "color": "green"
-    },
-    {
-      "id": "bai1-monday-2",
-      "day": "Monday",
-      "time": "10:30 AM - 12:30 PM",
-      "subject": "Applications of Information and Communication Technologies",
-      "teacher": "Mr. Umar Iqbal",
-      "room": "Room G-08",
-      "color": "green"
-    },
-    {
-      "id": "bai1-tuesday-1",
-      "day": "Tuesday",
-      "time": "8:30 AM - 10:00 AM",
-      "subject": "Programming Fundamentals",
-      "teacher": "Mr. Umar Iqbal",
-      "room": "Room 110 (AB-2)",
-      "color": "green"
-    },
-    {
-      "id": "bai1-tuesday-2",
-      "day": "Tuesday",
-      "time": "11:30 AM - 2:30 PM",
-      "subject": "Programming Fundamentals",
-      "teacher": "Prof. Dr. M. Manzoor Illahi Tamimy",
-      "room": "Lab CL-6 (AB-2 Ground Floor)",
-      "color": "green",
-      "status": "Lab"
-    },
-    {
-      "id": "bai1-wednesday-1",
-      "day": "Wednesday",
-      "time": "11:30 AM - 1:00 PM",
-      "subject": "Pre-Calculus I (Only Pre-Medical)",
-      "teacher": "Dr. Iffat Jabeen",
-      "room": "Room 107 (AB-1)",
-      "color": "green"
-    },
-    {
-      "id": "bai1-wednesday-2",
-      "day": "Wednesday",
-      "time": "1:00 PM - 2:30 PM",
-      "subject": "Pre-Calculus I (Only Pre-Medical)",
-      "teacher": "Dr. Iffat Jabeen",
-      "room": "Room 107 (AB-1)",
-      "color": "green"
-    },
-    {
-      "id": "bai1-thursday-1",
-      "day": "Thursday",
-      "time": "8:30 AM - 10:30 AM",
-      "subject": "Fundamentals of International Relations",
-      "teacher": "Ms. Shazia Mehboob (VF)",
-      "room": "Room 111 (AB-2)",
-      "color": "pink"
-    },
-    {
-      "id": "bai1-thursday-2",
-      "day": "Thursday",
-      "time": "11:30 AM - 2:30 PM",
-      "subject": "Applications of Information and Communication Technologies",
-      "teacher": "Mr. Umar Iqbal",
-      "room": "Lab CL-5 (AB-2 Ground Floor)",
-      "color": "green",
-      "status": "Lab"
-    },
-    {
-      "id": "bai1-friday-1",
-      "day": "Friday",
-      "time": "8:30 AM - 11:30 AM",
-      "subject": "Functional English",
-      "teacher": "Mr. Ali Naqi (VF)",
-      "room": "Room G-05 (AB-2)",
-      "color": "green"
-    },
-    {
-      "id": "bai1-friday-2",
-      "day": "Friday",
-      "time": "12:00 PM - 2:00 PM",
-      "subject": "Fehm ul Quran-I",
-      "teacher": "Dr. Zainab Sadiq",
-      "room": "Seminar",
-      "color": "green"
-    }
-  ],
-  "BDS 1": [
-    {
-      "id": "bds1-monday-1",
-      "day": "Monday",
-      "time": "8:30 AM - 11:30 AM",
-      "subject": "Pre-Calculus I (Only Pre-Medical)",
-      "teacher": "Dr. Iffat Jabeen",
-      "room": "Room G05 (AB-2)",
-      "color": "green"
-    },
-    {
-      "id": "bds1-tuesday-1",
-      "day": "Tuesday",
-      "time": "8:30 AM - 11:30 AM",
-      "subject": "Programming Fundamentals",
-      "teacher": "TA",
-      "room": "Lab CL-8 (AB-2 First Floor)",
-      "color": "green",
-      "status": "Lab"
-    },
-    {
-      "id": "bds1-tuesday-2",
-      "day": "Tuesday",
-      "time": "11:30 AM - 2:30 PM",
-      "subject": "Applications of Information and Communication Technologies",
-      "teacher": "Mr. Waqas Ali",
-      "room": "Lab CL-8 (AB-2 First Floor)",
-      "color": "green",
-      "status": "Lab"
-    },
-    {
-      "id": "bds1-wednesday-1",
-      "day": "Wednesday",
-      "time": "10:00 AM - 11:30 AM",
-      "subject": "Programming Fundamentals",
-      "teacher": "Mr. Rizwan Rashid",
-      "room": "Room 107 (AB-2)",
-      "color": "green"
-    },
-    {
-      "id": "bds1-wednesday-2",
-      "day": "Wednesday",
-      "time": "12:30 PM - 2:30 PM",
-      "subject": "Applications of Information and Communication Technologies",
-      "teacher": "Mr. Waqas Ali",
-      "room": "Room 106 (AB-2)",
-      "color": "green"
-    },
-    {
-      "id": "bds1-thursday-1",
-      "day": "Thursday",
-      "time": "10:00 AM - 11:30 AM",
-      "subject": "Programming Fundamentals",
-      "teacher": "Mr. Rizwan Rashid",
-      "room": "Room 107 (AB-2)",
-      "color": "green"
-    },
-    {
-      "id": "bds1-thursday-2",
-      "day": "Thursday",
-      "time": "12:30 PM - 2:30 PM",
-      "subject": "Fundamentals of International Relations",
-      "teacher": "Ms. Shazia Mehboob (VF)",
-      "room": "Room 106 (AB-2)",
-      "color": "pink"
-    },
-    {
-      "id": "bds1-friday-1",
-      "day": "Friday",
-      "time": "8:30 AM - 11:30 AM",
-      "subject": "Functional English",
-      "teacher": "Mr. Ali Naqi (VF)",
-      "room": "Room G-06 (AB-2)",
-      "color": "green"
-    },
-    {
-      "id": "bds1-friday-2",
-      "day": "Friday",
-      "time": "12:00 PM - 2:00 PM",
-      "subject": "Fehm ul Quran-I",
-      "teacher": "Dr. Zainab Sadiq",
-      "room": "Seminar",
-      "color": "green"
-    }
-  ],
-  "BCT 1": [
-    {
-      "id": "bct1-monday-1",
-      "day": "Monday",
-      "time": "10:00 AM - 11:30 AM",
-      "subject": "Programming Fundamentals",
-      "teacher": "Ms. Asma Khalid Butt",
-      "room": "Room 107 (AB-2)",
-      "color": "green"
-    },
-    {
-      "id": "bct1-monday-2",
-      "day": "Monday",
-      "time": "12:30 PM - 2:30 PM",
-      "subject": "Fundamentals of International Relations",
-      "teacher": "Mr. Attiq ur Rehman (VF)",
-      "room": "Room 106 (AB-2)",
-      "color": "pink"
-    },
-    {
-      "id": "bct1-tuesday-1",
-      "day": "Tuesday",
-      "time": "10:00 AM - 11:30 AM",
-      "subject": "Programming Fundamentals",
-      "teacher": "Ms. Asma Khalid Butt",
-      "room": "Room 107 (AB-2)",
-      "color": "green"
-    },
-    {
-      "id": "bct1-tuesday-2",
-      "day": "Tuesday",
-      "time": "12:30 PM - 2:30 PM",
-      "subject": "Applications of Information and Communication Technologies",
-      "teacher": "Haseena Kainat",
-      "room": "Room 106 (AB-2)",
-      "color": "green"
-    },
-    {
-      "id": "bct1-wednesday-1",
-      "day": "Wednesday",
-      "time": "11:30 AM - 1:00 PM",
-      "subject": "Pre-Calculus I (Only Pre-Medical)",
-      "teacher": "Dr. Iffat Jabeen",
-      "room": "Room 107 (AB-1)",
-      "color": "green"
-    },
-    {
-      "id": "bct1-wednesday-2",
-      "day": "Wednesday",
-      "time": "1:00 PM - 2:30 PM",
-      "subject": "Pre-Calculus I (Only Pre-Medical)",
-      "teacher": "Dr. Iffat Jabeen",
-      "room": "Room 107 (AB-1)",
-      "color": "green"
-    },
-    {
-      "id": "bct1-thursday-1",
-      "day": "Thursday",
-      "time": "8:30 AM - 11:30 AM",
-      "subject": "Programming Fundamentals",
-      "teacher": "TA",
-      "room": "Lab CL-11 (AB-2 Third Floor)",
-      "color": "green",
-      "status": "Lab"
-    },
-    {
-      "id": "bct1-thursday-2",
-      "day": "Thursday",
-      "time": "11:30 AM - 2:30 PM",
-      "subject": "Fundamentals of International Relations (con'd)",
-      "teacher": "Mr. Attiq ur Rehman (VF)",
-      "room": "Lab CL-11 (AB-2 Third Floor)",
       "color": "blue"
     },
     {
-      "id": "bct1-friday-1",
-      "day": "Friday",
+      "id": "b1a-tuesday-2",
+      "day": "Tuesday",
+      "time": "11:30 AM - 1:00 PM",
+      "subject": "Programming Fundamentals",
+      "teacher": "Mr. Rizwan Rashid",
+      "room": "Room 107 (AB-2)",
+      "color": "pink"
+    },
+    {
+      "id": "b1a-wednesday-1",
+      "day": "Wednesday",
+      "time": "8:30 AM - 11:30 AM",
+      "subject": "Pre Calculus 1",
+      "teacher": "Dr. Fawad Ali",
+      "room": "Room G-05 (AB-2)",
+      "color": "blue"
+    },
+    {
+      "id": "b1a-thursday-1",
+      "day": "Thursday",
+      "time": "8:30 AM - 11:30 AM",
+      "subject": "Applications of Information and Communication Technologies",
+      "teacher": "Ms. Walia Fatima",
+      "room": "Lab CL-7 (AB-2 First Floor)",
+      "color": "pink",
+      "status": "Lab"
+      
+    },
+    {
+      "id": "b1a-thursday-2",
+      "day": "Thursday",
+      "time": "11:30 AM - 2:30 PM",
+      "subject": "Programming Fundamentals",
+      "teacher": "",
+      "room": "Lab CL-7 (AB-2 First Floor)",
+      "color": "blue",
+      "status": "Lab"
+    },
+    {
+      "id": "b1a-saturday-1",
+      "day": "Saturday",
       "time": "8:30 AM - 11:30 AM",
       "subject": "Functional English",
-      "teacher": "Mr. Ali Naqi (VF)",
-      "room": "Room G-06 (AB-2)",
+      "teacher": "Ms. Saira Ali Hussain",
+      "room": "Room G-08 (AB-2)",
       "color": "green"
     },
     {
-      "id": "bct1-friday-2",
-      "day": "Friday",
+      "id": "b1a-saturday-2",
+      "day": "Saturday",
       "time": "12:00 PM - 2:00 PM",
-      "subject": "Fehm ul Quran-I",
+      "subject": "Fehm-e-Quran I",
       "teacher": "Dr. Zainab Sadiq",
       "room": "Seminar",
+      "color": "blue"
+    }
+
+  ],
+  "BCS 1-B": [
+    {
+      "id": "b2b-monday-1",
+      "day": "Monday",
+      "time": "8:30 AM - 10:00 AM",
+      "subject": "Programming Fundamentals",
+      "teacher": "Mr. Khurram Iqbal",
+      "room": "Room 107 (AB-2)",
+      "color": "default"
+    },
+    {
+      "id": "b2b-monday-2",
+      "day": "Monday",
+      "time": "10:30 AM - 12:30 PM",
+      "subject": "Fundamentals of International Relations",
+      "teacher": "",
+      "room": "Room 106 (AB-2)",
+      "color": "blue"
+    },
+    {
+      "id": "b2b-tuesday-1",
+      "day": "Tuesday",
+      "time": "8:30 AM - 10:00 AM",
+      "subject": "Programming Fundamentals",
+      "teacher": "Mr. Khurram Iqbal",
+      "room": "Room 107 (AB-2)",
+      "color": "default"
+    },
+    {
+      "id": "b2b-tuesday-2",
+      "day": "Tuesday",
+      "time": "10:30 AM - 12:30 PM",
+      "subject": "Applications of Information and Communication Technologies",
+      "teacher": "Ms. Walia Fatima",
+      "room": "Room 106 (AB-2)",
+      "color": "blue"
+    },
+    {
+      "id": "b1b-wednesday-1",
+      "day": "Wednesday",
+      "time": "8:30 AM - 11:30 AM",
+      "subject": "Pre Calculus 1",
+      "teacher": "Dr. Fawad Ali",
+      "room": "Room G-05 (AB-2)",
+      "color": "blue"
+    },
+    {
+      "id": "b1b-thursday-1",
+      "day": "Thursday",
+      "time": "8:30 AM - 11:30 AM",
+      "subject": "Programming Fundamentals",
+      "teacher": "",
+      "room": "Lab CL-8 (AB-2 First Floor)",
+      "color": "pink",
+      "status": "Lab"
+      
+    },
+    {
+      "id": "b1b-thursday-2",
+      "day": "Thursday",
+      "time": "11:30 AM - 2:30 PM",
+      "subject": "Applications of Information and Communication Technologies",
+      "teacher": "",
+      "room": "Lab CL-8 (AB-2 First Floor)",
+      "color": "blue",
+      "status": "Lab"
+    },
+    {
+      "id": "b1b-saturday-1",
+      "day": "Saturday",
+      "time": "8:30 AM - 11:30 AM",
+      "subject": "Functional English",
+      "teacher": "Ms. Saira Ali Hussain",
+      "room": "Room G-08 (AB-2)",
       "color": "green"
+    },
+    {
+      "id": "b1b-saturday-2",
+      "day": "Saturday",
+      "time": "11:30 AM - 1:00 PM",
+      "subject": "Fehm-e-Quran I",
+      "teacher": "Dr. Zainab Sadiq",
+      "room": "Seminar",
+      "color": "blue"
     }
   ],
+  "BSE 1": [
+        {
+          "id": "bse 1-monday-1",
+          "day": "Monday",
+          "time": "08:30 AM - 10:00 AM",
+          "subject": "MTH091 - Pre-Calculus I",
+          "teacher": "Dr. Waj Jabeen",
+          "room": "G05 (AB-2)",
+          "color": "cyan",
+          "status": "Only for Pre-Medical"
+        },
+        {
+          "id": "bse 1-monday-2",
+          "day": "Monday",
+          "time": "10:00 AM - 11:30 AM",
+          "subject": "MTH091 - Pre-Calculus I",
+          "teacher": "Dr. Waj Jabeen",
+          "room": "G05 (AB-2)",
+          "color": "cyan",
+          "status": "Only for Pre-Medical"
+        },
+        {
+          "id": "bse 1-tuesday-3",
+          "day": "Tuesday",
+          "time": "08:30 AM - 11:30 AM",
+          "subject": "CSC101 - Applications of Information and Communication Technologies",
+          "teacher": "Ms. Sara Nasir",
+          "room": "CL-7 (AB-2 First Floor)",
+          "color": "blue",
+          "status": "Lab"
+        },
+        {
+          "id": "bse 1-tuesday-4",
+          "day": "Tuesday",
+          "time": "11:30 AM - 01:30 PM",
+          "subject": "CSC103 - Programming Fundamentals",
+          "teacher": "TA",
+          "room": "CL-7 (AB-2 First Floor)",
+          "color": "purple",
+          "status": "Lab"
+        },
+        {
+          "id": "bse 1-wednesday-5",
+          "day": "Wednesday",
+          "time": "08:30 AM - 10:00 AM",
+          "subject": "CSC101 - Applications of Information and Communication Technologies",
+          "teacher": "Ms. Hifil Jan",
+          "room": "106 (AB-2)",
+          "color": "blue"
+        },
+        {
+          "id": "bse 1-wednesday-6",
+          "day": "Wednesday",
+          "time": "11:30 AM - 01:30 PM",
+          "subject": "CSC103 - Programming Fundamentals",
+          "teacher": "Mr. Muzaffar Iqbal",
+          "room": "107 (AB-2)",
+          "color": "purple"
+        },
+        {
+          "id": "bse 1-thursday-7",
+          "day": "Thursday",
+          "time": "08:30 AM - 10:00 AM",
+          "subject": "HUM222 - Fundamentals of International Relations",
+          "teacher": "Mr. Atiq ur Rehman (VF)",
+          "room": "106 (AB-2)",
+          "color": "orange"
+        },
+        {
+          "id": "bse 1-thursday-8",
+          "day": "Thursday",
+          "time": "11:30 AM - 01:30 PM",
+          "subject": "CSC103 - Programming Fundamentals",
+          "teacher": "Mr. Muzaffar Iqbal",
+          "room": "107 (AB-2)",
+          "color": "purple"
+        },
+        {
+          "id": "bse 1-saturday-9",
+          "day": "Saturday",
+          "time": "08:30 AM - 11:30 AM",
+          "subject": "HUM104 - Functional English",
+          "teacher": "Mr. Ali Nagi (VF)",
+          "room": "G-05 (AB-2)",
+          "color": "green"
+        },
+        {
+          "id": "bse 1-saturday-10",
+          "day": "Saturday",
+          "time": "12:00 PM - 02:00 PM",
+          "subject": "HUM161 - Fehm-e-Quran I",
+          "teacher": "Dr. Zainab Sadiq",
+          "room": "Seminar",
+          "color": "teal",
+          "status": "Seminar"
+        }
+      ],
+    "BAI 1":  [
+        {
+          "id": "bai 1-monday-1",
+          "day": "Monday",
+          "time": "08:30 AM - 10:00 AM",
+          "subject": "CSC103 - Programming Fundamentals",
+          "teacher": "Prof. Dr. M. Manzoor Ashraf Tamimy",
+          "room": "110 (AB-2)",
+          "color": "purple"
+        },
+        {
+          "id": "bai 1-monday-2",
+          "day": "Monday",
+          "time": "10:30 AM - 12:30 PM",
+          "subject": "CSC101 - Applications of Information and Communication Technologies",
+          "teacher": "Mr. Umar Iqbal",
+          "room": "G-08",
+          "color": "blue"
+        },
+        {
+          "id": "bai 1-tuesday-3",
+          "day": "Tuesday",
+          "time": "08:30 AM - 10:00 AM",
+          "subject": "CSC103 - Programming Fundamentals",
+          "teacher": "Prof. Dr. M. Manzoor Ashraf Tamimy",
+          "room": "110 (AB-2)",
+          "color": "purple"
+        },
+        {
+          "id": "bai 1-tuesday-4",
+          "day": "Tuesday",
+          "time": "11:30 AM - 01:30 PM",
+          "subject": "CSC103 - Programming Fundamentals",
+          "teacher": "Prof. Dr. M. Manzoor Ashraf Tamimy",
+          "room": "CL-6 (AB-2 Ground Floor)",
+          "color": "purple",
+          "status": "Lab"
+        },
+        {
+          "id": "bai 1-wednesday-5",
+          "day": "Wednesday",
+          "time": "11:30 AM - 01:30 PM",
+          "subject": "MTH091 - Pre-Calculus I",
+          "teacher": "Dr. Waj Jabeen",
+          "room": "107 (AB-1)",
+          "color": "cyan",
+          "status": "Only for Pre-Medical"
+        },
+        {
+          "id": "bai 1-thursday-6",
+          "day": "Thursday",
+          "time": "08:30 AM - 10:00 AM",
+          "subject": "HUM222 - Fundamentals of International Relations",
+          "teacher": "Ms. Shazia Mehmood (VF)",
+          "room": "111 (AB-2)",
+          "color": "orange"
+        },
+        {
+          "id": "bai 1-thursday-7",
+          "day": "Thursday",
+          "time": "11:30 AM - 01:30 PM",
+          "subject": "CSC101 - Applications of Information and Communication Technologies",
+          "teacher": "Mr. Umar Iqbal",
+          "room": "CL-5 (AB-2 Ground Floor)",
+          "color": "blue",
+          "status": "Lab"
+        },
+        {
+          "id": "bai 1-saturday-8",
+          "day": "Saturday",
+          "time": "08:30 AM - 11:30 AM",
+          "subject": "HUM104 - Functional English",
+          "teacher": "Mr. Ali Nagi (VF)",
+          "room": "G-05 (AB-2)",
+          "color": "green"
+        },
+        {
+          "id": "bai 1-saturday-9",
+          "day": "Saturday",
+          "time": "12:00 PM - 02:00 PM",
+          "subject": "HUM161 - Fehm-e-Quran I",
+          "teacher": "Dr. Zainab Sadiq",
+          "room": "Seminar",
+          "color": "teal",
+          "status": "Seminar"
+        }
+      ],
+    "BDS 1":  [
+        {
+          "id": "bds 1-monday-1",
+          "day": "Monday",
+          "time": "08:30 AM - 10:00 AM",
+          "subject": "MTH091 - Pre-Calculus I",
+          "teacher": "Dr. Waj Jabeen",
+          "room": "G05 (AB-2)",
+          "color": "cyan",
+          "status": "Only for Pre-Medical"
+        },
+        {
+          "id": "bds 1-monday-2",
+          "day": "Monday",
+          "time": "10:00 AM - 11:30 AM",
+          "subject": "MTH091 - Pre-Calculus I",
+          "teacher": "Dr. Waj Jabeen",
+          "room": "G05 (AB-2)",
+          "color": "cyan",
+          "status": "Only for Pre-Medical"
+        },
+        {
+          "id": "bds 1-tuesday-3",
+          "day": "Tuesday",
+          "time": "08:30 AM - 11:30 AM",
+          "subject": "CSC103 - Programming Fundamentals",
+          "teacher": "Mr. Rizwan Rashid",
+          "room": "CL-8 (AB-2 First Floor)",
+          "color": "purple",
+          "status": "Lab"
+        },
+        {
+          "id": "bds 1-tuesday-4",
+          "day": "Tuesday",
+          "time": "11:30 AM - 02:30 PM",
+          "subject": "CSC101 - Applications of Information and Communication Technologies",
+          "teacher": "Mr. Waqas Ali",
+          "room": "CL-8 (AB-2 First Floor)",
+          "color": "blue",
+          "status": "Lab"
+        },
+        {
+          "id": "bds 1-wednesday-5",
+          "day": "Wednesday",
+          "time": "10:00 AM - 11:30 AM",
+          "subject": "CSC103 - Programming Fundamentals",
+          "teacher": "Mr. Rizwan Rashid",
+          "room": "107 (AB-2)",
+          "color": "purple"
+        },
+        {
+          "id": "bds 1-wednesday-6",
+          "day": "Wednesday",
+          "time": "12:30 PM - 02:30 PM",
+          "subject": "CSC101 - Applications of Information and Communication Technologies",
+          "teacher": "Mr. Waqas Ali",
+          "room": "106 (AB-2)",
+          "color": "blue"
+        },
+        {
+          "id": "bds 1-thursday-7",
+          "day": "Thursday",
+          "time": "10:00 AM - 11:30 AM",
+          "subject": "CSC103 - Programming Fundamentals",
+          "teacher": "Mr. Rizwan Rashid",
+          "room": "107 (AB-2)",
+          "color": "purple"
+        },
+        {
+          "id": "bds 1-thursday-8",
+          "day": "Thursday",
+          "time": "12:30 PM - 02:30 PM",
+          "subject": "HUM222 - Fundamentals of International Relations",
+          "teacher": "Mr. Shazia Mehmood (VF)",
+          "room": "106 (AB-2)",
+          "color": "orange"
+        },
+        {
+          "id": "bds 1-saturday-9",
+          "day": "Saturday",
+          "time": "08:30 AM - 11:30 AM",
+          "subject": "HUM104 - Functional English",
+          "teacher": "Mr. Ali Nagi (VF)",
+          "room": "G-06 (AB-2)",
+          "color": "green"
+        },
+        {
+          "id": "bds 1-saturday-10",
+          "day": "Saturday",
+          "time": "12:00 PM - 02:00 PM",
+          "subject": "HUM161 - Fehm-e-Quran I",
+          "teacher": "Dr. Zainab Sadiq",
+          "room": "Seminar",
+          "color": "teal",
+          "status": "Seminar"
+        }
+      ],
+    "BCT 1":  [
+        {
+          "id": "bct 1-monday-1",
+          "day": "Monday",
+          "time": "10:00 AM - 11:30 AM",
+          "subject": "CSC103 - Programming Fundamentals",
+          "teacher": "Ms. Asma Khalid Butt",
+          "room": "107 (AB-2)",
+          "color": "purple"
+        },
+        {
+          "id": "bct 1-monday-2",
+          "day": "Monday",
+          "time": "12:30 PM - 02:30 PM",
+          "subject": "HUM222 - Fundamentals of International Relations",
+          "teacher": "Mr. Atiq ur Rehman (VF)",
+          "room": "106 (AB-2)",
+          "color": "orange"
+        },
+        {
+          "id": "bct 1-tuesday-3",
+          "day": "Tuesday",
+          "time": "10:00 AM - 11:30 AM",
+          "subject": "CSC103 - Programming Fundamentals",
+          "teacher": "Ms. Asma Khalid Butt",
+          "room": "107 (AB-2)",
+          "color": "purple"
+        },
+        {
+          "id": "bct 1-tuesday-4",
+          "day": "Tuesday",
+          "time": "12:30 PM - 02:30 PM",
+          "subject": "CSC101 - Applications of Information and Communication Technologies",
+          "teacher": "Ms. Haseena Kainat",
+          "room": "106 (AB-2)",
+          "color": "blue"
+        },
+        {
+          "id": "bct 1-wednesday-5",
+          "day": "Wednesday",
+          "time": "11:30 AM - 01:30 PM",
+          "subject": "MTH091 - Pre-Calculus I",
+          "teacher": "Dr. Waj Jabeen",
+          "room": "107 (AB-1)",
+          "color": "cyan",
+          "status": "Only for Pre-Medical"
+        },
+        {
+          "id": "bct 1-wednesday-6",
+          "day": "Wednesday",
+          "time": "01:30 PM - 02:30 PM",
+          "subject": "MTH091 - Pre-Calculus I",
+          "teacher": "Dr. Waj Jabeen",
+          "room": "107 (AB-1)",
+          "color": "cyan",
+          "status": "Only for Pre-Medical"
+        },
+        {
+          "id": "bct 1-thursday-7",
+          "day": "Thursday",
+          "time": "08:30 AM - 11:30 AM",
+          "subject": "CSC103 - Programming Fundamentals",
+          "teacher": "TA",
+          "room": "CL-11 (AB-2 Third Floor)",
+          "color": "purple",
+          "status": "Lab"
+        },
+        {
+          "id": "bct 1-thursday-8",
+          "day": "Thursday",
+          "time": "11:30 AM - 02:30 PM",
+          "subject": "HUM222 - Fundamentals of International Relations",
+          "teacher": "Mr. Atiq ur Rehman (VF)",
+          "room": "CL-11 (AB-2 Third Floor)",
+          "color": "orange"
+        },
+        {
+          "id": "bct 1-saturday-9",
+          "day": "Saturday",
+          "time": "08:30 AM - 11:30 AM",
+          "subject": "HUM104 - Functional English",
+          "teacher": "Mr. Ali Nagi (VF)",
+          "room": "G-06 (AB-2)",
+          "color": "green"
+        },
+        {
+          "id": "bct 1-saturday-10",
+          "day": "Saturday",
+          "time": "12:00 PM - 02:00 PM",
+          "subject": "HUM161 - Fehm-e-Quran I",
+          "teacher": "Dr. Zainab Sadiq",
+          "room": "Seminar",
+          "color": "teal",
+          "status": "Seminar"
+        }
+    ],
+
   "BCS 2-A": [
     {
         "id": "b2a-wednesday-1",
@@ -743,99 +766,89 @@
   ],
   "BSE 2": [
     {
-      "id": "bse2-monday-1",
-      "day": "Monday",
+      "id": "bse2-tuesday-1",
+      "day": "Tuesday",
       "time": "2:30 PM - 4:00 PM",
       "subject": "Discrete Structures",
       "teacher": "Dr. Saira Beg",
-      "room": "Room G07 (AB-2)",
-      "color": "default"
-    },
-    {
-      "id": "bse2-monday-2",
-      "day": "Monday",
-      "time": "4:00 PM - 5:30 PM",
-      "subject": "Technical and Business Writing",
-      "teacher": "Mr. Mehmood-ul Hassan",
-      "room": "Room G07 (AB-2)",
-      "color": "blue"
-    },
-    {
-      "id": "bse2-tuesday-1",
-      "day": "Tuesday",
-      "time": "8:30 AM - 10:30 AM",
-      "subject": "Object Oriented Programming",
-      "teacher": "Mr. Muzafar Iqbal",
-      "room": "Room G05 (AB-2)",
-      "color": "blue"
-    },
-    {
-      "id": "bse2-tuesday-2",
-      "day": "Tuesday",
-      "time": "10:30 AM - 1:00 PM",
-      "subject": "Object Oriented Programming",
-      "teacher": "TA",
-      "room": "Lab CL-10",
-      "color": "blue",
-      "status": "Lab"
+      "room": "Room G-07 (AB-2)",
+      "color": "green"
     },
     {
       "id": "bse2-wednesday-1",
       "day": "Wednesday",
-      "time": "8:30 AM - 11:30 AM",
-      "subject": "Technical and Business Writing",
-      "teacher": "Mr. Mehmood-ul Hassan",
-      "room": "Room G08 (AB-2)",
-      "color": "blue"
-    },
-    {
-      "id": "bse2-wednesday-2",
-      "day": "Wednesday",
-      "time": "11:30 AM - 2:30 PM",
+      "time": "2:30 PM - 4:00 PM",
       "subject": "Object Oriented Programming",
-      "teacher": "TA",
-      "room": "Lab G08 (AB-2)",
-      "color": "blue",
-      "status": "Lab"
+      "teacher": "Mr. Muzaffar Iqbal",
+      "room": "Room G-05 (AB-2)",
+      "color": "blue"
     },
     {
       "id": "bse2-thursday-1",
       "day": "Thursday",
-      "time": "8:30 AM - 11:30 AM",
-      "subject": "Introduction to Bioinformatics",
-      "teacher": "Dr. Farhan Haq",
-      "room": "Lab CL-14 (Class)",
-      "color": "green",
-      "status": "Lab"
+      "time": "2:30 PM - 4:00 PM",
+      "subject": "Technical and Business Writing",
+      "teacher": "Mr. Mehmood-ul-Hassan",
+      "room": "Room G-08 (AB-2)",
+      "color": "green"
     },
     {
       "id": "bse2-thursday-2",
       "day": "Thursday",
-      "time": "11:30 AM - 2:30 PM",
-      "subject": "Introduction to Bioinformatics",
-      "teacher": "Dr. Farhan Haq",
-      "room": "Lab CL-14 (AB-2) 3rd Floor",
-      "color": "green",
-      "status": "Lab"
+      "time": "4:00 PM - 5:30 PM",
+      "subject": "Object Oriented Programming",
+      "teacher": "Mr. Muzaffar Iqbal",
+      "room": "Room G-08 (AB-2)",
+      "color": "blue"
     },
     {
       "id": "bse2-friday-1",
       "day": "Friday",
-      "time": "8:30 AM - 11:30 AM",
-      "subject": "Pre-Calculus II (Only Pre-Medical)",
-      "teacher": "Dr. Tariq Hussain",
-      "room": "Room 207 (AB-1)",
+      "time": "8:30 AM - 10:30 AM",
+      "subject": "Introduction to Bioinformatics",
+      "teacher": "Dr. Farhan Haq",
+      "room": "CL-14 (Class)",
       "color": "pink"
     },
     {
       "id": "bse2-friday-2",
       "day": "Friday",
+      "time": "10:30 AM - 1:00 PM",
+      "subject": "Introduction to Bioinformatics",
+      "teacher": "Dr. Farhan Haq",
+      "room": "CL-14 (AB-2) 3rd Floor",
+      "color": "blue",
+      "status": "Lab"
+    },
+    {
+      "id": "bse2-friday-3",
+      "day": "Friday",
       "time": "2:30 PM - 4:00 PM",
       "subject": "Fehm-e-Quran II",
-      "teacher": "",
-      "room": "Friday (1430 - 1600)",
+      "teacher": "Dr. Ume Farwa",
+      "room": "Online Classes",
+      "color": "teal",
+      "status": "Online Class"
+    },
+    {
+      "id": "bse2-saturday-1",
+      "day": "Saturday",
+      "time": "8:30 AM - 11:30 AM",
+      "subject": "Object Oriented Programming",
+      "teacher": "TA",
+      "room": "CL-10",
+      "color": "green",
+      "status": "Lab"
+    },
+    {
+      "id": "bse2-saturday-2",
+      "day": "Saturday",
+      "time": "11:30 AM - 2:30 PM",
+      "subject": "Pre-Calculus II",
+      "teacher": "Dr. Tariq Hussain",
+      "room": "Room 207 (AB-1)",
       "color": "pink",
-      "status": "Friday 1430-1600"
+      "status": "For Pre-Medical Students"
     }
   ],
   "BAI 2": [
@@ -845,8 +858,8 @@
       "time": "12:30 PM - 2:30 PM",
       "subject": "Introduction to Bioinformatics",
       "teacher": "Dr. Hassan Mehboob",
-      "room": "Room G07 (AB-2)",
-      "color": "green"
+      "room": "Room G-07 (AB-2)",
+      "color": "pink"
     },
     {
       "id": "bai2-monday-2",
@@ -854,27 +867,28 @@
       "time": "2:30 PM - 5:30 PM",
       "subject": "Introduction to Bioinformatics",
       "teacher": "Dr. Hassan Mehboob",
-      "room": "Lab CL-14 (AB-2) 3rd Floor",
-      "color": "green",
+      "room": "CL-14 (AB-2) 3rd Floor",
+      "color": "blue",
       "status": "Lab"
     },
     {
       "id": "bai2-tuesday-1",
       "day": "Tuesday",
-      "time": "8:30 AM - 10:00 AM",
-      "subject": "Pre-Calculus II (Only Pre-Medical)",
+      "time": "8:30 AM - 11:30 AM",
+      "subject": "Pre-Calculus II",
       "teacher": "Dr. Zahoor Shah",
-      "room": "Room G05 (AB-2)",
-      "color": "pink"
+      "room": "Room G-05 (AB-2)",
+      "color": "pink",
+      "status": "For Pre-Medical Students"
     },
     {
       "id": "bai2-tuesday-2",
       "day": "Tuesday",
       "time": "11:30 AM - 2:30 PM",
       "subject": "Object Oriented Programming",
-      "teacher": "Ms. Sajida Kalsoom",
-      "room": "Lab CL-14 (AB-2) 3rd Floor",
-      "color": "blue",
+      "teacher": "Ms. Sajida Kalsom",
+      "room": "CL-14 (AB-2) 3rd Floor",
+      "color": "green",
       "status": "Lab"
     },
     {
@@ -882,8 +896,8 @@
       "day": "Wednesday",
       "time": "8:30 AM - 10:00 AM",
       "subject": "Object Oriented Programming",
-      "teacher": "Ms. Sajida Kalsoom",
-      "room": "Room G06 (AB-2)",
+      "teacher": "Ms. Sajida Kalsom",
+      "room": "Room G-06 (AB-2)",
       "color": "blue"
     },
     {
@@ -891,26 +905,26 @@
       "day": "Wednesday",
       "time": "10:00 AM - 11:30 AM",
       "subject": "Discrete Structures",
-      "teacher": "Dr. Sheneela Naz",
-      "room": "Room G06 (AB-2)",
-      "color": "default"
+      "teacher": "Dr. Sheenela Naz",
+      "room": "Room G-06 (AB-2)",
+      "color": "green"
     },
     {
       "id": "bai2-thursday-1",
       "day": "Thursday",
       "time": "8:30 AM - 10:00 AM",
       "subject": "Discrete Structures",
-      "teacher": "Dr. Sheneela Naz",
-      "room": "Room G07 (AB-2)",
-      "color": "default"
+      "teacher": "Dr. Sheenela Naz",
+      "room": "Room G-07 (AB-2)",
+      "color": "green"
     },
     {
       "id": "bai2-thursday-2",
       "day": "Thursday",
       "time": "10:00 AM - 11:30 AM",
       "subject": "Technical and Business Writing",
-      "teacher": "Mr. Mehmood-ul Hassan",
-      "room": "Room G07 (AB-2)",
+      "teacher": "Mr. Mehmood-ul-Hassan",
+      "room": "Room G-07 (AB-2)",
       "color": "blue"
     },
     {
@@ -918,7 +932,7 @@
       "day": "Friday",
       "time": "8:30 AM - 10:00 AM",
       "subject": "Technical and Business Writing",
-      "teacher": "Mr. Mehmood-ul Hassan",
+      "teacher": "Mr. Mehmood-ul-Hassan",
       "room": "Room 212 (AB-2)",
       "color": "blue"
     },
@@ -927,9 +941,19 @@
       "day": "Friday",
       "time": "10:00 AM - 11:30 AM",
       "subject": "Object Oriented Programming",
-      "teacher": "Ms. Sajida Kalsoom",
+      "teacher": "Ms. Sajida Kalsom",
       "room": "Room 212 (AB-2)",
-      "color": "blue"
+      "color": "pink"
+    },
+    {
+      "id": "bai2-friday-3",
+      "day": "Friday",
+      "time": "2:30 PM - 4:00 PM",
+      "subject": "Fehm-e-Quran II",
+      "teacher": "Dr. Ume Farwa",
+      "room": "Online Classes",
+      "color": "teal",
+      "status": "Online Class"
     }
   ],
   "BDS 2": [
@@ -940,14 +964,14 @@
       "subject": "Discrete Structures",
       "teacher": "Dr. Saira Beg",
       "room": "Room 109",
-      "color": "default"
+      "color": "green"
     },
     {
       "id": "bds2-monday-2",
       "day": "Monday",
       "time": "1:00 PM - 2:30 PM",
       "subject": "Technical and Business Writing",
-      "teacher": "Ms. Saira Ali Husnain",
+      "teacher": "Ms. Saira Ali Hussain",
       "room": "Room 109",
       "color": "blue"
     },
@@ -955,10 +979,11 @@
       "id": "bds2-tuesday-1",
       "day": "Tuesday",
       "time": "8:30 AM - 11:30 AM",
-      "subject": "Pre-Calculus II (Only Pre-Medical)",
+      "subject": "Pre-Calculus II",
       "teacher": "Dr. Zahoor Shah",
-      "room": "Room G05 (AB-2)",
-      "color": "pink"
+      "room": "Room G-05 (AB-2)",
+      "color": "pink",
+      "status": "For Pre-Medical Students"
     },
     {
       "id": "bds2-tuesday-2",
@@ -967,14 +992,14 @@
       "subject": "Discrete Structures",
       "teacher": "Dr. Saira Beg",
       "room": "Room 109",
-      "color": "default"
+      "color": "green"
     },
     {
       "id": "bds2-wednesday-1",
       "day": "Wednesday",
       "time": "11:30 AM - 1:00 PM",
       "subject": "Technical and Business Writing",
-      "teacher": "Ms. Saira Ali Husnain",
+      "teacher": "Ms. Saira Ali Hussain",
       "room": "Room 109",
       "color": "blue"
     },
@@ -1002,8 +1027,8 @@
       "time": "2:30 PM - 5:30 PM",
       "subject": "Object Oriented Programming",
       "teacher": "Mr. Rizwan Rashid",
-      "room": "Lab CL-14 (AB-2) 3rd Floor",
-      "color": "blue",
+      "room": "CL-14 (AB-2) 3rd Floor",
+      "color": "green",
       "status": "Lab"
     },
     {
@@ -1011,3708 +1036,1236 @@
       "day": "Friday",
       "time": "11:00 AM - 1:00 PM",
       "subject": "Introduction to Bioinformatics",
-      "teacher": "Prof. Dr. Muhammad Sajjad",
+      "teacher": "Prof. Dr. Muhammad Sajad",
       "room": "Room 106",
-      "color": "green"
+      "color": "pink"
     },
     {
       "id": "bds2-friday-2",
       "day": "Friday",
       "time": "2:30 PM - 5:30 PM",
       "subject": "Introduction to Bioinformatics",
-      "teacher": "Prof. Dr. Muhammad Sajjad",
-      "room": "Lab CL-14 (AB-2) 3rd Floor",
-      "color": "green",
-      "status": "Lab"
-    }
-  ],
-  "BCT 2": [
-    {
-      "id": "bct2-monday-1",
-      "day": "Monday",
-      "time": "1:00 PM - 2:30 PM",
-      "subject": "Discrete Structures",
-      "teacher": "Dr. Sheneela Naz",
-      "room": "Room 109",
-      "color": "default"
-    },
-    {
-      "id": "bct2-monday-2",
-      "day": "Monday",
-      "time": "2:30 PM - 5:30 PM",
-      "subject": "Object Oriented Programming",
-      "teacher": "Dr. Yasir Munir",
-      "room": "Lab CL-14 (AB-2) 3rd Floor",
+      "teacher": "Prof. Dr. Muhammad Sajad",
+      "room": "CL-14 (AB-2) 3rd Floor",
       "color": "blue",
       "status": "Lab"
     },
     {
+      "id": "bds2-friday-3",
+      "day": "Friday",
+      "time": "8:30 AM - 10:00 AM",
+      "subject": "Fehm-e-Quran II",
+      "teacher": "Dr. Ume Farwa",
+      "room": "Online Classes",
+      "color": "teal",
+      "status": "Online Class"
+    }
+  ],
+  "BCT 2": [
+    {
       "id": "bct2-tuesday-1",
       "day": "Tuesday",
-      "time": "10:30 AM - 12:30 PM",
-      "subject": "Introduction to Bioinformatics",
-      "teacher": "Dr. Hassan Mehboob",
-      "room": "Room 210",
+      "time": "1:00 PM - 2:30 PM",
+      "subject": "Discrete Structures",
+      "teacher": "Dr. Sheenela Naz",
+      "room": "Room 109",
       "color": "green"
     },
     {
       "id": "bct2-tuesday-2",
       "day": "Tuesday",
-      "time": "1:00 PM - 2:30 PM",
-      "subject": "Technical and Business Writing",
-      "teacher": "Ms. Mehak",
-      "room": "Room 108",
-      "color": "blue"
+      "time": "2:30 PM - 5:30 PM",
+      "subject": "Object Oriented Programming",
+      "teacher": "Dr. Yasir Munir",
+      "room": "CL-14 (AB-2) 3rd Floor",
+      "color": "green",
+      "status": "Lab"
     },
     {
       "id": "bct2-wednesday-1",
       "day": "Wednesday",
-      "time": "2:30 PM - 4:00 PM",
-      "subject": "Discrete Structures",
-      "teacher": "Dr. Sheneela Naz",
-      "room": "Room 109",
-      "color": "default"
+      "time": "10:30 AM - 12:30 PM",
+      "subject": "Introduction to Bioinformatics",
+      "teacher": "Dr. Hassan Mehboob",
+      "room": "Room 210",
+      "color": "pink"
     },
     {
       "id": "bct2-wednesday-2",
       "day": "Wednesday",
-      "time": "4:00 PM - 5:30 PM",
-      "subject": "Object Oriented Programming",
-      "teacher": "Dr. Yasir Munir",
-      "room": "Room 109",
+      "time": "1:00 PM - 2:30 PM",
+      "subject": "Technical and Business Writing",
+      "teacher": "Ms. Mehak",
+      "room": "Room 108",
       "color": "blue"
     },
     {
       "id": "bct2-thursday-1",
       "day": "Thursday",
-      "time": "8:30 AM - 10:00 AM",
-      "subject": "Object Oriented Programming",
-      "teacher": "Dr. Yasir Munir",
-      "room": "Room 209",
-      "color": "blue"
+      "time": "2:30 PM - 4:00 PM",
+      "subject": "Discrete Structures",
+      "teacher": "Dr. Sheenela Naz",
+      "room": "Room 109",
+      "color": "green"
     },
     {
       "id": "bct2-thursday-2",
       "day": "Thursday",
-      "time": "10:00 AM - 11:30 AM",
-      "subject": "Technical and Business Writing",
-      "teacher": "Ms. Mehak",
-      "room": "Room 209",
+      "time": "4:00 PM - 5:30 PM",
+      "subject": "Object Oriented Programming",
+      "teacher": "Dr. Yasir Munir",
+      "room": "Room 109",
       "color": "blue"
     },
     {
       "id": "bct2-friday-1",
       "day": "Friday",
-      "time": "8:30 AM - 11:30 AM",
-      "subject": "Introduction to Bioinformatics",
-      "teacher": "Dr. Hassan Mehboob",
-      "room": "Lab CL-14 (AB-2) 3rd Floor",
-      "color": "green",
-      "status": "Lab"
+      "time": "8:30 AM - 10:00 AM",
+      "subject": "Object Oriented Programming",
+      "teacher": "Dr. Yasir Munir",
+      "room": "Room 209",
+      "color": "blue"
     },
     {
       "id": "bct2-friday-2",
       "day": "Friday",
+      "time": "10:00 AM - 11:30 AM",
+      "subject": "Technical and Business Writing",
+      "teacher": "Ms. Mehak",
+      "room": "Room 209",
+      "color": "green"
+    },
+    {
+      "id": "bct2-friday-3",
+      "day": "Friday",
+      "time": "2:30 PM - 4:00 PM",
+      "subject": "Fehm-e-Quran II",
+      "teacher": "Dr. Ume Farwa",
+      "room": "Online Classes",
+      "color": "teal",
+      "status": "Online Class"
+    },
+    {
+      "id": "bct2-saturday-1",
+      "day": "Saturday",
+      "time": "8:30 AM - 11:30 AM",
+      "subject": "Introduction to Bioinformatics",
+      "teacher": "Dr. Hassan Mehboob",
+      "room": "CL-14 (AB-2) 3rd Floor",
+      "color": "blue",
+      "status": "Lab"
+    },
+    {
+      "id": "bct2-saturday-2",
+      "day": "Saturday",
       "time": "11:30 AM - 2:30 PM",
-      "subject": "Pre-Calculus II (Only Pre-Medical)",
+      "subject": "Pre-Calculus II",
       "teacher": "Dr. Tariq Hussain",
       "room": "Room 207 (AB-1)",
-      "color": "pink"
+      "color": "pink",
+      "status": "For Pre-Medical Students"
     }
   ],
+
   "BCS 3-A": [
     {
-      "id": "bcs3a-monday-1",
-      "day": "Monday",
-      "time": "8:30 AM - 11:30 AM",
-      "subject": "Fundamentals of Digital Logic Design",
-      "teacher": "Tahir Khan",
-      "room": "Lab DLD-Lab (311)",
-      "color": "pink",
-      "status": "Lab"
+        "id": "b3a-monday-1",
+        "day": "Monday",
+        "time": "8:30 AM - 11:30 AM",
+        "subject": "Fundamentals of Digital Logic Design",
+        "teacher": "Tahir Khan",
+        "room": "DLD-Lab (311)",
+        "color": "blue",
+        "status": "Lab"
     },
     {
-      "id": "bcs3a-monday-2",
-      "day": "Monday",
-      "time": "11:30 AM - 1:00 PM",
-      "subject": "Data Structures",
-      "teacher": "Dr. Inayat ur Rehman",
-      "room": "Room 211",
-      "color": "default"
+        "id": "b3a-monday-2",
+        "day": "Monday",
+        "time": "11:30 AM - 1:00 PM",
+        "subject": "Data Structures",
+        "teacher": "Dr. Inayat ur Rehman",
+        "room": "Room 211",
+        "color": "green"
     },
     {
-      "id": "bcs3a-monday-3",
-      "day": "Monday",
-      "time": "1:00 PM - 2:30 PM",
-      "subject": "Database Systems",
-      "teacher": "Dr. Rubina Adnan",
-      "room": "Room 211",
-      "color": "default"
+        "id": "b3a-monday-3",
+        "day": "Monday",
+        "time": "1:00 PM - 2:30 PM",
+        "subject": "Database Systems",
+        "teacher": "Dr. Rubina Adnan",
+        "room": "Room 211",
+        "color": "pink"
+    },
+
+    {
+        "id": "b3a-tuesday-1",
+        "day": "Tuesday",
+        "time": "8:30 AM - 11:30 AM",
+        "subject": "Database Systems",
+        "teacher": "Dr. Rubina Adnan",
+        "room": "CL-5",
+        "color": "blue",
+        "status": "Lab"
     },
     {
-      "id": "bcs3a-tuesday-1",
-      "day": "Tuesday",
-      "time": "8:30 AM - 11:30 AM",
-      "subject": "Database Systems",
-      "teacher": "Dr. Rubina Adnan",
-      "room": "Lab CL-5",
-      "color": "default",
-      "status": "Lab"
+        "id": "b3a-tuesday-2",
+        "day": "Tuesday",
+        "time": "11:30 AM - 1:00 PM",
+        "subject": "Calculus and Analytic Geometry",
+        "teacher": "Dr. Shaquta Yasmin",
+        "room": "Room 212",
+        "color": "green"
     },
     {
-      "id": "bcs3a-tuesday-2",
-      "day": "Tuesday",
-      "time": "11:30 AM - 1:00 PM",
-      "subject": "Calculus and Analytic Geometry",
-      "teacher": "Dr. Shagufta Yasmin",
-      "room": "Room 212",
-      "color": "default"
+        "id": "b3a-tuesday-3",
+        "day": "Tuesday",
+        "time": "1:00 PM - 2:30 PM",
+        "subject": "Database Systems",
+        "teacher": "Dr. Rubina Adnan",
+        "room": "Room 212",
+        "color": "pink"
+    },
+
+    {
+        "id": "b3a-wednesday-1",
+        "day": "Wednesday",
+        "time": "8:30 AM - 11:30 AM",
+        "subject": "Data Structures",
+        "teacher": "",
+        "room": "CL-6",
+        "color": "blue",
+        "status": "Lab"
     },
     {
-      "id": "bcs3a-tuesday-3",
-      "day": "Tuesday",
-      "time": "1:00 PM - 2:30 PM",
-      "subject": "Database Systems",
-      "teacher": "Dr. Rubina Adnan",
-      "room": "Room 212",
-      "color": "default"
+        "id": "b3a-wednesday-2",
+        "day": "Wednesday",
+        "time": "11:30 AM - 1:00 PM",
+        "subject": "Calculus and Analytic Geometry",
+        "teacher": "Dr. Shaquta Yasmin",
+        "room": "Room 211",
+        "color": "green"
     },
     {
-      "id": "bcs3a-wednesday-1",
-      "day": "Wednesday",
-      "time": "8:30 AM - 11:30 AM",
-      "subject": "Data Structures",
-      "teacher": "Dr. Inayat ur Rehman",
-      "room": "Lab CL-6",
-      "color": "default",
-      "status": "Lab"
+        "id": "b3a-wednesday-3",
+        "day": "Wednesday",
+        "time": "1:00 PM - 2:30 PM",
+        "subject": "Data Structures",
+        "teacher": "Dr. Inayat ur Rehman",
+        "room": "Room 211",
+        "color": "pink"
+    },
+
+    {
+        "id": "b3a-thursday-1",
+        "day": "Thursday",
+        "time": "8:30 AM - 10:30 AM",
+        "subject": "Fundamentals of Digital Logic Design",
+        "teacher": "Tahir Khan",
+        "room": "Room G-09 (AB-3)",
+        "color": "blue"
     },
     {
-      "id": "bcs3a-wednesday-2",
-      "day": "Wednesday",
-      "time": "11:30 AM - 1:00 PM",
-      "subject": "Calculus and Analytic Geometry",
-      "teacher": "Dr. Shagufta Yasmin",
-      "room": "Room 211",
-      "color": "default"
+        "id": "b3a-thursday-2",
+        "day": "Thursday",
+        "time": "11:30 AM - 1:00 PM",
+        "subject": "Software Engineering",
+        "teacher": "Mr. Anwar Shaukat",
+        "room": "Room G-05",
+        "color": "green"
     },
     {
-      "id": "bcs3a-wednesday-3",
-      "day": "Wednesday",
-      "time": "1:00 PM - 2:30 PM",
-      "subject": "Data Structures",
-      "teacher": "Dr. Inayat ur Rehman",
-      "room": "Room 211",
-      "color": "default"
-    },
-    {
-      "id": "bcs3a-thursday-1",
-      "day": "Thursday",
-      "time": "8:30 AM - 10:30 AM",
-      "subject": "Fundamentals of Digital Logic Design",
-      "teacher": "Tahir Khan",
-      "room": "Room G-09 (AB-3)",
-      "color": "pink"
-    },
-    {
-      "id": "bcs3a-thursday-2",
-      "day": "Thursday",
-      "time": "11:30 AM - 2:30 PM",
-      "subject": "Software Engineering",
-      "teacher": "Mr. Anwar Shaukat",
-      "room": "Room G-05",
-      "color": "pink"
+        "id": "b3a-thursday-3",
+        "day": "Thursday",
+        "time": "1:00 PM - 2:30 PM",
+        "subject": "Software Engineering",
+        "teacher": "Mr. Anwar Shaukat",
+        "room": "Room G-05",
+        "color": "pink"
     }
-  ],
+],
   "BCS 3-B": [
     {
-      "id": "bcs3b-monday-1",
-      "day": "Monday",
-      "time": "8:30 AM - 10:30 AM",
-      "subject": "Fundamentals of Digital Logic Design",
-      "teacher": "Dr. Rizwan Azam",
-      "room": "Room 111 (AB-2)",
-      "color": "pink"
+        "id": "b3b-monday-1",
+        "day": "Monday",
+        "time": "8:30 AM - 10:30 AM",
+        "subject": "Fundamentals of Digital Logic Design",
+        "teacher": "Dr. Rizwan Azam",
+        "room": "Room 111 (AB-2)",
+        "color": "blue"
     },
     {
-      "id": "bcs3b-monday-2",
-      "day": "Monday",
-      "time": "11:30 AM - 1:00 PM",
-      "subject": "Database Systems",
-      "teacher": "Dr. Rubina Adnan",
-      "room": "Room 212",
-      "color": "default"
+        "id": "b3b-monday-2",
+        "day": "Monday",
+        "time": "11:30 AM - 1:00 PM",
+        "subject": "Database Systems",
+        "teacher": "Dr. Rubina Adnan",
+        "room": "Room 212",
+        "color": "green"
     },
     {
-      "id": "bcs3b-monday-3",
-      "day": "Monday",
-      "time": "1:00 PM - 2:30 PM",
-      "subject": "Data Structures",
-      "teacher": "Dr. Inayat ur Rehman",
-      "room": "Room 212",
-      "color": "default"
+        "id": "b3b-monday-3",
+        "day": "Monday",
+        "time": "1:00 PM - 2:30 PM",
+        "subject": "Data Structures",
+        "teacher": "Dr. Inayat ur Rehman",
+        "room": "Room 212",
+        "color": "pink"
+    },
+
+    {
+        "id": "b3b-tuesday-1",
+        "day": "Tuesday",
+        "time": "8:30 AM - 11:30 AM",
+        "subject": "Fundamentals of Digital Logic Design",
+        "teacher": "Dr. Rizwan Azam",
+        "room": "DLD-Lab (311)",
+        "color": "blue",
+        "status": "Lab"
     },
     {
-      "id": "bcs3b-tuesday-1",
-      "day": "Tuesday",
-      "time": "8:30 AM - 11:30 AM",
-      "subject": "Fundamentals of Digital Logic Design",
-      "teacher": "Dr. Rizwan Azam",
-      "room": "Lab DLD-Lab (311)",
-      "color": "pink",
-      "status": "Lab"
+        "id": "b3b-tuesday-2",
+        "day": "Tuesday",
+        "time": "11:30 AM - 1:00 PM",
+        "subject": "Calculus and Analytic Geometry",
+        "teacher": "Prof. Dr. Zahid Ahmad",
+        "room": "Room 211",
+        "color": "green"
     },
     {
-      "id": "bcs3b-tuesday-2",
-      "day": "Tuesday",
-      "time": "11:30 AM - 1:00 PM",
-      "subject": "Calculus and Analytic Geometry",
-      "teacher": "Prof. Dr. Zahid Ahmad",
-      "room": "Room 211",
-      "color": "default"
+        "id": "b3b-tuesday-3",
+        "day": "Tuesday",
+        "time": "1:00 PM - 2:30 PM",
+        "subject": "Data Structures",
+        "teacher": "Dr. Inayat ur Rehman",
+        "room": "Room 211",
+        "color": "pink"
+    },
+
+    {
+        "id": "b3b-wednesday-1",
+        "day": "Wednesday",
+        "time": "8:30 AM - 11:30 AM",
+        "subject": "Database Systems",
+        "teacher": "Dr. Rubina Adnan",
+        "room": "CL-5",
+        "color": "blue",
+        "status": "Lab"
     },
     {
-      "id": "bcs3b-tuesday-3",
-      "day": "Tuesday",
-      "time": "1:00 PM - 2:30 PM",
-      "subject": "Data Structures",
-      "teacher": "Dr. Inayat ur Rehman",
-      "room": "Room 211",
-      "color": "default"
+        "id": "b3b-wednesday-2",
+        "day": "Wednesday",
+        "time": "11:30 AM - 1:00 PM",
+        "subject": "Calculus and Analytic Geometry",
+        "teacher": "Prof. Dr. Zahid Ahmad",
+        "room": "Room 212",
+        "color": "green"
     },
     {
-      "id": "bcs3b-wednesday-1",
-      "day": "Wednesday",
-      "time": "8:30 AM - 11:30 AM",
-      "subject": "Database Systems",
-      "teacher": "Dr. Rubina Adnan",
-      "room": "Lab CL-5",
-      "color": "default",
-      "status": "Lab"
+        "id": "b3b-wednesday-3",
+        "day": "Wednesday",
+        "time": "1:00 PM - 2:30 PM",
+        "subject": "Database Systems",
+        "teacher": "Dr. Rubina Adnan",
+        "room": "Room 212",
+        "color": "pink"
+    },
+
+    {
+        "id": "b3b-thursday-1",
+        "day": "Thursday",
+        "time": "8:30 AM - 11:30 AM",
+        "subject": "Data Structures",
+        "teacher": "",
+        "room": "CL-6",
+        "color": "blue",
+        "status": "Lab"
     },
     {
-      "id": "bcs3b-thursday-1",
-      "day": "Thursday",
-      "time": "8:30 AM - 11:30 AM",
-      "subject": "Data Structures",
-      "teacher": "Dr. Inayat ur Rehman",
-      "room": "Lab CL-6",
-      "color": "default",
-      "status": "Lab"
+        "id": "b3b-thursday-2",
+        "day": "Thursday",
+        "time": "11:30 AM - 1:00 PM",
+        "subject": "Software Engineering",
+        "teacher": "Mr. Anwar Shaukat",
+        "room": "Room G-05",
+        "color": "green"
     },
     {
-      "id": "bcs3b-thursday-2",
-      "day": "Thursday",
-      "time": "11:30 AM - 1:00 PM",
-      "subject": "Calculus and Analytic Geometry",
-      "teacher": "Prof. Dr. Zahid Ahmad",
-      "room": "Room 212",
-      "color": "default"
-    },
-    {
-      "id": "bcs3b-thursday-3",
-      "day": "Thursday",
-      "time": "1:00 PM - 2:30 PM",
-      "subject": "Database Systems",
-      "teacher": "Dr. Rubina Adnan",
-      "room": "Room 212",
-      "color": "default"
-    },
-    {
-      "id": "bcs3b-friday-1",
-      "day": "Friday",
-      "time": "11:30 AM - 2:30 PM",
-      "subject": "Software Engineering",
-      "teacher": "Mr. Anwar Shaukat",
-      "room": "Room G-05",
-      "color": "pink"
+        "id": "b3b-thursday-3",
+        "day": "Thursday",
+        "time": "1:00 PM - 2:30 PM",
+        "subject": "Software Engineering",
+        "teacher": "Mr. Anwar Shaukat",
+        "room": "Room G-05",
+        "color": "pink"
     }
-  ],
-  "BSE 3-A": [
+],
+
+ "BCS 4-A": [
     {
-      "id": "bse3a-monday-1",
-      "day": "Monday",
-      "time": "8:30 AM - 10:00 AM",
-      "subject": "Calculus and Analytic Geometry",
-      "teacher": "Dr. Shagufta Yasmin",
-      "room": "Room 211",
-      "color": "default"
+        "id": "b4a-monday-1",
+        "day": "Monday",
+        "time": "8:30 AM - 10:30 AM",
+        "subject": "Artificial Intelligence",
+        "teacher": "Dr. Rasool Bukhsh",
+        "room": "Room G-08",
+        "color": "blue"
     },
     {
-      "id": "bse3a-monday-2",
-      "day": "Monday",
-      "time": "11:30 AM - 1:00 PM",
-      "subject": "Fundamentals of Digital Logic Design",
-      "teacher": "Prof. Dr. Ahmed Naseem Alvi",
-      "room": "Room 210",
-      "color": "pink"
+        "id": "b4a-monday-2",
+        "day": "Monday",
+        "time": "10:30 AM - 12:30 PM",
+        "subject": "Information Security",
+        "teacher": "Ms. Haseena Kainat",
+        "room": "Room G-08",
+        "color": "green"
+    },
+
+    {
+        "id": "b4a-wednesday-1",
+        "day": "Wednesday",
+        "time": "8:30 AM - 10:30 AM",
+        "subject": "E-Commerce and Digital Marketing",
+        "teacher": "Mr. Omer Vikas",
+        "room": "Room G-07",
+        "color": "pink"
     },
     {
-      "id": "bse3a-monday-3",
-      "day": "Monday",
-      "time": "1:00 PM - 2:30 PM",
-      "subject": "Data Structures",
-      "teacher": "Mr. Zahid Anwar",
-      "room": "Room 110",
-      "color": "default"
+        "id": "b4a-wednesday-2",
+        "day": "Wednesday",
+        "time": "10:30 AM - 12:30 PM",
+        "subject": "Advanced Database Systems",
+        "teacher": "Dr. Basit Raza",
+        "room": "Room G-07",
+        "color": "blue"
     },
     {
-      "id": "bse3a-tuesday-1",
-      "day": "Tuesday",
-      "time": "8:30 AM - 11:30 AM",
-      "subject": "Data Structures",
-      "teacher": "Mr. Zahid Anwar",
-      "room": "Lab CL-6",
-      "color": "default",
-      "status": "Lab"
+        "id": "b4a-wednesday-3",
+        "day": "Wednesday",
+        "time": "1:00 PM - 2:30 PM",
+        "subject": "Statistics and Probability Theory",
+        "teacher": "Dr. Aamna Nazir",
+        "room": "Room G-08",
+        "color": "green"
+    },
+
+    {
+        "id": "b4a-thursday-1",
+        "day": "Thursday",
+        "time": "8:30 AM - 11:30 AM",
+        "subject": "Advanced Database Systems",
+        "teacher": "TA",
+        "room": "CL-10",
+        "color": "pink",
+        "status": "Lab"
     },
     {
-      "id": "bse3a-tuesday-2",
-      "day": "Tuesday",
-      "time": "10:30 AM - 12:30 PM",
-      "subject": "Database Systems",
-      "teacher": "Mohammad Harris",
-      "room": "Room 110",
-      "color": "default"
+        "id": "b4a-thursday-2",
+        "day": "Thursday",
+        "time": "11:30 AM - 2:30 PM",
+        "subject": "E-Commerce and Digital Marketing",
+        "teacher": "TA",
+        "room": "CL-10",
+        "color": "blue",
+        "status": "Lab"
+    },
+
+    {
+        "id": "b4a-friday-1",
+        "day": "Friday",
+        "time": "8:30 AM - 10:30 AM",
+        "subject": "Professional Practices",
+        "teacher": "Mr. Umar Sheraz",
+        "room": "Room G-08 (AB-1)",
+        "color": "green"
     },
     {
-      "id": "bse3a-tuesday-3",
-      "day": "Tuesday",
-      "time": "1:00 PM - 2:30 PM",
-      "subject": "Data Structures",
-      "teacher": "Mr. Zahid Anwar",
-      "room": "Room 110",
-      "color": "default"
+        "id": "b4a-friday-2",
+        "day": "Friday",
+        "time": "11:30 AM - 1:00 PM",
+        "subject": "Statistics and Probability Theory",
+        "teacher": "Dr. Aamna Nazir",
+        "room": "Room 212",
+        "color": "pink"
+    },
+
+    {
+        "id": "b4a-saturday-1",
+        "day": "Saturday",
+        "time": "11:30 AM - 2:30 PM",
+        "subject": "Information Security",
+        "teacher": "TA",
+        "room": "CL-10",
+        "color": "blue",
+        "status": "Lab"
     },
     {
-      "id": "bse3a-wednesday-1",
-      "day": "Wednesday",
-      "time": "8:30 AM - 11:30 AM",
-      "subject": "Fundamentals of Digital Logic Design",
-      "teacher": "Prof. Dr. Ahmed Naseem Alvi",
-      "room": "Lab DLD-Lab (311)",
-      "color": "pink",
-      "status": "Lab"
-    },
-    {
-      "id": "bse3a-wednesday-2",
-      "day": "Wednesday",
-      "time": "11:30 AM - 2:30 PM",
-      "subject": "Software Engineering",
-      "teacher": "Ms. Lailma Javed",
-      "room": "Room G-05",
-      "color": "pink"
-    },
-    {
-      "id": "bse3a-thursday-1",
-      "day": "Thursday",
-      "time": "8:30 AM - 11:30 AM",
-      "subject": "Database Systems",
-      "teacher": "Mohammad Harris",
-      "room": "Lab CL-5",
-      "color": "default",
-      "status": "Lab"
-    },
-    {
-      "id": "bse3a-thursday-2",
-      "day": "Thursday",
-      "time": "11:30 AM - 2:30 PM",
-      "subject": "Calculus and Analytic Geometry",
-      "teacher": "Dr. Shagufta Yasmin",
-      "room": "Room 211",
-      "color": "default"
+        "id": "b4a-saturday-2",
+        "day": "Saturday",
+        "time": "2:30 PM - 5:30 PM",
+        "subject": "Artificial Intelligence",
+        "teacher": "Dr. Rasool Bukhsh",
+        "room": "CL-10",
+        "color": "green",
+        "status": "Lab"
     }
-  ],
-  "BSE 3-B": [
-    {
-      "id": "bse3b-monday-1",
-      "day": "Monday",
-      "time": "8:30 AM - 10:00 AM",
-      "subject": "Calculus and Analytic Geometry",
-      "teacher": "Prof. Dr. Shumaila Javeed",
-      "room": "Room 108",
-      "color": "default"
-    },
-    {
-      "id": "bse3b-monday-2",
-      "day": "Monday",
-      "time": "10:30 AM - 12:30 PM",
-      "subject": "Fundamentals of Digital Logic Design",
-      "teacher": "Ch Afaq",
-      "room": "Room 111",
-      "color": "pink"
-    },
-    {
-      "id": "bse3b-monday-3",
-      "day": "Monday",
-      "time": "1:00 PM - 2:30 PM",
-      "subject": "Data Structures",
-      "teacher": "Mr. Atique Ahmed Zafar",
-      "room": "Room 112",
-      "color": "default"
-    },
-    {
-      "id": "bse3b-tuesday-1",
-      "day": "Tuesday",
-      "time": "11:30 AM - 1:00 PM",
-      "subject": "Database Systems",
-      "teacher": "Ms. Saadia Maryam",
-      "room": "Room G-05",
-      "color": "default"
-    },
-    {
-      "id": "bse3b-tuesday-2",
-      "day": "Tuesday",
-      "time": "1:00 PM - 2:30 PM",
-      "subject": "Data Structures",
-      "teacher": "Mr. Atique Ahmed Zafar",
-      "room": "Room G-05",
-      "color": "default"
-    },
-    {
-      "id": "bse3b-tuesday-3",
-      "day": "Tuesday",
-      "time": "2:30 PM - 5:30 PM",
-      "subject": "Database Systems",
-      "teacher": "Ms. Saadia Maryam",
-      "room": "Lab CL-6",
-      "color": "default",
-      "status": "Lab"
-    },
-    {
-      "id": "bse3b-wednesday-1",
-      "day": "Wednesday",
-      "time": "11:30 AM - 1:00 PM",
-      "subject": "Software Engineering",
-      "teacher": "Ms. Lailma Javed",
-      "room": "Room G-05",
-      "color": "pink"
-    },
-    {
-      "id": "bse3b-wednesday-2",
-      "day": "Wednesday",
-      "time": "1:00 PM - 2:30 PM",
-      "subject": "Data Structures",
-      "teacher": "Mr. Zahid Anwar",
-      "room": "Room G-05",
-      "color": "default"
-    },
-    {
-      "id": "bse3b-wednesday-3",
-      "day": "Wednesday",
-      "time": "2:30 PM - 5:30 PM",
-      "subject": "Data Structures",
-      "teacher": "Mr. Zahid Anwar",
-      "room": "Lab CL-5",
-      "color": "default",
-      "status": "Lab"
-    },
-    {
-      "id": "bse3b-thursday-1",
-      "day": "Thursday",
-      "time": "8:30 AM - 11:30 AM",
-      "subject": "Fundamentals of Digital Logic Design",
-      "teacher": "Ch Afaq",
-      "room": "Lab DLD-Lab (311)",
-      "color": "pink",
-      "status": "Lab"
-    },
-    {
-      "id": "bse3b-thursday-2",
-      "day": "Thursday",
-      "time": "11:30 AM - 1:00 PM",
-      "subject": "Calculus and Analytic Geometry",
-      "teacher": "Prof. Dr. Shumaila Javeed",
-      "room": "Room 112",
-      "color": "default"
-    }
-  ],
-  "BAI 3": [
-    {
-      "id": "bai3-monday-1",
-      "day": "Monday",
-      "time": "11:30 AM - 1:00 PM",
-      "subject": "Database Systems",
-      "teacher": "Mr. Muhammad Haris",
-      "room": "Room G-05 (AB-2)",
-      "color": "default"
-    },
-    {
-      "id": "bai3-monday-2",
-      "day": "Monday",
-      "time": "1:00 PM - 2:30 PM",
-      "subject": "Software Engineering",
-      "teacher": "Dr. Javed Iqbal",
-      "room": "Room G-05 (AB-2)",
-      "color": "pink"
-    },
-    {
-      "id": "bai3-monday-3",
-      "day": "Monday",
-      "time": "2:30 PM - 5:30 PM",
-      "subject": "Database Systems",
-      "teacher": "Mr. Muhammad Haris",
-      "room": "Lab CL-5",
-      "color": "default",
-      "status": "Lab"
-    },
-    {
-      "id": "bai3-tuesday-1",
-      "day": "Tuesday",
-      "time": "11:30 AM - 1:00 PM",
-      "subject": "Data Structures",
-      "teacher": "Dr. Samera Batool",
-      "room": "Room G-06 (AB-2)",
-      "color": "default"
-    },
-    {
-      "id": "bai3-tuesday-2",
-      "day": "Tuesday",
-      "time": "1:00 PM - 2:30 PM",
-      "subject": "Database Systems",
-      "teacher": "Mr. Muhammad Haris",
-      "room": "Room G-06 (AB-2)",
-      "color": "default"
-    },
-    {
-      "id": "bai3-tuesday-3",
-      "day": "Tuesday",
-      "time": "10:30 AM - 12:30 PM",
-      "subject": "Fundamentals of Digital Logic Design",
-      "teacher": "Tahir Khan",
-      "room": "Room 106 (AB-1)",
-      "color": "pink"
-    },
-    {
-      "id": "bai3-wednesday-1",
-      "day": "Wednesday",
-      "time": "11:30 AM - 1:00 PM",
-      "subject": "Calculus and Analytic Geometry",
-      "teacher": "Dr. Sajjad Khan",
-      "room": "Room 110",
-      "color": "default"
-    },
-    {
-      "id": "bai3-wednesday-2",
-      "day": "Wednesday",
-      "time": "1:00 PM - 2:30 PM",
-      "subject": "Data Structures",
-      "teacher": "Dr. Samera Batool",
-      "room": "Room 110",
-      "color": "default"
-    },
-    {
-      "id": "bai3-wednesday-3",
-      "day": "Wednesday",
-      "time": "2:30 PM - 5:30 PM",
-      "subject": "Data Structures",
-      "teacher": "TA",
-      "room": "Lab CL-6",
-      "color": "default",
-      "status": "Lab"
-    },
-    {
-      "id": "bai3-thursday-1",
-      "day": "Thursday",
-      "time": "8:30 AM - 10:00 AM",
-      "subject": "Software Engineering",
-      "teacher": "Dr. Javed Iqbal",
-      "room": "Room G-05 (AB-2)",
-      "color": "pink"
-    },
-    {
-      "id": "bai3-thursday-2",
-      "day": "Thursday",
-      "time": "2:30 PM - 5:30 PM",
-      "subject": "Fundamentals of Digital Logic Design",
-      "teacher": "Dr. Bilal Tariq Malik",
-      "room": "Lab DLD-Lab (311)",
-      "color": "pink",
-      "status": "Lab"
-    }
-  ],
-  "BDS 3": [
-    {
-      "id": "bds3-monday-1",
-      "day": "Monday",
-      "time": "10:00 AM - 11:30 AM",
-      "subject": "Database Systems",
-      "teacher": "Dr. Nusrat Shaheen",
-      "room": "Room 108",
-      "color": "default"
-    },
-    {
-      "id": "bds3-monday-2",
-      "day": "Monday",
-      "time": "11:30 AM - 1:00 PM",
-      "subject": "Data Structures",
-      "teacher": "Atique Ahmed Zafar",
-      "room": "Room 108",
-      "color": "default"
-    },
-    {
-      "id": "bds3-monday-3",
-      "day": "Monday",
-      "time": "1:00 PM - 2:30 PM",
-      "subject": "Calculus and Analytic Geometry",
-      "teacher": "Dr. Fawad Ali",
-      "room": "Room 108",
-      "color": "default"
-    },
-    {
-      "id": "bds3-tuesday-1",
-      "day": "Tuesday",
-      "time": "8:30 AM - 10:00 AM",
-      "subject": "Calculus and Analytic Geometry",
-      "teacher": "Dr. Fawad Ali",
-      "room": "Room 109",
-      "color": "default"
-    },
-    {
-      "id": "bds3-tuesday-2",
-      "day": "Tuesday",
-      "time": "10:00 AM - 11:30 AM",
-      "subject": "Database Systems",
-      "teacher": "Dr. Nusrat Shaheen",
-      "room": "Room 109",
-      "color": "default"
-    },
-    {
-      "id": "bds3-tuesday-3",
-      "day": "Tuesday",
-      "time": "1:00 PM - 2:30 PM",
-      "subject": "Data Structures",
-      "teacher": "Mr. Atique Ahmed Zafar",
-      "room": "Room 206",
-      "color": "default"
-    },
-    {
-      "id": "bds3-wednesday-1",
-      "day": "Wednesday",
-      "time": "11:30 AM - 2:30 PM",
-      "subject": "Database Systems",
-      "teacher": "Dr. Nusrat Shaheen",
-      "room": "Lab CL-5",
-      "color": "default",
-      "status": "Lab"
-    },
-    {
-      "id": "bds3-wednesday-2",
-      "day": "Wednesday",
-      "time": "2:30 PM - 5:30 PM",
-      "subject": "Fundamentals of Digital Logic Design",
-      "teacher": "Prof. Dr. Ahmed Naseem Alvi",
-      "room": "Lab DLD-Lab (311)",
-      "color": "pink",
-      "status": "Lab"
-    },
-    {
-      "id": "bds3-thursday-1",
-      "day": "Thursday",
-      "time": "11:30 AM - 2:30 PM",
-      "subject": "Data Science Fundamentals",
-      "teacher": "Dr. Javed Iqbal",
-      "room": "Lab CL-6",
-      "color": "pink",
-      "status": "Lab"
-    },
-    {
-      "id": "bds3-thursday-2",
-      "day": "Thursday",
-      "time": "2:30 PM - 5:30 PM",
-      "subject": "Data Structures",
-      "teacher": "Atique Ahmed Zafar",
-      "room": "Lab CL-6",
-      "color": "default",
-      "status": "Lab"
-    },
-    {
-      "id": "bds3-friday-1",
-      "day": "Friday",
-      "time": "11:00 AM - 1:00 PM",
-      "subject": "Data Science Fundamentals",
-      "teacher": "Dr. Javed Iqbal",
-      "room": "Room# 125 (HL)",
-      "color": "pink",
-      "status": "Lab"
-    }
-  ],
-  "BCT 3": [
-    {
-      "id": "bct3-monday-1",
-      "day": "Monday",
-      "time": "2:30 PM - 4:00 PM",
-      "subject": "Software Engineering",
-      "teacher": "Mr. Anwar Shaukat",
-      "room": "Room 106",
-      "color": "pink"
-    },
-    {
-      "id": "bct3-monday-2",
-      "day": "Monday",
-      "time": "4:00 PM - 5:30 PM",
-      "subject": "Calculus and Analytic Geometry",
-      "teacher": "Dr. Zahoor Shah",
-      "room": "Room 106",
-      "color": "default"
-    },
-    {
-      "id": "bct3-tuesday-1",
-      "day": "Tuesday",
-      "time": "11:30 AM - 2:30 PM",
-      "subject": "Data Structures",
-      "teacher": "Mr. Atique Ahmed Zafar",
-      "room": "Lab CL-6",
-      "color": "default",
-      "status": "Lab"
-    },
-    {
-      "id": "bct3-tuesday-2",
-      "day": "Tuesday",
-      "time": "2:30 PM - 4:00 PM",
-      "subject": "Calculus and Analytic Geometry",
-      "teacher": "Dr. Zahoor Shah",
-      "room": "Room 208",
-      "color": "default"
-    },
-    {
-      "id": "bct3-tuesday-3",
-      "day": "Tuesday",
-      "time": "4:00 PM - 5:30 PM",
-      "subject": "Software Engineering",
-      "teacher": "Mr. Anwar Shaukat",
-      "room": "Room 208",
-      "color": "pink"
-    },
-    {
-      "id": "bct3-wednesday-1",
-      "day": "Wednesday",
-      "time": "11:30 AM - 1:00 PM",
-      "subject": "Database Systems",
-      "teacher": "Ms. Saadia Maryam",
-      "room": "Room 212",
-      "color": "default"
-    },
-    {
-      "id": "bct3-wednesday-2",
-      "day": "Wednesday",
-      "time": "2:30 PM - 4:00 PM",
-      "subject": "Database Systems",
-      "teacher": "Ms. Saadia Maryam",
-      "room": "Room 207",
-      "color": "default"
-    },
-    {
-      "id": "bct3-wednesday-3",
-      "day": "Wednesday",
-      "time": "4:00 PM - 5:30 PM",
-      "subject": "Data Structures",
-      "teacher": "Mr. Atique Ahmed Zafar",
-      "room": "Room 207",
-      "color": "default"
-    },
-    {
-      "id": "bct3-thursday-1",
-      "day": "Thursday",
-      "time": "8:30 AM - 10:30 AM",
-      "subject": "Information Security",
-      "teacher": "Ms. Haseena Kainat",
-      "room": "Lab CL-6",
-      "color": "green",
-      "status": "Lab"
-    },
-    {
-      "id": "bct3-thursday-2",
-      "day": "Thursday",
-      "time": "1:00 PM - 2:30 PM",
-      "subject": "Data Structures",
-      "teacher": "Mr. Atique Ahmed Zafar",
-      "room": "Room 212",
-      "color": "default"
-    },
-    {
-      "id": "bct3-thursday-3",
-      "day": "Thursday",
-      "time": "2:30 PM - 5:30 PM",
-      "subject": "Database Systems",
-      "teacher": "Ms. Saadia Maryam",
-      "room": "Lab CL-5",
-      "color": "default",
-      "status": "Lab"
-    },
-    {
-      "id": "bct3-friday-1",
-      "day": "Friday",
-      "time": "10:30 AM - 1:00 PM",
-      "subject": "Information Security",
-      "teacher": "Ms. Haseena Kainat",
-      "room": "Lab CL-6",
-      "color": "green",
-      "status": "Lab"
-    }
-  ],
-  "BCS 4-A": [
-    {
-      "id": "bcs4a-monday-1",
-      "day": "Monday",
-      "time": "8:30 AM - 10:30 AM",
-      "subject": "E-Commerce and Digital Marketing",
-      "teacher": "Mr. Omer Vikas",
-      "room": "Room G-07",
-      "color": "default"
-    },
-    {
-      "id": "bcs4a-tuesday-1",
-      "day": "Tuesday",
-      "time": "8:30 AM - 11:30 AM",
-      "subject": "Advanced Database Systems",
-      "teacher": "Dr. Basit Raza",
-      "room": "Lab CL-10",
-      "color": "default",
-      "status": "Lab"
-    },
-    {
-      "id": "bcs4a-tuesday-2",
-      "day": "Tuesday",
-      "time": "12:30 PM - 2:30 PM",
-      "subject": "Artificial Intelligence",
-      "teacher": "Dr. Rasool Bukhsh",
-      "room": "Room G-08",
-      "color": "pink"
-    },
-    {
-      "id": "bcs4a-wednesday-1",
-      "day": "Wednesday",
-      "time": "8:30 AM - 10:30 AM",
-      "subject": "Professional Practices",
-      "teacher": "Mr. Umar Sheraz",
-      "room": "Room G-08 (AB-1)",
-      "color": "pink"
-    },
-    {
-      "id": "bcs4a-wednesday-2",
-      "day": "Wednesday",
-      "time": "10:30 AM - 12:30 PM",
-      "subject": "Advanced Database Systems",
-      "teacher": "Dr. Basit Raza",
-      "room": "Room G-07",
-      "color": "default"
-    },
-    {
-      "id": "bcs4a-wednesday-3",
-      "day": "Wednesday",
-      "time": "1:00 PM - 2:30 PM",
-      "subject": "Statistics and Probability Theory",
-      "teacher": "Dr. Aamna Nazir",
-      "room": "Room G-08",
-      "color": "default"
-    },
-    {
-      "id": "bcs4a-thursday-1",
-      "day": "Thursday",
-      "time": "11:30 AM - 2:30 PM",
-      "subject": "Information Security",
-      "teacher": "Ms. Haseena Kainat",
-      "room": "Lab CL-10",
-      "color": "green",
-      "status": "Lab"
-    },
-    {
-      "id": "bcs4a-thursday-2",
-      "day": "Thursday",
-      "time": "3:30 PM - 5:30 PM",
-      "subject": "Information Security",
-      "teacher": "Ms. Haseena Kainat",
-      "room": "Room G-08",
-      "color": "green",
-      "status": "Lab"
-    },
-    {
-      "id": "bcs4a-friday-1",
-      "day": "Friday",
-      "time": "11:30 AM - 1:00 PM",
-      "subject": "Statistics and Probability Theory",
-      "teacher": "Dr. Aamna Nazir",
-      "room": "Room 212",
-      "color": "default"
-    },
-    {
-      "id": "bcs4a-friday-2",
-      "day": "Friday",
-      "time": "11:30 AM - 2:30 PM",
-      "subject": "E-Commerce and Digital Marketing",
-      "teacher": "Mr. Omer Vikas",
-      "room": "Lab CL-10",
-      "color": "default",
-      "status": "Lab"
-    },
-    {
-      "id": "bcs4a-friday-3",
-      "day": "Friday",
-      "time": "2:30 PM - 5:30 PM",
-      "subject": "Artificial Intelligence",
-      "teacher": "Dr. Rasool Bukhsh",
-      "room": "Lab CL-10",
-      "color": "pink",
-      "status": "Lab"
-    }
-  ],
+],
   "BCS 4-B": [
     {
-      "id": "bcs4b-monday-1",
-      "day": "Monday",
-      "time": "8:30 AM - 11:30 AM",
-      "subject": "Advanced Database Systems",
-      "teacher": "Dr. Basit Raza",
-      "room": "Lab CL-10",
-      "color": "default",
-      "status": "Lab"
+        "id": "b4b-monday-1",
+        "day": "Monday",
+        "time": "8:30 AM - 11:30 AM",
+        "subject": "Advanced Database Systems",
+        "teacher": "Dr. Basit Raza",
+        "room": "CL-10",
+        "color": "blue",
+        "status": "Lab"
     },
     {
-      "id": "bcs4b-tuesday-1",
-      "day": "Tuesday",
-      "time": "8:30 AM - 10:30 AM",
-      "subject": "Advanced Database Systems",
-      "teacher": "Dr. Basit Raza",
-      "room": "Room 109 (AB-2)",
-      "color": "default"
+        "id": "b4b-monday-2",
+        "day": "Monday",
+        "time": "11:30 AM - 2:30 PM",
+        "subject": "E-Commerce and Digital Marketing",
+        "teacher": "TA",
+        "room": "CL-10",
+        "color": "green",
+        "status": "Lab"
+    },
+
+    {
+        "id": "b4b-tuesday-1",
+        "day": "Tuesday",
+        "time": "8:30 AM - 10:30 AM",
+        "subject": "Advanced Database Systems",
+        "teacher": "Dr. Basit Raza",
+        "room": "Room G-08 (AB-2)",
+        "color": "pink"
     },
     {
-      "id": "bcs4b-tuesday-2",
-      "day": "Tuesday",
-      "time": "11:30 AM - 2:30 PM",
-      "subject": "E-Commerce and Digital Marketing",
-      "teacher": "Mr. Omer Vikas",
-      "room": "Lab CL-10",
-      "color": "default",
-      "status": "Lab"
+        "id": "b4b-tuesday-2",
+        "day": "Tuesday",
+        "time": "12:30 PM - 2:30 PM",
+        "subject": "Information Security",
+        "teacher": "Ms. Haseena Kainat",
+        "room": "207",
+        "color": "blue"
+    },
+
+    {
+        "id": "b4b-thursday-1",
+        "day": "Thursday",
+        "time": "8:30 AM - 10:00 AM",
+        "subject": "Statistics and Probability Theory",
+        "teacher": "Dr. Aamna Nazir",
+        "room": "Room 110",
+        "color": "green"
     },
     {
-      "id": "bcs4b-wednesday-1",
-      "day": "Wednesday",
-      "time": "8:30 AM - 10:00 AM",
-      "subject": "Statistics and Probability Theory",
-      "teacher": "Ms. Lubna Waqar",
-      "room": "Room 110",
-      "color": "default"
+        "id": "b4b-thursday-2",
+        "day": "Thursday",
+        "time": "10:30 AM - 12:30 PM",
+        "subject": "E-Commerce and Digital Marketing",
+        "teacher": "Mr. Omer Vikas",
+        "room": "Room 111",
+        "color": "pink"
     },
     {
-      "id": "bcs4b-wednesday-2",
-      "day": "Wednesday",
-      "time": "10:30 AM - 12:30 PM",
-      "subject": "E-Commerce and Digital Marketing",
-      "teacher": "Mr. Omer Vikas",
-      "room": "Room 111",
-      "color": "default"
+        "id": "b4b-thursday-3",
+        "day": "Thursday",
+        "time": "12:30 PM - 2:30 PM",
+        "subject": "Artificial Intelligence",
+        "teacher": "Mr. Umar Nauman",
+        "room": "Room 111",
+        "color": "blue"
+    },
+
+    {
+        "id": "b4b-friday-1",
+        "day": "Friday",
+        "time": "8:30 AM - 10:30 AM",
+        "subject": "Professional Practices",
+        "teacher": "Mr. Umar Sheraz",
+        "room": "Room G-08 (AB-1)",
+        "color": "green"
     },
     {
-      "id": "bcs4b-wednesday-3",
-      "day": "Wednesday",
-      "time": "12:30 PM - 2:30 PM",
-      "subject": "Artificial Intelligence",
-      "teacher": "Mr. Umar Nauman",
-      "room": "Room 111",
-      "color": "pink"
+        "id": "b4b-friday-2",
+        "day": "Friday",
+        "time": "11:30 AM - 1:00 PM",
+        "subject": "Statistics and Probability Theory",
+        "teacher": "Dr. Aamna Nazir",
+        "room": "Room 110",
+        "color": "pink"
+    },
+
+    {
+        "id": "b4b-saturday-1",
+        "day": "Saturday",
+        "time": "8:30 AM - 11:30 AM",
+        "subject": "Information Security",
+        "teacher": "",
+        "room": "CL-08",
+        "color": "blue",
+        "status": "Lab"
     },
     {
-      "id": "bcs4b-thursday-1",
-      "day": "Thursday",
-      "time": "8:30 AM - 10:30 AM",
-      "subject": "Professional Practices",
-      "teacher": "Mr. Umar Sheraz",
-      "room": "Room G-08 (AB-1)",
-      "color": "pink"
-    },
-    {
-      "id": "bcs4b-thursday-2",
-      "day": "Thursday",
-      "time": "11:30 AM - 1:00 PM",
-      "subject": "Statistics and Probability Theory",
-      "teacher": "Ms. Lubna Waqar",
-      "room": "Room 110",
-      "color": "default"
-    },
-    {
-      "id": "bcs4b-friday-1",
-      "day": "Friday",
-      "time": "8:30 AM - 11:30 AM",
-      "subject": "Information Security",
-      "teacher": "Ms. Haseena Kainat",
-      "room": "Lab CL-08",
-      "color": "green",
-      "status": "Lab"
-    },
-    {
-      "id": "bcs4b-friday-2",
-      "day": "Friday",
-      "time": "11:30 AM - 2:30 PM",
-      "subject": "Artificial Intelligence",
-      "teacher": "Mr. Umar Nauman",
-      "room": "Lab CL-08",
-      "color": "pink",
-      "status": "Lab"
-    },
-    {
-      "id": "bcs4b-friday-3",
-      "day": "Friday",
-      "time": "3:30 PM - 5:30 PM",
-      "subject": "Information Security",
-      "teacher": "Ms. Haseena Kainat",
-      "room": "Room G-08",
-      "color": "green",
-      "status": "Lab"
+        "id": "b4b-saturday-2",
+        "day": "Saturday",
+        "time": "11:30 AM - 2:30 PM",
+        "subject": "Artificial Intelligence",
+        "teacher": "",
+        "room": "CL-08",
+        "color": "green",
+        "status": "Lab"
     }
-  ],
-  "BSE 4": [
-    {
-      "id": "bse4-monday-1",
-      "day": "Monday",
-      "time": "11:30 AM - 2:30 PM",
-      "subject": "Artificial Intelligence",
-      "teacher": "Mr. Waqas Ali",
-      "room": "Lab CL-15",
-      "color": "pink",
-      "status": "Lab"
-    },
-    {
-      "id": "bse4-tuesday-1",
-      "day": "Tuesday",
-      "time": "8:30 AM - 11:30 AM",
-      "subject": "Information Security",
-      "teacher": "Ms. Sara Ali",
-      "room": "Lab CL-14",
-      "color": "green",
-      "status": "Lab"
-    },
-    {
-      "id": "bse4-tuesday-2",
-      "day": "Tuesday",
-      "time": "12:30 PM - 2:30 PM",
-      "subject": "Information Security",
-      "teacher": "Ms. Sara Ali",
-      "room": "Room 207",
-      "color": "green"
-    },
-    {
-      "id": "bse4-wednesday-1",
-      "day": "Wednesday",
-      "time": "8:30 AM - 10:30 AM",
-      "subject": "E-Commerce and Digital Marketing",
-      "teacher": "Mr. Khurram Iqbal",
-      "room": "Room 207",
-      "color": "default"
-    },
-    {
-      "id": "bse4-wednesday-2",
-      "day": "Wednesday",
-      "time": "10:30 AM - 12:30 PM",
-      "subject": "Artificial Intelligence",
-      "teacher": "Mr. Waqas Ali",
-      "room": "Room 207",
-      "color": "pink"
-    },
-    {
-      "id": "bse4-thursday-1",
-      "day": "Thursday",
-      "time": "8:30 AM - 10:00 AM",
-      "subject": "Statistics and Probability Theory",
-      "teacher": "Syed Ali Taqi",
-      "room": "Room 208",
-      "color": "default"
-    },
-    {
-      "id": "bse4-thursday-2",
-      "day": "Thursday",
-      "time": "10:00 AM - 1:00 PM",
-      "subject": "Software Requirement Engineering",
-      "teacher": "Mr. Atique Ahmed Zafar",
-      "room": "Room 208",
-      "color": "default"
-    },
-    {
-      "id": "bse4-friday-1",
-      "day": "Friday",
-      "time": "8:30 AM - 10:00 AM",
-      "subject": "Statistics and Probability Theory",
-      "teacher": "Syed Ali Taqi",
-      "room": "Room 208",
-      "color": "default"
-    },
-    {
-      "id": "bse4-friday-2",
-      "day": "Friday",
-      "time": "11:00 AM - 1:00 PM",
-      "subject": "Professional Practices",
-      "teacher": "Ms. Sana Nasir",
-      "room": "Room 207",
-      "color": "pink"
-    },
-    {
-      "id": "bse4-friday-3",
-      "day": "Friday",
-      "time": "2:30 PM - 5:30 PM",
-      "subject": "E-Commerce and Digital Marketing",
-      "teacher": "Mr. Khurram Iqbal",
-      "room": "Lab CL-15",
-      "color": "default",
-      "status": "Lab"
-    }
-  ],
-  "BAI 4": [
-    {
-      "id": "bai4-monday-1",
-      "day": "Monday",
-      "time": "8:30 AM - 10:00 AM",
-      "subject": "Artificial Intelligence",
-      "teacher": "Mr. Umar Nauman",
-      "room": "Room CL-14",
-      "color": "pink"
-    },
-    {
-      "id": "bai4-monday-2",
-      "day": "Monday",
-      "time": "10:00 AM - 11:30 AM",
-      "subject": "Information Security",
-      "teacher": "Ms. Haseena Kainat",
-      "room": "Room CL-14",
-      "color": "green"
-    },
-    {
-      "id": "bai4-tuesday-1",
-      "day": "Tuesday",
-      "time": "8:30 AM - 10:30 AM",
-      "subject": "Professional Practices",
-      "teacher": "Mr. Umar Sheraz",
-      "room": "Room 111",
-      "color": "pink"
-    },
-    {
-      "id": "bai4-tuesday-2",
-      "day": "Tuesday",
-      "time": "10:30 AM - 12:30 PM",
-      "subject": "Machine Learning Fundamentals",
-      "teacher": "Dr. Usman Yaseen",
-      "room": "Room 111",
-      "color": "green"
-    },
-    {
-      "id": "bai4-wednesday-1",
-      "day": "Wednesday",
-      "time": "8:30 AM - 10:30 AM",
-      "subject": "Statistics and Probability Theory",
-      "teacher": "Ms. Mudassirah Bibi",
-      "room": "Room 110",
-      "color": "default"
-    },
-    {
-      "id": "bai4-wednesday-2",
-      "day": "Wednesday",
-      "time": "10:30 AM - 12:30 PM",
-      "subject": "Statistics and Probability Theory",
-      "teacher": "Ms. Mudassirah Bibi",
-      "room": "Room 110",
-      "color": "default"
-    },
-    {
-      "id": "bai4-thursday-1",
-      "day": "Thursday",
-      "time": "8:30 AM - 11:30 AM",
-      "subject": "Artificial Intelligence",
-      "teacher": "Mr. Umar Nauman",
-      "room": "Room 111",
-      "color": "pink",
-      "status": "Lab"
-    },
-    {
-      "id": "bai4-thursday-2",
-      "day": "Thursday",
-      "time": "11:30 AM - 2:30 PM",
-      "subject": "E-Commerce and Digital Marketing",
-      "teacher": "Mr. Khurram Iqbal",
-      "room": "Room 111",
-      "color": "default"
-    },
-    {
-      "id": "bai4-friday-1",
-      "day": "Friday",
-      "time": "11:00 AM - 1:00 PM",
-      "subject": "Information Security",
-      "teacher": "Ms. Haseena Kainat",
-      "room": "Room 111",
-      "color": "green"
-    },
-    {
-      "id": "bai4-friday-2",
-      "day": "Friday",
-      "time": "11:30 AM - 2:30 PM",
-      "subject": "E-Commerce and Digital Marketing",
-      "teacher": "Mr. Khurram Iqbal",
-      "room": "Lab CL-11",
-      "color": "default",
-      "status": "Lab"
-    },
-    {
-      "id": "bai4-friday-3",
-      "day": "Friday",
-      "time": "11:30 AM - 2:30 PM",
-      "subject": "Machine Learning Fundamentals",
-      "teacher": "Dr. Usman Yaseen",
-      "room": "Lab CL-11",
-      "color": "green",
-      "status": "Lab"
-    }
-  ],
-  "BDS 4": [
-    {
-      "id": "bds4-monday-1",
-      "day": "Monday",
-      "time": "8:30 AM - 10:30 AM",
-      "subject": "Professional Practices",
-      "teacher": "Mr. Omer Vikas",
-      "room": "Room G-08",
-      "color": "pink"
-    },
-    {
-      "id": "bds4-monday-2",
-      "day": "Monday",
-      "time": "10:00 AM - 11:30 AM",
-      "subject": "Data Mining",
-      "teacher": "Dr. Mariam Akbar",
-      "room": "Room# 125 (HL)",
-      "color": "default",
-      "status": "Lab"
-    },
-    {
-      "id": "bds4-tuesday-1",
-      "day": "Tuesday",
-      "time": "8:30 AM - 10:30 AM",
-      "subject": "Statistics and Probability Theory",
-      "teacher": "Ms. Mudassirah Bibi",
-      "room": "Room 211",
-      "color": "default"
-    },
-    {
-      "id": "bds4-tuesday-2",
-      "day": "Tuesday",
-      "time": "10:30 AM - 12:30 PM",
-      "subject": "Statistics and Probability Theory",
-      "teacher": "Ms. Mudassirah Bibi",
-      "room": "Room 211",
-      "color": "default"
-    },
-    {
-      "id": "bds4-wednesday-1",
-      "day": "Wednesday",
-      "time": "8:30 AM - 10:30 AM",
-      "subject": "Data Mining",
-      "teacher": "Dr. Mariam Akbar",
-      "room": "Lab CL-12",
-      "color": "default",
-      "status": "Lab"
-    },
-    {
-      "id": "bds4-wednesday-2",
-      "day": "Wednesday",
-      "time": "10:00 AM - 12:30 PM",
-      "subject": "Machine Learning Fundamentals",
-      "teacher": "Ms. Shafaq Rasheed",
-      "room": "Room# 125 (HL)",
-      "color": "green",
-      "status": "Lab"
-    },
-    {
-      "id": "bds4-thursday-1",
-      "day": "Thursday",
-      "time": "8:30 AM - 10:30 AM",
-      "subject": "Artificial Intelligence",
-      "teacher": "Ms. Farah Saeed",
-      "room": "Room# 125 (HL)",
-      "color": "pink"
-    },
-    {
-      "id": "bds4-thursday-2",
-      "day": "Thursday",
-      "time": "10:30 AM - 1:00 PM",
-      "subject": "Artificial Intelligence",
-      "teacher": "Ms. Farah Saeed",
-      "room": "Lab CL-12",
-      "color": "pink",
-      "status": "Lab"
-    },
-    {
-      "id": "bds4-friday-1",
-      "day": "Friday",
-      "time": "8:30 AM - 10:30 AM",
-      "subject": "E-Commerce and Digital Marketing",
-      "teacher": "Mr. Khurram Iqbal",
-      "room": "Lab CL-11",
-      "color": "default",
-      "status": "Lab"
-    },
-    {
-      "id": "bds4-friday-2",
-      "day": "Friday",
-      "time": "10:30 AM - 1:00 PM",
-      "subject": "E-Commerce and Digital Marketing",
-      "teacher": "Mr. Khurram Iqbal",
-      "room": "Lab CL-11",
-      "color": "default",
-      "status": "Lab"
-    }
-  ],
-  "BCT 4": [
-    {
-      "id": "bct4-monday-1",
-      "day": "Monday",
-      "time": "8:30 AM - 10:30 AM",
-      "subject": "Professional Practices",
-      "teacher": "Mr. Omer Vikas",
-      "room": "Room G-08",
-      "color": "pink"
-    },
-    {
-      "id": "bct4-monday-2",
-      "day": "Monday",
-      "time": "11:30 AM - 2:30 PM",
-      "subject": "Computer Networks",
-      "teacher": "Ms. Shafaq Rasheed",
-      "room": "Lab CL-11",
-      "color": "pink",
-      "status": "Lab"
-    },
-    {
-      "id": "bct4-tuesday-1",
-      "day": "Tuesday",
-      "time": "8:30 AM - 11:30 AM",
-      "subject": "Artificial Intelligence",
-      "teacher": "Ms. Farah Saeed",
-      "room": "Lab CL-11",
-      "color": "pink",
-      "status": "Lab"
-    },
-    {
-      "id": "bct4-tuesday-2",
-      "day": "Tuesday",
-      "time": "10:30 AM - 12:30 PM",
-      "subject": "Computer Networks",
-      "teacher": "Ms. Shafaq Rasheed",
-      "room": "Room 208",
-      "color": "pink"
-    },
-    {
-      "id": "bct4-wednesday-1",
-      "day": "Wednesday",
-      "time": "8:30 AM - 10:30 AM",
-      "subject": "Introduction to Cyber Security",
-      "teacher": "Dr. Tehsin Kanwal",
-      "room": "Room 208",
-      "color": "blue"
-    },
-    {
-      "id": "bct4-wednesday-2",
-      "day": "Wednesday",
-      "time": "2:30 PM - 5:30 PM",
-      "subject": "Fundamentals of Digital Logic Design",
-      "teacher": "Dr. Irfan Latif",
-      "room": "Lab DLD-Lab (311)",
-      "color": "pink",
-      "status": "Lab"
-    },
-    {
-      "id": "bct4-thursday-1",
-      "day": "Thursday",
-      "time": "10:30 AM - 12:30 PM",
-      "subject": "Fundamentals of Digital Logic Design",
-      "teacher": "Dr. Irfan Latif",
-      "room": "Room# 125 (HL)",
-      "color": "pink"
-    },
-    {
-      "id": "bct4-thursday-2",
-      "day": "Thursday",
-      "time": "11:00 AM - 1:00 PM",
-      "subject": "E-Commerce and Digital Marketing",
-      "teacher": "Saadia Maryam",
-      "room": "Room 211",
-      "color": "default"
-    },
-    {
-      "id": "bct4-friday-1",
-      "day": "Friday",
-      "time": "8:30 AM - 10:30 AM",
-      "subject": "Artificial Intelligence",
-      "teacher": "Ms. Farah Saeed",
-      "room": "Room 211",
-      "color": "pink"
-    },
-    {
-      "id": "bct4-friday-2",
-      "day": "Friday",
-      "time": "8:30 AM - 11:30 AM",
-      "subject": "E-Commerce and Digital Marketing",
-      "teacher": "Saadia Maryam",
-      "room": "Lab CL-4",
-      "color": "default",
-      "status": "Lab"
-    },
-    {
-      "id": "bct4-friday-3",
-      "day": "Friday",
-      "time": "11:30 AM - 2:30 PM",
-      "subject": "Introduction to Cyber Security",
-      "teacher": "Dr. Tehsin Kanwal",
-      "room": "Lab CL-4",
-      "color": "blue",
-      "status": "Lab"
-    }
-  ],
+],
+
   "BCS 5-A": [
     {
-      "id": "bcs5a-monday-1",
-      "day": "Monday",
-      "time": "11:30 AM - 2:30 PM",
-      "subject": "Computer Organization and Assembly Language",
-      "teacher": "Mr. Taimur Shahzad",
-      "room": "Lab CL-5",
-      "color": "blue",
-      "status": "Lab"
+        "id": "b5a-tuesday-1",
+        "day": "Tuesday",
+        "time": "11:30 AM - 2:30 PM",
+        "subject": "Computer Organization and Assembly Language",
+        "teacher": "Mr. Taimur Shahzad",
+        "room": "CL-5",
+        "color": "blue",
+        "status": "Lab"
     },
     {
-      "id": "bcs5a-monday-2",
-      "day": "Monday",
-      "time": "2:30 PM - 5:30 PM",
-      "subject": "Machine Learning Fundamentals",
-      "teacher": "Mr. Umar Nauman",
-      "room": "Lab CL-5",
-      "color": "green",
-      "status": "Lab"
+        "id": "b5a-tuesday-2",
+        "day": "Tuesday",
+        "time": "2:30 PM - 5:30 PM",
+        "subject": "Machine Learning Fundamentals",
+        "teacher": "TA",
+        "room": "CL-5",
+        "color": "green",
+        "status": "Lab"
+    },
+
+    {
+        "id": "b5a-wednesday-1",
+        "day": "Wednesday",
+        "time": "11:30 AM - 2:30 PM",
+        "subject": "Web Technologies",
+        "teacher": "Mr. Saif Ullah Ijaz",
+        "room": "CL-8",
+        "color": "pink",
+        "status": "Lab"
     },
     {
-      "id": "bcs5a-tuesday-1",
-      "day": "Tuesday",
-      "time": "11:30 AM - 2:30 PM",
-      "subject": "Web Technologies",
-      "teacher": "Mr. Saif Ullah Ijaz",
-      "room": "Lab CL-8",
-      "color": "default",
-      "status": "Lab"
+        "id": "b5a-wednesday-2",
+        "day": "Wednesday",
+        "time": "2:30 PM - 5:30 PM",
+        "subject": "Operating Systems",
+        "teacher": "",
+        "room": "CL-8",
+        "color": "blue",
+        "status": "Lab"
+    },
+
+    {
+        "id": "b5a-thursday-1",
+        "day": "Thursday",
+        "time": "12:30 PM - 2:30 PM",
+        "subject": "Machine Learning Fundamentals",
+        "teacher": "Dr. Usman Yaseen",
+        "room": "Room G-08",
+        "color": "green"
     },
     {
-      "id": "bcs5a-tuesday-2",
-      "day": "Tuesday",
-      "time": "2:30 PM - 5:30 PM",
-      "subject": "Operating Systems",
-      "teacher": "Ms. Zahida Walayat",
-      "room": "Lab CL-8",
-      "color": "default",
-      "status": "Lab"
+        "id": "b5a-thursday-2",
+        "day": "Thursday",
+        "time": "2:30 PM - 4:00 PM",
+        "subject": "Design and Analysis of Algorithms",
+        "teacher": "Mr. Tanveer Ahmad",
+        "room": "Room G-08",
+        "color": "pink"
     },
     {
-      "id": "bcs5a-wednesday-1",
-      "day": "Wednesday",
-      "time": "12:30 PM - 2:30 PM",
-      "subject": "Machine Learning Fundamentals",
-      "teacher": "Mr. Umar Nauman",
-      "room": "Room G-08",
-      "color": "green"
+        "id": "b5a-thursday-3",
+        "day": "Thursday",
+        "time": "4:00 PM - 5:30 PM",
+        "subject": "Multivariable Calculus",
+        "teacher": "Prof. Dr. Bilal Ashraf",
+        "room": "Room G-08",
+        "color": "blue"
+    },
+
+    {
+        "id": "b5a-friday-1",
+        "day": "Friday",
+        "time": "8:30 AM - 10:30 AM",
+        "subject": "Web Technologies",
+        "teacher": "Ms. Najla Raza",
+        "room": "Room 107",
+        "color": "green"
     },
     {
-      "id": "bcs5a-wednesday-2",
-      "day": "Wednesday",
-      "time": "2:30 PM - 4:00 PM",
-      "subject": "Design and Analysis of Algorithms",
-      "teacher": "Asma Khalid Butt",
-      "room": "Room 211",
-      "color": "pink"
+        "id": "b5a-friday-2",
+        "day": "Friday",
+        "time": "11:00 AM - 1:00 PM",
+        "subject": "Operating Systems",
+        "teacher": "",
+        "room": "Room 107",
+        "color": "pink",
+        "status": "Lab"
+    },
+
+    {
+        "id": "b5a-saturday-1",
+        "day": "Saturday",
+        "time": "8:30 AM - 10:00 AM",
+        "subject": "Multivariable Calculus",
+        "teacher": "Prof. Dr. Bilal Ashraf",
+        "room": "Room 106",
+        "color": "blue"
     },
     {
-      "id": "bcs5a-thursday-1",
-      "day": "Thursday",
-      "time": "8:30 AM - 10:30 AM",
-      "subject": "Web Technologies",
-      "teacher": "Mr. Saif Ullah Ijaz",
-      "room": "Room 107",
-      "color": "default"
+        "id": "b5a-saturday-2",
+        "day": "Saturday",
+        "time": "10:00 AM - 11:30 AM",
+        "subject": "Design and Analysis of Algorithms",
+        "teacher": "Mr. Tanveer Ahmad",
+        "room": "Room 106",
+        "color": "green"
     },
     {
-      "id": "bcs5a-thursday-2",
-      "day": "Thursday",
-      "time": "11:00 AM - 1:00 PM",
-      "subject": "Operating Systems",
-      "teacher": "Ms. Zahida Walayat",
-      "room": "Room 107",
-      "color": "default"
-    },
-    {
-      "id": "bcs5a-friday-1",
-      "day": "Friday",
-      "time": "8:30 AM - 10:00 AM",
-      "subject": "Multivariable Calculus",
-      "teacher": "Prof. Dr. Bilal Ashraf",
-      "room": "Room 106",
-      "color": "pink"
-    },
-    {
-      "id": "bcs5a-friday-2",
-      "day": "Friday",
-      "time": "10:00 AM - 11:30 AM",
-      "subject": "Design and Analysis of Algorithms",
-      "teacher": "Asma Khalid Butt",
-      "room": "Room 106",
-      "color": "pink"
-    },
-    {
-      "id": "bcs5a-friday-3",
-      "day": "Friday",
-      "time": "12:30 PM - 2:30 PM",
-      "subject": "Computer Organization and Assembly Language",
-      "teacher": "Mr. Taimur Shahzad",
-      "room": "Room 106",
-      "color": "blue"
+        "id": "b5a-saturday-3",
+        "day": "Saturday",
+        "time": "12:30 PM - 2:30 PM",
+        "subject": "Computer Organization and Assembly Language",
+        "teacher": "Mr. Taimur Shahzad",
+        "room": "Room 106",
+        "color": "pink",
+        "status": "Lab"
     }
-  ],
+],
   "BCS 5-B": [
     {
-      "id": "bcs5b-monday-1",
-      "day": "Monday",
-      "time": "8:30 AM - 11:30 AM",
-      "subject": "Web Technologies",
-      "teacher": "Mr. Saif Ullah Ijaz",
-      "room": "Lab CL-14",
-      "color": "default",
-      "status": "Lab"
+        "id": "b5b-tuesday-1",
+        "day": "Tuesday",
+        "time": "1:00 PM - 2:30 PM",
+        "subject": "Design and Analysis of Algorithms",
+        "teacher": "Mr. Tanveer Ahmad",
+        "room": "Room 105",
+        "color": "blue"
     },
     {
-      "id": "bcs5b-monday-2",
-      "day": "Monday",
-      "time": "1:00 PM - 2:30 PM",
-      "subject": "Design and Analysis of Algorithms",
-      "teacher": "Mr. Tanveer Ahmed",
-      "room": "Room 105",
-      "color": "pink"
+        "id": "b5b-tuesday-2",
+        "day": "Tuesday",
+        "time": "2:30 PM - 5:30 PM",
+        "subject": "Computer Organization and Assembly Language",
+        "teacher": "Mr. Taimur Shahzad",
+        "room": "CL-8",
+        "color": "green",
+        "status": "Lab"
+    },
+
+    {
+        "id": "b5b-wednesday-1",
+        "day": "Wednesday",
+        "time": "8:30 AM - 11:30 AM",
+        "subject": "Web Technologies",
+        "teacher": "Mr. Saif Ullah Ijaz",
+        "room": "CL-14",
+        "color": "pink",
+        "status": "Lab"
     },
     {
-      "id": "bcs5b-monday-3",
-      "day": "Monday",
-      "time": "2:30 PM - 5:30 PM",
-      "subject": "Computer Organization and Assembly Language",
-      "teacher": "Mr. Taimur Shahzad",
-      "room": "Lab CL-8",
-      "color": "blue",
-      "status": "Lab"
+        "id": "b5b-wednesday-2",
+        "day": "Wednesday",
+        "time": "11:30 AM - 2:30 PM",
+        "subject": "Operating Systems",
+        "teacher": "",
+        "room": "CL-14",
+        "color": "blue",
+        "status": "Lab"
+    },
+
+    {
+        "id": "b5b-thursday-1",
+        "day": "Thursday",
+        "time": "10:00 AM - 11:30 AM",
+        "subject": "Multivariable Calculus",
+        "teacher": "Prof. Dr. Bilal Ashraf",
+        "room": "Room G-05",
+        "color": "green"
     },
     {
-      "id": "bcs5b-tuesday-1",
-      "day": "Tuesday",
-      "time": "10:00 AM - 11:30 AM",
-      "subject": "Multivariable Calculus",
-      "teacher": "Prof. Dr. Bilal Ashraf",
-      "room": "Room G-05",
-      "color": "pink"
+        "id": "b5b-thursday-2",
+        "day": "Thursday",
+        "time": "1:30 PM - 3:00 PM",
+        "subject": "Operating Systems",
+        "teacher": "Ms. Zahida Walayat",
+        "room": "Room 208",
+        "color": "pink"
     },
     {
-      "id": "bcs5b-tuesday-2",
-      "day": "Tuesday",
-      "time": "11:30 AM - 2:30 PM",
-      "subject": "Operating Systems",
-      "teacher": "Ms. Zahida Walayat",
-      "room": "Lab CL-14",
-      "color": "default",
-      "status": "Lab"
+        "id": "b5b-thursday-3",
+        "day": "Thursday",
+        "time": "3:00 PM - 5:00 PM",
+        "subject": "Machine Learning Fundamentals",
+        "teacher": "Dr. Usman Yaseen",
+        "room": "Room 208",
+        "color": "blue"
+    },
+
+    {
+        "id": "b5b-friday-1",
+        "day": "Friday",
+        "time": "11:00 AM - 1:00 PM",
+        "subject": "Web Technologies",
+        "teacher": "Ms. Najla Raza",
+        "room": "Room 208",
+        "color": "green"
     },
     {
-      "id": "bcs5b-tuesday-3",
-      "day": "Tuesday",
-      "time": "3:00 PM - 5:00 PM",
-      "subject": "Machine Learning Fundamentals",
-      "teacher": "Dr. Gulmina Rextin",
-      "room": "Room 208",
-      "color": "green",
-      "status": "Lab"
+        "id": "b5b-friday-2",
+        "day": "Friday",
+        "time": "2:30 PM - 5:30 PM",
+        "subject": "Machine Learning Fundamentals",
+        "teacher": "",
+        "room": "CL-10",
+        "color": "pink",
+        "status": "Lab"
+    },
+
+    {
+        "id": "b5b-saturday-1",
+        "day": "Saturday",
+        "time": "8:30 AM - 10:30 AM",
+        "subject": "Computer Organization and Assembly Language",
+        "teacher": "Mr. Taimur Shahzad",
+        "room": "Room 107",
+        "color": "blue",
+        "status": "Lab"
     },
     {
-      "id": "bcs5b-wednesday-1",
-      "day": "Wednesday",
-      "time": "8:30 AM - 10:30 AM",
-      "subject": "Computer Organization and Assembly Language",
-      "teacher": "Mr. Taimur Shahzad",
-      "room": "Room 107",
-      "color": "blue"
+        "id": "b5b-saturday-2",
+        "day": "Saturday",
+        "time": "11:30 AM - 1:00 PM",
+        "subject": "Multivariable Calculus",
+        "teacher": "Prof. Dr. Bilal Ashraf",
+        "room": "Room 107",
+        "color": "green"
     },
     {
-      "id": "bcs5b-wednesday-2",
-      "day": "Wednesday",
-      "time": "1:00 PM - 3:00 PM",
-      "subject": "Operating Systems",
-      "teacher": "Ms. Zahida Walayat",
-      "room": "Room 208",
-      "color": "default"
-    },
-    {
-      "id": "bcs5b-wednesday-3",
-      "day": "Wednesday",
-      "time": "2:30 PM - 5:30 PM",
-      "subject": "Machine Learning Fundamentals",
-      "teacher": "Dr. Gulmina Rextin",
-      "room": "Lab CL-10",
-      "color": "green",
-      "status": "Lab"
-    },
-    {
-      "id": "bcs5b-thursday-1",
-      "day": "Thursday",
-      "time": "11:00 AM - 1:00 PM",
-      "subject": "Web Technologies",
-      "teacher": "Mr. Saif Ullah Ijaz",
-      "room": "Room 208",
-      "color": "default"
-    },
-    {
-      "id": "bcs5b-thursday-2",
-      "day": "Thursday",
-      "time": "1:00 PM - 2:30 PM",
-      "subject": "Design and Analysis of Algorithms",
-      "teacher": "Mr. Tanveer Ahmed",
-      "room": "Room 107",
-      "color": "pink"
-    },
-    {
-      "id": "bcs5b-friday-1",
-      "day": "Friday",
-      "time": "11:30 AM - 1:00 PM",
-      "subject": "Multivariable Calculus",
-      "teacher": "Prof. Dr. Bilal Ashraf",
-      "room": "Room 107",
-      "color": "pink"
+        "id": "b5b-saturday-3",
+        "day": "Saturday",
+        "time": "1:00 PM - 2:30 PM",
+        "subject": "Design and Analysis of Algorithms",
+        "teacher": "Mr. Tanveer Ahmad",
+        "room": "Room 107",
+        "color": "pink"
     }
-  ],
-  "BSE 5-A": [
-    {
-      "id": "bse5a-monday-1",
-      "day": "Monday",
-      "time": "8:30 AM - 10:30 AM",
-      "subject": "Web Technologies",
-      "teacher": "Mr. Saif Ullah Ijaz",
-      "room": "Room 105",
-      "color": "default"
-    },
-    {
-      "id": "bse5a-monday-2",
-      "day": "Monday",
-      "time": "2:30 PM - 4:00 PM",
-      "subject": "Multivariable Calculus",
-      "teacher": "Prof. Dr. Fahad Munir Abbasi",
-      "room": "Room 110",
-      "color": "pink"
-    },
-    {
-      "id": "bse5a-monday-3",
-      "day": "Monday",
-      "time": "4:00 PM - 5:30 PM",
-      "subject": "Computer Organization and Assembly Language",
-      "teacher": "Mr. Rashid Mehmood",
-      "room": "Room 110",
-      "color": "blue"
-    },
-    {
-      "id": "bse5a-tuesday-1",
-      "day": "Tuesday",
-      "time": "8:30 AM - 11:30 AM",
-      "subject": "Operating Systems",
-      "teacher": "Dr. Memoona Malik",
-      "room": "Lab CL-5",
-      "color": "default",
-      "status": "Lab"
-    },
-    {
-      "id": "bse5a-tuesday-2",
-      "day": "Tuesday",
-      "time": "2:30 PM - 5:30 PM",
-      "subject": "Design and Analysis of Algorithms",
-      "teacher": "Ms. Hilal Jan",
-      "room": "Room 110",
-      "color": "pink"
-    },
-    {
-      "id": "bse5a-wednesday-1",
-      "day": "Wednesday",
-      "time": "11:30 AM - 2:30 PM",
-      "subject": "Software Design and Architecture",
-      "teacher": "Dr. Iftikhar Azim Niaz",
-      "room": "Room 107 (AB-1)",
-      "color": "pink"
-    },
-    {
-      "id": "bse5a-wednesday-2",
-      "day": "Wednesday",
-      "time": "2:30 PM - 5:30 PM",
-      "subject": "Software Design and Architecture",
-      "teacher": "Dr. Iftikhar Azim Niaz",
-      "room": "Room 107 (AB-1)",
-      "color": "pink"
-    },
-    {
-      "id": "bse5a-thursday-1",
-      "day": "Thursday",
-      "time": "11:00 AM - 1:00 PM",
-      "subject": "Design and Analysis of Algorithms",
-      "teacher": "Ms. Hilal Jan",
-      "room": "Room 110",
-      "color": "pink"
-    },
-    {
-      "id": "bse5a-thursday-2",
-      "day": "Thursday",
-      "time": "2:30 PM - 5:30 PM",
-      "subject": "Computer Organization and Assembly Language",
-      "teacher": "Mr. Rashid Mehmood",
-      "room": "Room 105",
-      "color": "blue",
-      "status": "Lab"
-    },
-    {
-      "id": "bse5a-friday-1",
-      "day": "Friday",
-      "time": "3:30 PM - 5:30 PM",
-      "subject": "Operating Systems",
-      "teacher": "Dr. Memoona Malik",
-      "room": "Room CL-5",
-      "color": "default"
-    },
-    {
-      "id": "bse5a-friday-2",
-      "day": "Friday",
-      "time": "4:00 PM - 5:30 PM",
-      "subject": "Web Technologies",
-      "teacher": "Mr. Saif Ullah Ijaz",
-      "room": "Room CL-5",
-      "color": "default"
-    }
-  ],
-  "BSE 5-B": [
-    {
-      "id": "bse5b-monday-1",
-      "day": "Monday",
-      "time": "8:30 AM - 11:30 AM",
-      "subject": "Operating Systems",
-      "teacher": "Hafiza Sundas",
-      "room": "Lab CL-8",
-      "color": "default",
-      "status": "Lab"
-    },
-    {
-      "id": "bse5b-monday-2",
-      "day": "Monday",
-      "time": "2:30 PM - 4:00 PM",
-      "subject": "Computer Organization and Assembly Language",
-      "teacher": "Mr. Rashid Mehmood",
-      "room": "Lab CL-8",
-      "color": "blue",
-      "status": "Lab"
-    },
-    {
-      "id": "bse5b-tuesday-1",
-      "day": "Tuesday",
-      "time": "8:30 AM - 10:30 AM",
-      "subject": "Web Technologies",
-      "teacher": "Mr. Haseeb ur Rehman",
-      "room": "Room G05",
-      "color": "default"
-    },
-    {
-      "id": "bse5b-tuesday-2",
-      "day": "Tuesday",
-      "time": "11:30 AM - 2:30 PM",
-      "subject": "Computer Organization and Assembly Language",
-      "teacher": "Mr. Rashid Mehmood",
-      "room": "Room 111",
-      "color": "blue"
-    },
-    {
-      "id": "bse5b-tuesday-3",
-      "day": "Tuesday",
-      "time": "4:00 PM - 5:30 PM",
-      "subject": "Web Technologies",
-      "teacher": "Mr. Haseeb ur Rehman",
-      "room": "Room 111",
-      "color": "default"
-    },
-    {
-      "id": "bse5b-wednesday-1",
-      "day": "Wednesday",
-      "time": "8:30 AM - 10:30 AM",
-      "subject": "Computer Organization and Assembly Language",
-      "teacher": "Mr. Rashid Mehmood",
-      "room": "Room 111",
-      "color": "blue"
-    },
-    {
-      "id": "bse5b-wednesday-2",
-      "day": "Wednesday",
-      "time": "11:00 AM - 1:00 PM",
-      "subject": "Design and Analysis of Algorithms",
-      "teacher": "Ms. Hilal Jan",
-      "room": "Room 111",
-      "color": "pink"
-    },
-    {
-      "id": "bse5b-wednesday-3",
-      "day": "Wednesday",
-      "time": "2:30 PM - 5:30 PM",
-      "subject": "Software Design and Architecture",
-      "teacher": "Dr. Iftikhar Azim Niaz",
-      "room": "Room 107 (AB-1)",
-      "color": "pink"
-    },
-    {
-      "id": "bse5b-thursday-1",
-      "day": "Thursday",
-      "time": "12:00 PM - 2:00 PM",
-      "subject": "Multivariable Calculus",
-      "teacher": "Prof. Dr. Fahad Munir Abbasi",
-      "room": "Room 112",
-      "color": "pink"
-    },
-    {
-      "id": "bse5b-thursday-2",
-      "day": "Thursday",
-      "time": "2:30 PM - 5:30 PM",
-      "subject": "Design and Analysis of Algorithms",
-      "teacher": "Ms. Hilal Jan",
-      "room": "Room 112",
-      "color": "pink"
-    },
-    {
-      "id": "bse5b-friday-1",
-      "day": "Friday",
-      "time": "8:30 AM - 10:30 AM",
-      "subject": "Operating Systems",
-      "teacher": "Hafiza Sundas",
-      "room": "Room G05",
-      "color": "default"
-    }
-  ],
-  "BAI 5": [
-    {
-      "id": "bai5-monday-1",
-      "day": "Monday",
-      "time": "12:30 PM - 2:30 PM",
-      "subject": "Operating Systems",
-      "teacher": "Dr. Memoona Malik",
-      "room": "Room 207",
-      "color": "default"
-    },
-    {
-      "id": "bai5-monday-2",
-      "day": "Monday",
-      "time": "2:30 PM - 4:00 PM",
-      "subject": "Design and Analysis of Algorithms",
-      "teacher": "Ms. Hilal Jan",
-      "room": "Room 106",
-      "color": "pink"
-    },
-    {
-      "id": "bai5-monday-3",
-      "day": "Monday",
-      "time": "4:00 PM - 5:30 PM",
-      "subject": "Multivariable Calculus",
-      "teacher": "Dr. Usman Ali",
-      "room": "Room 106",
-      "color": "pink"
-    },
-    {
-      "id": "bai5-tuesday-1",
-      "day": "Tuesday",
-      "time": "8:30 AM - 10:30 AM",
-      "subject": "Introduction to Computer Vision",
-      "teacher": "Ms. Maheen Gul",
-      "room": "Lab CL-5",
-      "color": "pink",
-      "status": "Lab"
-    },
-    {
-      "id": "bai5-tuesday-2",
-      "day": "Tuesday",
-      "time": "12:30 PM - 2:30 PM",
-      "subject": "Web Technologies",
-      "teacher": "Mr. Amir Shabir Pare",
-      "room": "Room G-07",
-      "color": "default"
-    },
-    {
-      "id": "bai5-tuesday-3",
-      "day": "Tuesday",
-      "time": "2:30 PM - 4:30 PM",
-      "subject": "Programming for Artificial Intelligence",
-      "teacher": "Dr. Rasool Bukhsh",
-      "room": "Room G-07",
-      "color": "default",
-      "status": "Lab"
-    },
-    {
-      "id": "bai5-wednesday-1",
-      "day": "Wednesday",
-      "time": "8:30 AM - 11:30 AM",
-      "subject": "Programming for Artificial Intelligence",
-      "teacher": "Dr. Rasool Bukhsh",
-      "room": "Lab CL-6",
-      "color": "default",
-      "status": "Lab"
-    },
-    {
-      "id": "bai5-wednesday-2",
-      "day": "Wednesday",
-      "time": "2:30 PM - 4:00 PM",
-      "subject": "Design and Analysis of Algorithms",
-      "teacher": "Ms. Hilal Jan",
-      "room": "Room 207",
-      "color": "pink"
-    },
-    {
-      "id": "bai5-wednesday-3",
-      "day": "Wednesday",
-      "time": "4:00 PM - 5:30 PM",
-      "subject": "Multivariable Calculus",
-      "teacher": "Dr. Usman Ali",
-      "room": "Room 207",
-      "color": "pink"
-    },
-    {
-      "id": "bai5-thursday-1",
-      "day": "Thursday",
-      "time": "10:30 AM - 1:00 PM",
-      "subject": "Introduction to Computer Vision",
-      "teacher": "Ms. Maheen Gul",
-      "room": "Lab CL-5",
-      "color": "pink",
-      "status": "Lab"
-    },
-    {
-      "id": "bai5-friday-1",
-      "day": "Friday",
-      "time": "11:30 AM - 2:30 PM",
-      "subject": "Operating Systems",
-      "teacher": "Dr. Memoona Malik",
-      "room": "Lab CL-6",
-      "color": "default",
-      "status": "Lab"
-    }
-  ],
-  "BDS 5": [
-    {
-      "id": "bds5-monday-1",
-      "day": "Monday",
-      "time": "8:30 AM - 11:30 AM",
-      "subject": "Web Technologies",
-      "teacher": "Mr. Haseeb ur Rehman",
-      "room": "Lab CL-5",
-      "color": "default",
-      "status": "Lab"
-    },
-    {
-      "id": "bds5-monday-2",
-      "day": "Monday",
-      "time": "11:30 AM - 2:30 PM",
-      "subject": "Information Security",
-      "teacher": "Ms. Ayesha Hussain",
-      "room": "Lab CL-5",
-      "color": "green",
-      "status": "Lab"
-    },
-    {
-      "id": "bds5-tuesday-1",
-      "day": "Tuesday",
-      "time": "8:30 AM - 11:30 AM",
-      "subject": "Operating Systems",
-      "teacher": "Ms. Zahida Walayat",
-      "room": "Lab CL-8",
-      "color": "default",
-      "status": "Lab"
-    },
-    {
-      "id": "bds5-tuesday-2",
-      "day": "Tuesday",
-      "time": "2:30 PM - 4:00 PM",
-      "subject": "Software Engineering",
-      "teacher": "Dr. Uzair Iqbal Junjua",
-      "room": "Room 212",
-      "color": "pink"
-    },
-    {
-      "id": "bds5-tuesday-3",
-      "day": "Tuesday",
-      "time": "4:00 PM - 5:30 PM",
-      "subject": "Software Engineering",
-      "teacher": "Dr. Uzair Iqbal Junjua",
-      "room": "Room 212",
-      "color": "pink"
-    },
-    {
-      "id": "bds5-wednesday-1",
-      "day": "Wednesday",
-      "time": "8:30 AM - 10:30 AM",
-      "subject": "Web Technologies",
-      "teacher": "Mr. Haseeb ur Rehman",
-      "room": "Room 105",
-      "color": "default"
-    },
-    {
-      "id": "bds5-wednesday-2",
-      "day": "Wednesday",
-      "time": "11:30 AM - 1:00 PM",
-      "subject": "Multivariable Calculus",
-      "teacher": "Dr. Manshoor Ahmed",
-      "room": "Room G-06",
-      "color": "pink"
-    },
-    {
-      "id": "bds5-wednesday-3",
-      "day": "Wednesday",
-      "time": "1:00 PM - 2:30 PM",
-      "subject": "Multivariable Calculus",
-      "teacher": "Dr. Manshoor Ahmed",
-      "room": "Room G-06",
-      "color": "pink"
-    },
-    {
-      "id": "bds5-thursday-1",
-      "day": "Thursday",
-      "time": "8:30 AM - 10:00 AM",
-      "subject": "Statistical Methods in Data Science",
-      "teacher": "Dr. Basharat Mehmood (VF)",
-      "room": "Room 110",
-      "color": "blue"
-    },
-    {
-      "id": "bds5-thursday-2",
-      "day": "Thursday",
-      "time": "10:30 AM - 12:30 PM",
-      "subject": "Operating Systems",
-      "teacher": "Ms. Zahida Walayat",
-      "room": "Room 105",
-      "color": "default"
-    },
-    {
-      "id": "bds5-thursday-3",
-      "day": "Thursday",
-      "time": "12:30 PM - 2:30 PM",
-      "subject": "Information Security",
-      "teacher": "Ms. Ayesha Hussain",
-      "room": "Room 105",
-      "color": "green"
-    },
-    {
-      "id": "bds5-friday-1",
-      "day": "Friday",
-      "time": "8:30 AM - 10:00 AM",
-      "subject": "Statistical Methods in Data Science",
-      "teacher": "Dr. Basharat Mehmood (VF)",
-      "room": "Room 110",
-      "color": "blue"
-    }
-  ],
-  "BCT 5": [
-    {
-      "id": "bct5-monday-1",
-      "day": "Monday",
-      "time": "8:30 AM - 10:00 AM",
-      "subject": "Multivariable Calculus",
-      "teacher": "Dr. Manshoor Ahmed",
-      "room": "Room 109",
-      "color": "pink"
-    },
-    {
-      "id": "bct5-monday-2",
-      "day": "Monday",
-      "time": "10:00 AM - 11:30 AM",
-      "subject": "Topics in Cyber Security I (Web Technologies)",
-      "teacher": "Mr. Muhammad Rashid Mukhtar",
-      "room": "Room 109",
-      "color": "pink"
-    },
-    {
-      "id": "bct5-tuesday-1",
-      "day": "Tuesday",
-      "time": "8:30 AM - 10:30 AM",
-      "subject": "Digital Forensics",
-      "teacher": "Dr. Tehsin Kanwal",
-      "room": "Room# 125 (HL)",
-      "color": "blue"
-    },
-    {
-      "id": "bct5-tuesday-2",
-      "day": "Tuesday",
-      "time": "10:30 AM - 12:30 PM",
-      "subject": "Network Security",
-      "teacher": "Dr. Farhana Jabeen",
-      "room": "Room# 125 (HL)",
-      "color": "blue"
-    },
-    {
-      "id": "bct5-tuesday-3",
-      "day": "Tuesday",
-      "time": "1:00 PM - 2:30 PM",
-      "subject": "Design and Analysis of Algorithms",
-      "teacher": "Mr. Tanveer Ahmed",
-      "room": "Room 208",
-      "color": "pink"
-    },
-    {
-      "id": "bct5-wednesday-1",
-      "day": "Wednesday",
-      "time": "8:30 AM - 11:30 AM",
-      "subject": "Digital Forensics",
-      "teacher": "Dr. Tehsin Kanwal",
-      "room": "Lab CL-13",
-      "color": "blue",
-      "status": "Lab"
-    },
-    {
-      "id": "bct5-wednesday-2",
-      "day": "Wednesday",
-      "time": "11:30 AM - 2:30 PM",
-      "subject": "Network Security",
-      "teacher": "Dr. Farhana Jabeen",
-      "room": "Lab CL-7",
-      "color": "blue",
-      "status": "Lab"
-    },
-    {
-      "id": "bct5-thursday-1",
-      "day": "Thursday",
-      "time": "10:00 AM - 11:30 AM",
-      "subject": "Multivariable Calculus",
-      "teacher": "Dr. Manshoor Ahmed",
-      "room": "Room 109",
-      "color": "pink"
-    },
-    {
-      "id": "bct5-thursday-2",
-      "day": "Thursday",
-      "time": "12:30 PM - 2:30 PM",
-      "subject": "Operating Systems",
-      "teacher": "Hafiza Sundas",
-      "room": "Room# 125 (HL)",
-      "color": "default"
-    },
-    {
-      "id": "bct5-thursday-3",
-      "day": "Thursday",
-      "time": "2:30 PM - 5:30 PM",
-      "subject": "Operating Systems",
-      "teacher": "Hafiza Sundas",
-      "room": "Lab CL-13",
-      "color": "default",
-      "status": "Lab"
-    },
-    {
-      "id": "bct5-friday-1",
-      "day": "Friday",
-      "time": "8:30 AM - 10:00 AM",
-      "subject": "Design and Analysis of Algorithms",
-      "teacher": "Mr. Tanveer Ahmed",
-      "room": "Room 109",
-      "color": "pink"
-    },
-    {
-      "id": "bct5-friday-2",
-      "day": "Friday",
-      "time": "11:30 AM - 1:00 PM",
-      "subject": "Topics in Cyber Security I (Web Technologies)",
-      "teacher": "Mr. Muhammad Rashid Mukhtar",
-      "room": "Room 109",
-      "color": "pink"
-    }
-  ],
+],
+
   "BCS 6-A": [
     {
-      "id": "bcs6a-monday-1",
-      "day": "Monday",
-      "time": "11:30 AM - 2:30 PM",
-      "subject": "Mobile Application Development",
-      "teacher": "Mr. Adnan Karamat",
-      "room": "Lab CL-6",
-      "color": "default",
-      "status": "Lab"
+        "id": "b6a-monday-1",
+        "day": "Monday",
+        "time": "11:30 AM - 2:30 PM",
+        "subject": "Mobile Application Development",
+        "teacher": "Mr. Adnan Karmat",
+        "room": "CL-6",
+        "color": "blue",
+        "status": "Lab"
     },
     {
-      "id": "bcs6a-monday-2",
-      "day": "Monday",
-      "time": "2:30 PM - 5:30 PM",
-      "subject": "Computer Networks",
-      "teacher": "Sara Ali",
-      "room": "Lab CL-6",
-      "color": "pink",
-      "status": "Lab"
+        "id": "b6a-monday-2",
+        "day": "Monday",
+        "time": "2:30 PM - 5:30 PM",
+        "subject": "Computer Networks",
+        "teacher": "Mr. Muhammad Ahsan",
+        "room": "CL-6",
+        "color": "green",
+        "status": "Lab"
+    },
+
+    {
+        "id": "b6a-tuesday-1",
+        "day": "Tuesday",
+        "time": "12:30 PM - 2:30 PM",
+        "subject": "Introduction to Computer Vision",
+        "teacher": "Dr. Tahir Mustafa Madni",
+        "room": "Room G07 (AB-2)",
+        "color": "pink"
     },
     {
-      "id": "bcs6a-tuesday-1",
-      "day": "Tuesday",
-      "time": "12:30 PM - 2:30 PM",
-      "subject": "Introduction to Computer Vision",
-      "teacher": "Dr. Tahir Mustafa Madni",
-      "room": "Room G07 (AB-2)",
-      "color": "pink"
+        "id": "b6a-tuesday-2",
+        "day": "Tuesday",
+        "time": "2:30 PM - 5:30 PM",
+        "subject": "Introduction to Computer Vision",
+        "teacher": "Dr. Tahir Mustafa Madni",
+        "room": "CL-12",
+        "color": "blue",
+        "status": "Lab"
+    },
+
+    {
+        "id": "b6a-thursday-1",
+        "day": "Thursday",
+        "time": "12:30 PM - 2:30 PM",
+        "subject": "Advanced Web Technologies",
+        "teacher": "Mr. Rashid Mukhtar",
+        "room": "Room G07 (AB-2)",
+        "color": "green"
     },
     {
-      "id": "bcs6a-tuesday-2",
-      "day": "Tuesday",
-      "time": "2:30 PM - 5:30 PM",
-      "subject": "Introduction to Computer Vision",
-      "teacher": "Dr. Tahir Mustafa Madni",
-      "room": "Lab CL-12",
-      "color": "pink",
-      "status": "Lab"
+        "id": "b6a-thursday-2",
+        "day": "Thursday",
+        "time": "2:30 PM - 5:30 PM",
+        "subject": "Advanced Web Technologies",
+        "teacher": "Mr. Umar Iqbal",
+        "room": "CL-12",
+        "color": "pink",
+        "status": "Lab"
+    },
+
+    {
+        "id": "b6a-friday-1",
+        "day": "Friday",
+        "time": "8:30 AM - 10:30 AM",
+        "subject": "Mobile Application Development",
+        "teacher": "Mr. Adnan Karmat",
+        "room": "Room G06 (AB-2)",
+        "color": "blue"
     },
     {
-      "id": "bcs6a-wednesday-1",
-      "day": "Wednesday",
-      "time": "12:30 PM - 2:30 PM",
-      "subject": "Advanced Web Technologies",
-      "teacher": "Mr. Muhammad Rashid Mukhtar",
-      "room": "Room G07 (AB-2)",
-      "color": "green"
+        "id": "b6a-friday-2",
+        "day": "Friday",
+        "time": "11:00 AM - 1:00 PM",
+        "subject": "Computer Networks",
+        "teacher": "Dr. Sheenela Naz",
+        "room": "Room G06 (AB-2)",
+        "color": "green"
+    },
+
+    {
+        "id": "b6a-saturday-1",
+        "day": "Saturday",
+        "time": "8:30 AM - 11:30 AM",
+        "subject": "Linear Algebra",
+        "teacher": "Prof. Dr. Shams ul Islam",
+        "room": "Room 206 (AB-1)",
+        "color": "pink"
     },
     {
-      "id": "bcs6a-wednesday-2",
-      "day": "Wednesday",
-      "time": "2:30 PM - 5:30 PM",
-      "subject": "Advanced Web Technologies",
-      "teacher": "Mr. Muhammad Rashid Mukhtar",
-      "room": "Lab CL-12",
-      "color": "green",
-      "status": "Lab"
-    },
-    {
-      "id": "bcs6a-thursday-1",
-      "day": "Thursday",
-      "time": "8:30 AM - 10:30 AM",
-      "subject": "Mobile Application Development",
-      "teacher": "Mr. Adnan Karamat",
-      "room": "Room G06 (AB-2)",
-      "color": "default"
-    },
-    {
-      "id": "bcs6a-thursday-2",
-      "day": "Thursday",
-      "time": "11:00 AM - 1:00 PM",
-      "subject": "Computer Networks",
-      "teacher": "Sara Ali",
-      "room": "Room G06 (AB-2)",
-      "color": "pink"
-    },
-    {
-      "id": "bcs6a-friday-1",
-      "day": "Friday",
-      "time": "8:30 AM - 11:30 AM",
-      "subject": "Linear Algebra",
-      "teacher": "Prof. Dr. Shams ul Islam",
-      "room": "Room 206 (AB-1)",
-      "color": "default"
-    },
-    {
-      "id": "bcs6a-friday-2",
-      "day": "Friday",
-      "time": "11:30 AM - 2:30 PM",
-      "subject": "Theory of Automata",
-      "teacher": "Mr. Salman Aslam",
-      "room": "Room 206 (AB-1)",
-      "color": "blue"
+        "id": "b6a-saturday-2",
+        "day": "Saturday",
+        "time": "11:30 AM - 2:30 PM",
+        "subject": "Theory of Automata",
+        "teacher": "Mr. Salman Aslam",
+        "room": "Room 206 (AB-1)",
+        "color": "blue"
     }
-  ],
-  "BCS 6-B (Lab section)": [
+],
+  "BCS 6-B": [
     {
-      "id": "bcs6b(labsection)-monday-1",
-      "day": "Monday",
-      "time": "2:30 PM - 5:30 PM",
-      "subject": "Computer Networks",
-      "teacher": "TA",
-      "room": "Lab CL-7",
-      "color": "pink",
-      "status": "Lab"
+        "id": "b6b-monday-1",
+        "day": "Monday",
+        "time": "2:30 PM - 5:30 PM",
+        "subject": "Advanced Web Technologies",
+        "teacher": "Ms. Najla Raza",
+        "room": "CL-7",
+        "color": "blue",
+        "status": "Lab"
     },
+
     {
-      "id": "bcs6b(labsection)-tuesday-1",
-      "day": "Tuesday",
-      "time": "8:30 AM - 11:30 AM",
-      "subject": "Advanced Web Technologies",
-      "teacher": "Mr. Umar Iqbal",
-      "room": "Lab CL-13",
-      "color": "green",
-      "status": "Lab"
+        "id": "b6b-tuesday-1",
+        "day": "Tuesday",
+        "time": "2:30 PM - 5:30 PM",
+        "subject": "Computer Networks",
+        "teacher": "",
+        "room": "CL-7",
+        "color": "green",
+        "status": "Lab"
     },
+
     {
-      "id": "bcs6b(labsection)-wednesday-1",
-      "day": "Wednesday",
-      "time": "2:30 PM - 5:30 PM",
-      "subject": "Mobile Application Development",
-      "teacher": "Mr. Adnan Karamat",
-      "room": "Lab CL-7",
-      "color": "default",
-      "status": "Lab"
+        "id": "b6b-thursday-1",
+        "day": "Thursday",
+        "time": "2:30 PM - 5:30 PM",
+        "subject": "Mobile Application Development",
+        "teacher": "Mr. Adnan Karmat",
+        "room": "CL-7",
+        "color": "pink",
+        "status": "Lab"
     },
+
     {
-      "id": "bcs6b(labsection)-thursday-1",
-      "day": "Thursday",
-      "time": "2:30 PM - 5:30 PM",
-      "subject": "Introduction to Computer Vision",
-      "teacher": "Dr. Tahir Mustafa Madni",
-      "room": "Lab CL-7",
-      "color": "pink",
-      "status": "Lab"
+        "id": "b6b-friday-1",
+        "day": "Friday",
+        "time": "2:30 PM - 5:30 PM",
+        "subject": "Introduction to Computer Vision",
+        "teacher": "Ms. Hafiza Sundus Farooq",
+        "room": "CL-7",
+        "color": "blue",
+        "status": "Lab"
     }
-  ],
-  "BSE 6": [
-    {
-      "id": "bse6-monday-1",
-      "day": "Monday",
-      "time": "8:30 AM - 10:30 AM",
-      "subject": "Advanced Web Technologies",
-      "teacher": "Mr. Amir Shabir Pare",
-      "room": "Room B-09 (AB-3)",
-      "color": "green"
-    },
-    {
-      "id": "bse6-monday-2",
-      "day": "Monday",
-      "time": "10:30 AM - 12:30 PM",
-      "subject": "Machine Learning Fundamentals",
-      "teacher": "Ms. Asma Khalid Butt",
-      "room": "Room B-09 (AB-3)",
-      "color": "green"
-    },
-    {
-      "id": "bse6-monday-3",
-      "day": "Monday",
-      "time": "2:30 PM - 5:30 PM",
-      "subject": "Machine Learning Fundamentals",
-      "teacher": "Ms. Asma Khalid Butt",
-      "room": "Lab CL-11",
-      "color": "green",
-      "status": "Lab"
-    },
-    {
-      "id": "bse6-tuesday-1",
-      "day": "Tuesday",
-      "time": "8:30 AM - 10:30 AM",
-      "subject": "Mobile Application Development",
-      "teacher": "Ms. Sara Ali",
-      "room": "Room G-08",
-      "color": "default"
-    },
-    {
-      "id": "bse6-tuesday-2",
-      "day": "Tuesday",
-      "time": "12:30 PM - 2:30 PM",
-      "subject": "Computer Networks",
-      "teacher": "Dr. Mariam Akbar",
-      "room": "Room G-08",
-      "color": "pink"
-    },
-    {
-      "id": "bse6-tuesday-3",
-      "day": "Tuesday",
-      "time": "2:30 PM - 5:30 PM",
-      "subject": "Advanced Web Technologies",
-      "teacher": "Mr. Amir Shabir Pare",
-      "room": "Lab CL-11",
-      "color": "green",
-      "status": "Lab"
-    },
-    {
-      "id": "bse6-wednesday-1",
-      "day": "Wednesday",
-      "time": "10:30 AM - 12:30 PM",
-      "subject": "Software Construction and Development",
-      "teacher": "Dr. Iftikhar Azim Niaz",
-      "room": "Room G-08",
-      "color": "green",
-      "status": "Lab"
-    },
-    {
-      "id": "bse6-wednesday-2",
-      "day": "Wednesday",
-      "time": "2:30 PM - 5:30 PM",
-      "subject": "Computer Networks",
-      "teacher": "Dr. Mariam Akbar",
-      "room": "Lab CL-11",
-      "color": "pink",
-      "status": "Lab"
-    },
-    {
-      "id": "bse6-thursday-1",
-      "day": "Thursday",
-      "time": "8:30 AM - 10:00 AM",
-      "subject": "Linear Algebra",
-      "teacher": "Dr. Nadia Wajid",
-      "room": "Room 207",
-      "color": "default"
-    },
-    {
-      "id": "bse6-thursday-2",
-      "day": "Thursday",
-      "time": "10:00 AM - 11:30 AM",
-      "subject": "Linear Algebra",
-      "teacher": "Dr. Nadia Wajid",
-      "room": "Room 207",
-      "color": "default"
-    },
-    {
-      "id": "bse6-thursday-3",
-      "day": "Thursday",
-      "time": "2:30 PM - 5:30 PM",
-      "subject": "Software Construction and Development",
-      "teacher": "Dr. Iftikhar Azim Niaz",
-      "room": "Lab CL-11",
-      "color": "green",
-      "status": "Lab"
-    },
-    {
-      "id": "bse6-friday-1",
-      "day": "Friday",
-      "time": "2:30 PM - 5:30 PM",
-      "subject": "Mobile Application Development",
-      "teacher": "Ms. Sara Ali",
-      "room": "Lab CL-11",
-      "color": "default",
-      "status": "Lab"
-    }
-  ],
-  "BAI 6": [
-    {
-      "id": "bai6-monday-1",
-      "day": "Monday",
-      "time": "8:30 AM - 10:30 AM",
-      "subject": "Artificial Neural Network and Deep Learning",
-      "teacher": "Dr. Zobia Rehman",
-      "room": "Room G08",
-      "color": "default"
-    },
-    {
-      "id": "bai6-monday-2",
-      "day": "Monday",
-      "time": "10:30 AM - 12:30 PM",
-      "subject": "Advanced Web Technologies",
-      "teacher": "Ms. Saadia Maqbool",
-      "room": "Room G08",
-      "color": "green"
-    },
-    {
-      "id": "bai6-tuesday-1",
-      "day": "Tuesday",
-      "time": "8:30 AM - 10:00 AM",
-      "subject": "Linear Algebra",
-      "teacher": "Dr. Iffat Jabeen",
-      "room": "Room 212",
-      "color": "default"
-    },
-    {
-      "id": "bai6-tuesday-2",
-      "day": "Tuesday",
-      "time": "10:00 AM - 11:30 AM",
-      "subject": "Knowledge Representation and Reasoning",
-      "teacher": "Dr. Malik Ahmad Kamran",
-      "room": "Room 212",
-      "color": "blue"
-    },
-    {
-      "id": "bai6-tuesday-3",
-      "day": "Tuesday",
-      "time": "2:30 PM - 5:30 PM",
-      "subject": "Artificial Neural Network and Deep Learning",
-      "teacher": "Dr. Zobia Rehman",
-      "room": "Lab CL-18 (Phy. Dept)",
-      "color": "default",
-      "status": "Lab"
-    },
-    {
-      "id": "bai6-wednesday-1",
-      "day": "Wednesday",
-      "time": "8:30 AM - 10:00 AM",
-      "subject": "Knowledge Representation and Reasoning",
-      "teacher": "Dr. Malik Ahmad Kamran",
-      "room": "Room 212",
-      "color": "blue"
-    },
-    {
-      "id": "bai6-wednesday-2",
-      "day": "Wednesday",
-      "time": "10:00 AM - 11:30 AM",
-      "subject": "Linear Algebra",
-      "teacher": "Dr. Iffat Jabeen",
-      "room": "Room 212",
-      "color": "default"
-    },
-    {
-      "id": "bai6-thursday-1",
-      "day": "Thursday",
-      "time": "8:30 AM - 10:30 AM",
-      "subject": "Computer Networks",
-      "teacher": "Ms. Shafaq Rasheed",
-      "room": "Lab CL-7",
-      "color": "pink",
-      "status": "Lab"
-    },
-    {
-      "id": "bai6-thursday-2",
-      "day": "Thursday",
-      "time": "10:30 AM - 1:00 PM",
-      "subject": "Computer Networks",
-      "teacher": "Ms. Shafaq Rasheed",
-      "room": "Lab CL-7",
-      "color": "pink",
-      "status": "Lab"
-    },
-    {
-      "id": "bai6-thursday-3",
-      "day": "Thursday",
-      "time": "12:30 PM - 2:30 PM",
-      "subject": "Mobile Application Development",
-      "teacher": "Mr. Shujaat Hussain (VF)",
-      "room": "Room 208 (AB-2)",
-      "color": "default"
-    },
-    {
-      "id": "bai6-friday-1",
-      "day": "Friday",
-      "time": "2:30 PM - 5:30 PM",
-      "subject": "Mobile Application Development",
-      "teacher": "Mr. Shujaat Hussain (VF)",
-      "room": "Lab CL-6",
-      "color": "default",
-      "status": "Lab"
-    }
-  ],
-  "BDS 6": [
-    {
-      "id": "bds6-monday-1",
-      "day": "Monday",
-      "time": "8:30 AM - 10:30 AM",
-      "subject": "Computer Networks",
-      "teacher": "Ms. Ayesha Hussain",
-      "room": "Room G-07",
-      "color": "pink"
-    },
-    {
-      "id": "bds6-monday-2",
-      "day": "Monday",
-      "time": "11:30 AM - 2:30 PM",
-      "subject": "Natural Language Processing",
-      "teacher": "Ms. Anum Zahra",
-      "room": "Lab CL-11",
-      "color": "green",
-      "status": "Lab"
-    },
-    {
-      "id": "bds6-monday-3",
-      "day": "Monday",
-      "time": "2:30 PM - 5:30 PM",
-      "subject": "Linear Algebra",
-      "teacher": "Dr. Nadia Wajid",
-      "room": "Room 111",
-      "color": "default"
-    },
-    {
-      "id": "bds6-tuesday-1",
-      "day": "Tuesday",
-      "time": "8:30 AM - 10:30 AM",
-      "subject": "Data Visualization Techniques",
-      "teacher": "Dr. Sheneela Naz",
-      "room": "Room 210",
-      "color": "pink"
-    },
-    {
-      "id": "bds6-tuesday-2",
-      "day": "Tuesday",
-      "time": "10:30 AM - 12:30 PM",
-      "subject": "Data Warehousing and Business Intelligence",
-      "teacher": "Dr. Nusrat Shaheen",
-      "room": "Room G-07",
-      "color": "pink"
-    },
-    {
-      "id": "bds6-tuesday-3",
-      "day": "Tuesday",
-      "time": "2:30 PM - 5:30 PM",
-      "subject": "Data Warehousing and Business Intelligence",
-      "teacher": "Dr. Nusrat Shaheen",
-      "room": "Lab CL-2 (AB-1)",
-      "color": "pink",
-      "status": "Lab"
-    },
-    {
-      "id": "bds6-wednesday-1",
-      "day": "Wednesday",
-      "time": "8:30 AM - 11:30 AM",
-      "subject": "Data Visualization Techniques",
-      "teacher": "Dr. Sheneela Naz",
-      "room": "Lab CL-7",
-      "color": "pink",
-      "status": "Lab"
-    },
-    {
-      "id": "bds6-wednesday-2",
-      "day": "Wednesday",
-      "time": "11:00 AM - 1:00 PM",
-      "subject": "Natural Language Processing",
-      "teacher": "Ms. Anum Zahra",
-      "room": "Room 210",
-      "color": "green"
-    },
-    {
-      "id": "bds6-wednesday-3",
-      "day": "Wednesday",
-      "time": "2:30 PM - 5:30 PM",
-      "subject": "Software Engineering",
-      "teacher": "Ms. Farah Saeed",
-      "room": "Room G-01",
-      "color": "pink"
-    },
-    {
-      "id": "bds6-thursday-1",
-      "day": "Thursday",
-      "time": "11:30 AM - 2:30 PM",
-      "subject": "Computer Networks",
-      "teacher": "Ms. Ayesha Hussain",
-      "room": "Lab CL-7",
-      "color": "pink",
-      "status": "Lab"
-    }
-  ],
-  "BCT 6": [
-    {
-      "id": "bct6-monday-1",
-      "day": "Monday",
-      "time": "8:30 AM - 11:00 AM",
-      "subject": "Statistics and Probability Theory",
-      "teacher": "Ms. Lubna Waqar",
-      "room": "Room 106",
-      "color": "default"
-    },
-    {
-      "id": "bct6-monday-2",
-      "day": "Monday",
-      "time": "12:30 PM - 2:30 PM",
-      "subject": "Computer Organization & Assembly Language",
-      "teacher": "Dr. Ali Raza",
-      "room": "Room 210",
-      "color": "pink"
-    },
-    {
-      "id": "bct6-monday-3",
-      "day": "Monday",
-      "time": "2:30 PM - 5:30 PM",
-      "subject": "Computer Organization & Assembly Language",
-      "teacher": "Dr. Ali Raza",
-      "room": "Lab CL-10",
-      "color": "pink",
-      "status": "Lab"
-    },
-    {
-      "id": "bct6-tuesday-1",
-      "day": "Tuesday",
-      "time": "12:30 PM - 2:30 PM",
-      "subject": "Security Analytics and Machine Learning",
-      "teacher": "Ms. Shafaq Rasheed",
-      "room": "Room# 125 (HL)",
-      "color": "blue"
-    },
-    {
-      "id": "bct6-tuesday-2",
-      "day": "Tuesday",
-      "time": "2:30 PM - 5:30 PM",
-      "subject": "Security Analytics and Machine Learning",
-      "teacher": "Ms. Shafaq Rasheed",
-      "room": "Lab CL-10",
-      "color": "blue",
-      "status": "Lab"
-    },
-    {
-      "id": "bct6-wednesday-1",
-      "day": "Wednesday",
-      "time": "12:30 PM - 2:30 PM",
-      "subject": "Vulnerability Assessment and Reverse Engineering",
-      "teacher": "Ms. Aliya Awais (VF)",
-      "room": "Room# 125 (HL)",
-      "color": "default"
-    },
-    {
-      "id": "bct6-wednesday-2",
-      "day": "Wednesday",
-      "time": "2:30 PM - 5:30 PM",
-      "subject": "Vulnerability Assessment and Reverse Engineering",
-      "teacher": "Ms. Aliya Awais (VF)",
-      "room": "Lab CL-10",
-      "color": "default",
-      "status": "Lab"
-    },
-    {
-      "id": "bct6-thursday-1",
-      "day": "Thursday",
-      "time": "2:30 PM - 4:00 PM",
-      "subject": "Information Assurance",
-      "teacher": "Aliya Awais VF",
-      "room": "Room 111",
-      "color": "pink"
-    },
-    {
-      "id": "bct6-thursday-2",
-      "day": "Thursday",
-      "time": "4:00 PM - 5:30 PM",
-      "subject": "Linear Algebra",
-      "teacher": "Prof. Dr. Adeel Ahmed",
-      "room": "Room 111",
-      "color": "default"
-    },
-    {
-      "id": "bct6-friday-1",
-      "day": "Friday",
-      "time": "2:30 PM - 4:00 PM",
-      "subject": "Linear Algebra",
-      "teacher": "Prof. Dr. Adeel Ahmed",
-      "room": "Room 105",
-      "color": "default"
-    },
-    {
-      "id": "bct6-friday-2",
-      "day": "Friday",
-      "time": "4:00 PM - 5:30 PM",
-      "subject": "Information Assurance",
-      "teacher": "Aliya Awais VF",
-      "room": "Room 105",
-      "color": "pink"
-    }
-  ],
+],
+
   "BCS 7-A": [
     {
-      "id": "bcs7a-monday-1",
-      "day": "Monday",
-      "time": "8:30 AM - 10:30 AM",
-      "subject": "Parallel and Distributed Computing",
-      "teacher": "Mr. Qasim Malik",
-      "room": "Room G-06",
-      "color": "default"
+        "id": "b7a-monday-1",
+        "day": "Monday",
+        "time": "8:30 AM - 10:30 AM",
+        "subject": "Parallel and Distributed Computing",
+        "teacher": "Mr. Qasim Malik",
+        "room": "Room G-06",
+        "color": "blue"
     },
     {
-      "id": "bcs7a-monday-2",
-      "day": "Monday",
-      "time": "12:30 PM - 2:30 PM",
-      "subject": "Advanced Web Technologies",
-      "teacher": "Mr. Muhammad Rashid Mukhtar",
-      "room": "Room G-06",
-      "color": "green"
+        "id": "b7a-monday-2",
+        "day": "Monday",
+        "time": "10:30 AM - 12:30 PM",
+        "subject": "HCI and Computer Graphics",
+        "teacher": "Dr. Gulmina Rextina",
+        "room": "Room G-06",
+        "color": "green"
     },
     {
-      "id": "bcs7a-tuesday-1",
-      "day": "Tuesday",
-      "time": "8:30 AM - 10:30 AM",
-      "subject": "Compiler Construction",
-      "teacher": "Mr. Salman Aslam",
-      "room": "Room G-08",
-      "color": "blue"
+        "id": "b7a-monday-3",
+        "day": "Monday",
+        "time": "12:30 PM - 2:30 PM",
+        "subject": "Advanced Web Technologies",
+        "teacher": "Mr. Rashid Mukhtar",
+        "room": "Room G-06",
+        "color": "pink"
+    },
+
+    {
+        "id": "b7a-tuesday-1",
+        "day": "Tuesday",
+        "time": "10:00 AM - 11:30 AM",
+        "subject": "Technical and Business Writing",
+        "teacher": "Ms. Maria Khan",
+        "room": "Room 110",
+        "color": "blue"
     },
     {
-      "id": "bcs7a-tuesday-2",
-      "day": "Tuesday",
-      "time": "2:30 PM - 5:30 PM",
-      "subject": "Parallel and Distributed Computing",
-      "teacher": "Mr. Qasim Malik",
-      "room": "Lab CL-15",
-      "color": "default",
-      "status": "Lab"
+        "id": "b7a-tuesday-2",
+        "day": "Tuesday",
+        "time": "2:30 PM - 5:30 PM",
+        "subject": "Parallel and Distributed Computing",
+        "teacher": "Ms. Maheen Gul",
+        "room": "CL-15",
+        "color": "green",
+        "status": "Lab"
+    },
+
+    {
+        "id": "b7a-wednesday-1",
+        "day": "Wednesday",
+        "time": "8:30 AM - 10:30 AM",
+        "subject": "Compiler Construction",
+        "teacher": "Mr. Salman Aslam",
+        "room": "Room G-08",
+        "color": "pink"
     },
     {
-      "id": "bcs7a-wednesday-1",
-      "day": "Wednesday",
-      "time": "10:30 AM - 12:30 PM",
-      "subject": "HCI and Computer Graphics",
-      "teacher": "Dr. Gulmina Rextin",
-      "room": "Room G-06",
-      "color": "green"
+        "id": "b7a-wednesday-2",
+        "day": "Wednesday",
+        "time": "2:30 PM - 5:30 PM",
+        "subject": "HCI and Computer Graphics",
+        "teacher": "Ms. Laima Javed",
+        "room": "CL-15",
+        "color": "blue",
+        "status": "Lab"
+    },
+
+    {
+        "id": "b7a-thursday-1",
+        "day": "Thursday",
+        "time": "10:00 AM - 11:30 AM",
+        "subject": "Technical and Business Writing",
+        "teacher": "Ms. Maria Khan",
+        "room": "Room 110",
+        "color": "green"
     },
     {
-      "id": "bcs7a-wednesday-2",
-      "day": "Wednesday",
-      "time": "2:30 PM - 5:30 PM",
-      "subject": "HCI and Computer Graphics",
-      "teacher": "Dr. Gulmina Rextin",
-      "room": "Lab CL-15",
-      "color": "green",
-      "status": "Lab"
+        "id": "b7a-thursday-2",
+        "day": "Thursday",
+        "time": "2:30 PM - 5:30 PM",
+        "subject": "Compiler Construction",
+        "teacher": "Mr. Salman Aslam",
+        "room": "CL-15",
+        "color": "pink",
+        "status": "Lab"
     },
+
     {
-      "id": "bcs7a-thursday-1",
-      "day": "Thursday",
-      "time": "10:00 AM - 11:30 AM",
-      "subject": "Technical and Business Writing",
-      "teacher": "Ms. Maria Khan",
-      "room": "Room 110",
-      "color": "blue"
-    },
-    {
-      "id": "bcs7a-thursday-2",
-      "day": "Thursday",
-      "time": "2:30 PM - 5:30 PM",
-      "subject": "Compiler Construction",
-      "teacher": "Mr. Salman Aslam",
-      "room": "Lab CL-15",
-      "color": "blue",
-      "status": "Lab"
-    },
-    {
-      "id": "bcs7a-friday-1",
-      "day": "Friday",
-      "time": "10:00 AM - 11:30 AM",
-      "subject": "Technical and Business Writing",
-      "teacher": "Ms. Maria Khan",
-      "room": "Room 110",
-      "color": "blue"
-    },
-    {
-      "id": "bcs7a-friday-2",
-      "day": "Friday",
-      "time": "2:30 PM - 5:30 PM",
-      "subject": "Advanced Web Technologies",
-      "teacher": "Mr. Muhammad Rashid Mukhtar",
-      "room": "Lab CL-15",
-      "color": "green",
-      "status": "Lab"
+        "id": "b7a-friday-1",
+        "day": "Friday",
+        "time": "2:30 PM - 5:30 PM",
+        "subject": "Advanced Web Technologies",
+        "teacher": "Mr. Umar Iqbal",
+        "room": "CL-15",
+        "color": "blue",
+        "status": "Lab"
     }
-  ],
+],
   "BCS 7-B": [
     {
-      "id": "bcs7b-monday-1",
-      "day": "Monday",
-      "time": "8:30 AM - 11:30 AM",
-      "subject": "Advanced Web Technologies",
-      "teacher": "Ms. Saadia Maqbool",
-      "room": "Lab CL-6",
-      "color": "green",
-      "status": "Lab"
+        "id": "b7b-monday-1",
+        "day": "Monday",
+        "time": "8:30 AM - 11:30 AM",
+        "subject": "Advanced Web Technologies",
+        "teacher": "Ms. Saada Maqbool",
+        "room": "CL-6",
+        "color": "blue",
+        "status": "Lab"
     },
     {
-      "id": "bcs7b-monday-2",
-      "day": "Monday",
-      "time": "2:30 PM - 4:30 PM",
-      "subject": "HCI and Computer Graphics",
-      "teacher": "Dr. Gulmina Rextin",
-      "room": "Room 111",
-      "color": "green"
+        "id": "b7b-monday-2",
+        "day": "Monday",
+        "time": "12:30 PM - 2:30 PM",
+        "subject": "Parallel and Distributed Computing",
+        "teacher": "Mr. Qasim Malik",
+        "room": "Room G-08",
+        "color": "green"
     },
     {
-      "id": "bcs7b-tuesday-1",
-      "day": "Tuesday",
-      "time": "8:30 AM - 11:30 AM",
-      "subject": "Parallel and Distributed Computing",
-      "teacher": "Mr. Qasim Malik",
-      "room": "Lab CL-11",
-      "color": "default",
-      "status": "Lab"
+        "id": "b7b-monday-3",
+        "day": "Monday",
+        "time": "2:30 PM - 4:30 PM",
+        "subject": "HCI and Computer Graphics",
+        "teacher": "Dr. Gulmina Rextina",
+        "room": "Room G-05",
+        "color": "pink"
+    },
+
+    {
+        "id": "b7b-tuesday-1",
+        "day": "Tuesday",
+        "time": "1:00 PM - 2:30 PM",
+        "subject": "Technical and Business Writing",
+        "teacher": "Ms. Maria Khan",
+        "room": "Room 107",
+        "color": "blue"
     },
     {
-      "id": "bcs7b-tuesday-2",
-      "day": "Tuesday",
-      "time": "12:30 PM - 2:30 PM",
-      "subject": "Parallel and Distributed Computing",
-      "teacher": "Mr. Qasim Malik",
-      "room": "Room 111",
-      "color": "default"
+        "id": "b7b-tuesday-2",
+        "day": "Tuesday",
+        "time": "2:30 PM - 4:30 PM",
+        "subject": "Compiler Construction",
+        "teacher": "Mr. Salman Aslam",
+        "room": "Room 107",
+        "color": "green"
+    },
+
+    {
+        "id": "b7b-wednesday-1",
+        "day": "Wednesday",
+        "time": "8:30 AM - 11:30 AM",
+        "subject": "Parallel and Distributed Computing",
+        "teacher": "Ms. Maheen Gul",
+        "room": "CL-12",
+        "color": "pink",
+        "status": "Lab"
     },
     {
-      "id": "bcs7b-tuesday-3",
-      "day": "Tuesday",
-      "time": "2:30 PM - 4:30 PM",
-      "subject": "Compiler Construction",
-      "teacher": "Mr. Salman Aslam",
-      "room": "Room 107",
-      "color": "blue"
+        "id": "b7b-wednesday-2",
+        "day": "Wednesday",
+        "time": "2:30 PM - 5:30 PM",
+        "subject": "Advanced Web Technologies",
+        "teacher": "Ms. Saada Maqbool",
+        "room": "CL-9",
+        "color": "blue",
+        "status": "Lab"
+    },
+
+    {
+        "id": "b7b-thursday-1",
+        "day": "Thursday",
+        "time": "11:30 AM - 1:00 PM",
+        "subject": "Technical and Business Writing",
+        "teacher": "Ms. Maria Khan",
+        "room": "CH-1 (Chemistry Dept.)",
+        "color": "green"
     },
     {
-      "id": "bcs7b-wednesday-1",
-      "day": "Wednesday",
-      "time": "1:00 PM - 2:30 PM",
-      "subject": "Technical and Business Writing",
-      "teacher": "Ms. Maria Khan",
-      "room": "Room 107",
-      "color": "blue"
+        "id": "b7b-thursday-2",
+        "day": "Thursday",
+        "time": "2:30 PM - 4:30 PM",
+        "subject": "Advanced Web Technologies",
+        "teacher": "Ms. Saada Maqbool",
+        "room": "Room 212",
+        "color": "pink"
     },
+
     {
-      "id": "bcs7b-wednesday-2",
-      "day": "Wednesday",
-      "time": "2:30 PM - 5:30 PM",
-      "subject": "Compiler Construction",
-      "teacher": "Mr. Salman Aslam",
-      "room": "Lab CL-9",
-      "color": "blue",
-      "status": "Lab"
-    },
-    {
-      "id": "bcs7b-thursday-1",
-      "day": "Thursday",
-      "time": "11:30 AM - 1:00 PM",
-      "subject": "Technical and Business Writing",
-      "teacher": "Ms. Maria Khan",
-      "room": "Room CH-1 (Chemistry Dept.)",
-      "color": "blue"
-    },
-    {
-      "id": "bcs7b-thursday-2",
-      "day": "Thursday",
-      "time": "2:30 PM - 4:30 PM",
-      "subject": "Advanced Web Technologies",
-      "teacher": "Ms. Saadia Maqbool",
-      "room": "Room 212",
-      "color": "green"
-    },
-    {
-      "id": "bcs7b-friday-1",
-      "day": "Friday",
-      "time": "2:30 PM - 5:30 PM",
-      "subject": "HCI and Computer Graphics",
-      "teacher": "Dr. Gulmina Rextin",
-      "room": "Lab CL-9",
-      "color": "green",
-      "status": "Lab"
+        "id": "b7b-friday-1",
+        "day": "Friday",
+        "time": "2:30 PM - 5:30 PM",
+        "subject": "HCI and Computer Graphics",
+        "teacher": "Dr. Gulmina Rextina",
+        "room": "CL-9",
+        "color": "blue",
+        "status": "Lab"
     }
-  ],
-  "BSE 7-A": [
-    {
-      "id": "bse7a-monday-1",
-      "day": "Monday",
-      "time": "8:30 AM - 11:30 AM",
-      "subject": "Parallel and Distributed Computing (DevOps)",
-      "teacher": "Dr. Muhammad Imran",
-      "room": "Lab CL-11",
-      "color": "green",
-      "status": "Lab"
-    },
-    {
-      "id": "bse7a-monday-2",
-      "day": "Monday",
-      "time": "11:30 AM - 2:30 PM",
-      "subject": "Software Quality Engineering",
-      "teacher": "Dr. Uzair Iqbal Junjua",
-      "room": "Lab CL-11",
-      "color": "blue",
-      "status": "Lab"
-    },
-    {
-      "id": "bse7a-tuesday-1",
-      "day": "Tuesday",
-      "time": "8:30 AM - 11:30 AM",
-      "subject": "Software Construction and Development",
-      "teacher": "Dr. Tehseen Riaz Abbasi",
-      "room": "Lab CL-10",
-      "color": "green",
-      "status": "Lab"
-    },
-    {
-      "id": "bse7a-tuesday-2",
-      "day": "Tuesday",
-      "time": "11:30 AM - 2:30 PM",
-      "subject": "Automated Software Testing",
-      "teacher": "Dr. Najmun Nisa",
-      "room": "Lab CL-10",
-      "color": "blue",
-      "status": "Lab"
-    },
-    {
-      "id": "bse7a-tuesday-3",
-      "day": "Tuesday",
-      "time": "2:30 PM - 4:30 PM",
-      "subject": "Software Quality Engineering",
-      "teacher": "Dr. Uzair Iqbal Junjua",
-      "room": "Room 211",
-      "color": "blue"
-    },
-    {
-      "id": "bse7a-wednesday-1",
-      "day": "Wednesday",
-      "time": "8:30 AM - 10:30 AM",
-      "subject": "Parallel and Distributed Computing (DevOps)",
-      "teacher": "Dr. Muhammad Imran",
-      "room": "Room G-08",
-      "color": "green"
-    },
-    {
-      "id": "bse7a-wednesday-2",
-      "day": "Wednesday",
-      "time": "11:00 AM - 1:00 PM",
-      "subject": "Automated Software Testing",
-      "teacher": "Dr. Najmun Nisa",
-      "room": "Room G-08",
-      "color": "blue"
-    },
-    {
-      "id": "bse7a-wednesday-3",
-      "day": "Wednesday",
-      "time": "2:30 PM - 4:30 PM",
-      "subject": "Software Construction and Development",
-      "teacher": "Dr. Tehseen Riaz Abbasi",
-      "room": "Room 211",
-      "color": "green"
-    },
-    {
-      "id": "bse7a-thursday-1",
-      "day": "Thursday",
-      "time": "2:30 PM - 5:30 PM",
-      "subject": "Technical and Business Writing",
-      "teacher": "Ms. Saira Ali Husnain",
-      "room": "Room 211",
-      "color": "blue"
-    }
-  ],
-  "BSE 7-B": [
-    {
-      "id": "bse7b-monday-1",
-      "day": "Monday",
-      "time": "8:30 AM - 11:30 AM",
-      "subject": "Parallel and Distributed Computing (DevOps)",
-      "teacher": "Mr. Qasim Malik",
-      "room": "Lab CL-10",
-      "color": "green",
-      "status": "Lab"
-    },
-    {
-      "id": "bse7b-monday-2",
-      "day": "Monday",
-      "time": "11:30 AM - 2:30 PM",
-      "subject": "Software Quality Engineering",
-      "teacher": "Dr. Uzair Iqbal Junjua",
-      "room": "Lab CL-10",
-      "color": "blue",
-      "status": "Lab"
-    },
-    {
-      "id": "bse7b-tuesday-1",
-      "day": "Tuesday",
-      "time": "8:30 AM - 11:30 AM",
-      "subject": "Software Construction and Development",
-      "teacher": "Dr. Tehseen Riaz Abbasi",
-      "room": "Lab CL-14",
-      "color": "green",
-      "status": "Lab"
-    },
-    {
-      "id": "bse7b-tuesday-2",
-      "day": "Tuesday",
-      "time": "11:30 AM - 2:30 PM",
-      "subject": "Automated Software Testing",
-      "teacher": "Dr. Najmun Nisa",
-      "room": "Lab CL-14",
-      "color": "blue",
-      "status": "Lab"
-    },
-    {
-      "id": "bse7b-tuesday-3",
-      "day": "Tuesday",
-      "time": "2:30 PM - 4:00 PM",
-      "subject": "Technical and Business Writing",
-      "teacher": "Mr. Mehmood-ul Hassan",
-      "room": "Room 207",
-      "color": "blue"
-    },
-    {
-      "id": "bse7b-wednesday-1",
-      "day": "Wednesday",
-      "time": "8:30 AM - 10:30 AM",
-      "subject": "Parallel and Distributed Computing (DevOps)",
-      "teacher": "Mr. Qasim Malik",
-      "room": "Room G-08",
-      "color": "green"
-    },
-    {
-      "id": "bse7b-wednesday-2",
-      "day": "Wednesday",
-      "time": "11:00 AM - 1:00 PM",
-      "subject": "Automated Software Testing",
-      "teacher": "Dr. Najmun Nisa",
-      "room": "Room G-08",
-      "color": "blue"
-    },
-    {
-      "id": "bse7b-wednesday-3",
-      "day": "Wednesday",
-      "time": "2:30 PM - 4:30 PM",
-      "subject": "Software Construction and Development",
-      "teacher": "Dr. Tehseen Riaz Abbasi",
-      "room": "Room 211",
-      "color": "green"
-    },
-    {
-      "id": "bse7b-thursday-1",
-      "day": "Thursday",
-      "time": "4:00 PM - 5:30 PM",
-      "subject": "Technical and Business Writing",
-      "teacher": "Mr. Mehmood-ul Hassan",
-      "room": "Room 207",
-      "color": "blue"
-    },
-    {
-      "id": "bse7b-thursday-2",
-      "day": "Thursday",
-      "time": "2:30 PM - 4:30 PM",
-      "subject": "Software Quality Engineering",
-      "teacher": "Dr. Uzair Iqbal Junjua",
-      "room": "Room 208",
-      "color": "blue"
-    }
-  ],
-  "BAI 7": [
-    {
-      "id": "bai7-monday-1",
-      "day": "Monday",
-      "time": "8:30 AM - 10:30 AM",
-      "subject": "Computer Organization & Assembly Language",
-      "teacher": "Mr. Rashid Mehmood",
-      "room": "Room 208",
-      "color": "pink"
-    },
-    {
-      "id": "bai7-monday-2",
-      "day": "Monday",
-      "time": "12:30 PM - 2:30 PM",
-      "subject": "Advanced Web Technologies",
-      "teacher": "Mr. Amir Shabir Pare",
-      "room": "Room 208",
-      "color": "green"
-    },
-    {
-      "id": "bai7-tuesday-1",
-      "day": "Tuesday",
-      "time": "8:30 AM - 10:30 AM",
-      "subject": "Artificial Neural Networks and Deep Learning",
-      "teacher": "Dr. Zobia Rehman",
-      "room": "Room G08",
-      "color": "default"
-    },
-    {
-      "id": "bai7-tuesday-2",
-      "day": "Tuesday",
-      "time": "10:30 AM - 12:30 PM",
-      "subject": "Reinforcement Learning",
-      "teacher": "Dr. Tehseen Zia",
-      "room": "Room 208",
-      "color": "pink"
-    },
-    {
-      "id": "bai7-tuesday-3",
-      "day": "Tuesday",
-      "time": "2:30 PM - 5:30 PM",
-      "subject": "Natural Language Processing",
-      "teacher": "Mr. Tanveer Ahmed",
-      "room": "Lab CL-9",
-      "color": "green",
-      "status": "Lab"
-    },
-    {
-      "id": "bai7-wednesday-1",
-      "day": "Wednesday",
-      "time": "8:30 AM - 11:30 AM",
-      "subject": "Computer Organization & Assembly Language",
-      "teacher": "Mr. Rashid Mehmood",
-      "room": "Lab CL-15",
-      "color": "pink",
-      "status": "Lab"
-    },
-    {
-      "id": "bai7-wednesday-2",
-      "day": "Wednesday",
-      "time": "12:30 PM - 2:30 PM",
-      "subject": "Natural Language Processing",
-      "teacher": "Mr. Tanveer Ahmed",
-      "room": "Room 208",
-      "color": "green"
-    },
-    {
-      "id": "bai7-thursday-1",
-      "day": "Thursday",
-      "time": "8:30 AM - 11:00 AM",
-      "subject": "Artificial Neural Networks and Deep Learning",
-      "teacher": "Dr. Zobia Rehman",
-      "room": "Lab CL-18 (Phy. Dept.)",
-      "color": "default",
-      "status": "Lab"
-    },
-    {
-      "id": "bai7-thursday-2",
-      "day": "Thursday",
-      "time": "11:00 AM - 1:00 PM",
-      "subject": "Reinforcement Learning",
-      "teacher": "Dr. Tehseen Zia",
-      "room": "Lab CL-18 (Phy. Dept.)",
-      "color": "pink",
-      "status": "Lab"
-    },
-    {
-      "id": "bai7-thursday-3",
-      "day": "Thursday",
-      "time": "2:30 PM - 5:30 PM",
-      "subject": "Advanced Web Technologies",
-      "teacher": "Mr. Amir Shabir Pare",
-      "room": "Lab CL-9",
-      "color": "green",
-      "status": "Lab"
-    }
-  ],
-  "BDS 7": [
-    {
-      "id": "bds7-monday-1",
-      "day": "Monday",
-      "time": "8:30 AM - 10:30 AM",
-      "subject": "Natural Language Processing",
-      "teacher": "Dr. Zobia Rehman",
-      "room": "Room 112",
-      "color": "green"
-    },
-    {
-      "id": "bds7-monday-2",
-      "day": "Monday",
-      "time": "10:30 AM - 12:30 PM",
-      "subject": "DevOps for Cloud Computing",
-      "teacher": "Mr. Qasim Malik",
-      "room": "Room 112",
-      "color": "green"
-    },
-    {
-      "id": "bds7-monday-3",
-      "day": "Monday",
-      "time": "12:30 PM - 2:30 PM",
-      "subject": "Computer Organization and Assembly language",
-      "teacher": "Mr. Taimur Shahzad",
-      "room": "Room 112",
-      "color": "default"
-    },
-    {
-      "id": "bds7-tuesday-1",
-      "day": "Tuesday",
-      "time": "8:30 AM - 10:30 AM",
-      "subject": "Artificial Neural Networks and Deep Learning",
-      "teacher": "Dr. Zobia Rehman",
-      "room": "Room G06",
-      "color": "default"
-    },
-    {
-      "id": "bds7-tuesday-2",
-      "day": "Tuesday",
-      "time": "11:30 AM - 2:30 PM",
-      "subject": "DevOps for Cloud Computing",
-      "teacher": "Mr. Qasim Malik",
-      "room": "Lab CL-2 (AB-1)",
-      "color": "green",
-      "status": "Lab"
-    },
-    {
-      "id": "bds7-tuesday-3",
-      "day": "Tuesday",
-      "time": "2:30 PM - 5:30 PM",
-      "subject": "Artificial Neural Networks and Deep Learning",
-      "teacher": "Dr. Zobia Rehman",
-      "room": "Lab CL-7",
-      "color": "default",
-      "status": "Lab"
-    },
-    {
-      "id": "bds7-wednesday-1",
-      "day": "Wednesday",
-      "time": "8:30 AM - 11:30 AM",
-      "subject": "Natural Language Processing",
-      "teacher": "Dr. Zobia Rehman",
-      "room": "Lab CL-2 (AB-1)",
-      "color": "green",
-      "status": "Lab"
-    },
-    {
-      "id": "bds7-wednesday-2",
-      "day": "Wednesday",
-      "time": "2:30 PM - 5:30 PM",
-      "subject": "Computer Organization and Assembly language",
-      "teacher": "Mr. Taimur Shahzad",
-      "room": "Lab CL-2 (AB-1)",
-      "color": "default",
-      "status": "Lab"
-    },
-    {
-      "id": "bds7-thursday-1",
-      "day": "Thursday",
-      "time": "2:30 PM - 4:00 PM",
-      "subject": "Technical and Business Writing",
-      "teacher": "Ms. Maria Khan",
-      "room": "Room G-01",
-      "color": "blue"
-    },
-    {
-      "id": "bds7-friday-1",
-      "day": "Friday",
-      "time": "2:30 PM - 4:00 PM",
-      "subject": "Technical and Business Writing",
-      "teacher": "Ms. Maria Khan",
-      "room": "Room 106",
-      "color": "blue"
-    },
-    {
-      "id": "bds7-friday-2",
-      "day": "Friday",
-      "time": "4:00 PM - 5:30 PM",
-      "subject": "Technical and Business Writing",
-      "teacher": "Ms. Maria Khan",
-      "room": "Room 106",
-      "color": "blue"
-    }
-  ],
-  "BCT 7": [
-    {
-      "id": "bct7-monday-1",
-      "day": "Monday",
-      "time": "8:30 AM - 11:30 AM",
-      "subject": "DevOps for Cloud Computing",
-      "teacher": "Dr. Muhammad Imran",
-      "room": "Lab CL-12",
-      "color": "green",
-      "status": "Lab"
-    },
-    {
-      "id": "bct7-monday-2",
-      "day": "Monday",
-      "time": "4:00 PM - 5:30 PM",
-      "subject": "Mobile Application Development",
-      "teacher": "Ms. Sara Ali",
-      "room": "Room CL-2 (AB-1)",
-      "color": "default"
-    },
-    {
-      "id": "bct7-tuesday-1",
-      "day": "Tuesday",
-      "time": "8:30 AM - 10:30 AM",
-      "subject": "Mobile Application Development",
-      "teacher": "Ms. Sara Ali",
-      "room": "Room# 125 (HL)",
-      "color": "default"
-    },
-    {
-      "id": "bct7-tuesday-2",
-      "day": "Tuesday",
-      "time": "11:30 AM - 2:30 PM",
-      "subject": "Secure Software Design and Development",
-      "teacher": "Mr. Muhammad Ahmed Nawaz (VF)",
-      "room": "Lab CL-2 (AB-1)",
-      "color": "green",
-      "status": "Lab"
-    },
-    {
-      "id": "bct7-wednesday-1",
-      "day": "Wednesday",
-      "time": "8:30 AM - 10:30 AM",
-      "subject": "Penetration Testing",
-      "teacher": "Mr. Ehtisham Dawood (VF)",
-      "room": "Room 210",
-      "color": "green"
-    },
-    {
-      "id": "bct7-wednesday-2",
-      "day": "Wednesday",
-      "time": "10:30 AM - 12:30 PM",
-      "subject": "DevOps for Cloud Computing",
-      "teacher": "Dr. Muhammad Imran",
-      "room": "Room# 125 (HL)",
-      "color": "green"
-    },
-    {
-      "id": "bct7-wednesday-3",
-      "day": "Wednesday",
-      "time": "2:30 PM - 5:30 PM",
-      "subject": "Secure Software Design and Development",
-      "teacher": "Mr. Muhammad Ahmed Nawaz (VF)",
-      "room": "Room 109",
-      "color": "green",
-      "status": "Lab"
-    },
-    {
-      "id": "bct7-thursday-1",
-      "day": "Thursday",
-      "time": "11:30 AM - 2:30 PM",
-      "subject": "Penetration Testing",
-      "teacher": "Mr. Ehtisham Dawood (VF)",
-      "room": "Lab CL-14",
-      "color": "green",
-      "status": "Lab"
-    },
-    {
-      "id": "bct7-thursday-2",
-      "day": "Thursday",
-      "time": "1:00 PM - 2:30 PM",
-      "subject": "Technical and Business Writing",
-      "teacher": "Ms. Muneeba Umar",
-      "room": "Room 107",
-      "color": "blue"
-    },
-    {
-      "id": "bct7-friday-1",
-      "day": "Friday",
-      "time": "1:00 PM - 2:30 PM",
-      "subject": "Technical and Business Writing",
-      "teacher": "Ms. Muneeba Umar",
-      "room": "Room 206",
-      "color": "blue"
-    }
-  ],
+],
+
   "BCS 8": [
     {
-      "id": "bcs8-monday-1",
-      "day": "Monday",
-      "time": "2:30 PM - 4:00 PM",
-      "subject": "Parallel and Distributed Computing (Sec. A)",
-      "teacher": "Ms. Anum Zahra",
-      "room": "Room CL-7",
-      "color": "default",
-      "status": "Lab"
+        "id": "b8-monday-1",
+        "day": "Monday",
+        "time": "8:30 AM - 11:30 AM",
+        "subject": "Parallel and Distributed Computing",
+        "teacher": "",
+        "room": "CL-7",
+        "color": "blue",
+        "status": "Lab - Section A"
     },
     {
-      "id": "bcs8-monday-2",
-      "day": "Monday",
-      "time": "4:00 PM - 5:30 PM",
-      "subject": "Parallel and Distributed Computing (Sec. B)",
-      "teacher": "Ms. Anum Zahra",
-      "room": "Room CL-9",
-      "color": "blue",
-      "status": "Lab"
+        "id": "b8-monday-2",
+        "day": "Monday",
+        "time": "2:30 PM - 5:30 PM",
+        "subject": "Parallel and Distributed Computing",
+        "teacher": "",
+        "room": "CL-9",
+        "color": "green",
+        "status": "Lab - Section B"
     },
+
     {
-      "id": "bcs8-tuesday-1",
-      "day": "Tuesday",
-      "time": "2:30 PM - 5:30 PM",
-      "subject": "Project Planning and Monitoring",
-      "teacher": "Mr. Abeer Farooq",
-      "room": "Room G-05",
-      "color": "blue"
+        "id": "b8-tuesday-1",
+        "day": "Tuesday",
+        "time": "2:30 PM - 5:30 PM",
+        "subject": "Project Planning and Monitoring",
+        "teacher": "Mr. Abeer Farooq",
+        "room": "Room G-08",
+        "color": "pink"
     },
+
     {
-      "id": "bcs8-wednesday-1",
-      "day": "Wednesday",
-      "time": "8:30 AM - 11:30 AM",
-      "subject": "French",
-      "teacher": "Mr. Sadan Ali",
-      "room": "Room G-08",
-      "color": "green"
+        "id": "b8-wednesday-1",
+        "day": "Wednesday",
+        "time": "2:30 PM - 5:30 PM",
+        "subject": "French",
+        "teacher": "Mr. Sadan Ali",
+        "room": "Room G-08",
+        "color": "blue"
     },
+
     {
-      "id": "bcs8-wednesday-2",
-      "day": "Wednesday",
-      "time": "2:30 PM - 5:30 PM",
-      "subject": "French",
-      "teacher": "Mr. Sadan Ali",
-      "room": "Room G-08",
-      "color": "green"
+        "id": "b8-thursday-1",
+        "day": "Thursday",
+        "time": "2:30 PM - 5:30 PM",
+        "subject": "Parallel and Distributed Computing",
+        "teacher": "Ms. Anum Zahra",
+        "room": "Room G-05",
+        "color": "green"
     },
+
     {
-      "id": "bcs8-thursday-1",
-      "day": "Thursday",
-      "time": "2:30 PM - 5:30 PM",
-      "subject": "Parallel and Distributed Computing",
-      "teacher": "Ms. Anum Zahra",
-      "room": "Room G-05",
-      "color": "default"
-    },
-    {
-      "id": "bcs8-friday-1",
-      "day": "Friday",
-      "time": "2:30 PM - 5:30 PM",
-      "subject": "Chinese",
-      "teacher": "",
-      "room": "Room G-08 (AB-2)",
-      "color": "default"
+        "id": "b8-friday-1",
+        "day": "Friday",
+        "time": "2:30 PM - 5:30 PM",
+        "subject": "Chinese",
+        "teacher": "",
+        "room": "Room G-08 (AB-2)",
+        "color": "pink"
     }
-  ],
-  "BSE 8": [
-    {
-      "id": "bse8-monday-1",
-      "day": "Monday",
-      "time": "2:30 PM - 5:30 PM",
-      "subject": "Formal Methods",
-      "teacher": "Dr. Saira Beg",
-      "room": "Room 107",
-      "color": "green"
-    },
-    {
-      "id": "bse8-tuesday-1",
-      "day": "Tuesday",
-      "time": "2:30 PM - 5:30 PM",
-      "subject": "Project Planning and Monitoring",
-      "teacher": "Mr. Abeer Farooq",
-      "room": "Room G-05",
-      "color": "blue"
-    },
-    {
-      "id": "bse8-wednesday-1",
-      "day": "Wednesday",
-      "time": "2:30 PM - 5:30 PM",
-      "subject": "French",
-      "teacher": "Mr. Sadan Ali",
-      "room": "Room G-08",
-      "color": "green"
-    },
-    {
-      "id": "bse8-thursday-1",
-      "day": "Thursday",
-      "time": "2:30 PM - 5:30 PM",
-      "subject": "Chinese",
-      "teacher": "",
-      "room": "Room G-08",
-      "color": "default"
-    }
-  ],
-  "BAI 8": [
-    {
-      "id": "bai8-monday-1",
-      "day": "Monday",
-      "time": "2:30 PM - 5:30 PM",
-      "subject": "Professional Practices in AI",
-      "teacher": "Mr. Umar Sheraz",
-      "room": "Room 210",
-      "color": "blue"
-    },
-    {
-      "id": "bai8-tuesday-1",
-      "day": "Tuesday",
-      "time": "2:30 PM - 5:30 PM",
-      "subject": "Project Planning and Monitoring",
-      "teacher": "Mr. Abeer Farooq",
-      "room": "Room G-05",
-      "color": "blue"
-    },
-    {
-      "id": "bai8-wednesday-1",
-      "day": "Wednesday",
-      "time": "2:30 PM - 5:30 PM",
-      "subject": "Speech Processing",
-      "teacher": "Dr. Amir Rasheed Ch.",
-      "room": "Room 210",
-      "color": "default"
-    }
-  ],
-  "BDS 8": [
-    {
-      "id": "bds8-monday-1",
-      "day": "Monday",
-      "time": "2:30 PM - 5:30 PM",
-      "subject": "Professional Practices",
-      "teacher": "Mr. Umar Sheraz",
-      "room": "Room G-05",
-      "color": "pink"
-    },
-    {
-      "id": "bds8-tuesday-1",
-      "day": "Tuesday",
-      "time": "2:30 PM - 5:30 PM",
-      "subject": "Project Planning and Monitoring",
-      "teacher": "Mr. Abeer Farooq",
-      "room": "Room G-06",
-      "color": "blue"
-    },
-    {
-      "id": "bds8-wednesday-1",
-      "day": "Wednesday",
-      "time": "2:30 PM - 5:30 PM",
-      "subject": "French",
-      "teacher": "Mr. Sadan Ali",
-      "room": "Room G-06",
-      "color": "green"
-    },
-    {
-      "id": "bds8-thursday-1",
-      "day": "Thursday",
-      "time": "2:30 PM - 5:30 PM",
-      "subject": "Chinese",
-      "teacher": "",
-      "room": "Room G-05 (AB-2)",
-      "color": "default"
-    }
-  ],
-  "BCT 8": [
-    {
-      "id": "bct8-monday-1",
-      "day": "Monday",
-      "time": "2:30 PM - 5:30 PM",
-      "subject": "Statistics and Probability Theory",
-      "teacher": "Dr. Aamna Nazir",
-      "room": "Room 208",
-      "color": "default"
-    },
-    {
-      "id": "bct8-tuesday-1",
-      "day": "Tuesday",
-      "time": "2:30 PM - 5:30 PM",
-      "subject": "Project Planning and Monitoring",
-      "teacher": "Mr. Abeer Farooq",
-      "room": "Room G-06",
-      "color": "blue"
-    },
-    {
-      "id": "bct8-wednesday-1",
-      "day": "Wednesday",
-      "time": "2:30 PM - 5:30 PM",
-      "subject": "French",
-      "teacher": "Mr. Sadan Ali",
-      "room": "Room G-06",
-      "color": "green"
-    },
-    {
-      "id": "bct8-thursday-1",
-      "day": "Thursday",
-      "time": "2:30 PM - 5:30 PM",
-      "subject": "Chinese",
-      "teacher": "",
-      "room": "Room G-05 (AB-2)",
-      "color": "default"
-    }
-  ],
-  "BSCS Repeaters": [
-    {
-      "id": "bscsrepeaters-monday-1",
-      "day": "Monday",
-      "time": "8:30 AM - 11:30 AM",
-      "subject": "Applications of Information and Communication Technologies",
-      "teacher": "TBA",
-      "room": "Lab CL-12",
-      "color": "green",
-      "status": "Lab"
-    },
-    {
-      "id": "bscsrepeaters-monday-2",
-      "day": "Monday",
-      "time": "4:00 PM - 5:30 PM",
-      "subject": "Calculus and Analytic Geometry",
-      "teacher": "",
-      "room": "Room 208",
-      "color": "default"
-    },
-    {
-      "id": "bscsrepeaters-tuesday-1",
-      "day": "Tuesday",
-      "time": "8:30 AM - 10:30 AM",
-      "subject": "Applications of Information and Communication Technologies",
-      "teacher": "TBA",
-      "room": "Room B-34",
-      "color": "green"
-    },
-    {
-      "id": "bscsrepeaters-tuesday-2",
-      "day": "Tuesday",
-      "time": "4:00 PM - 5:30 PM",
-      "subject": "Multivariable Calculus",
-      "teacher": "",
-      "room": "Room G-06",
-      "color": "pink"
-    },
-    {
-      "id": "bscsrepeaters-wednesday-1",
-      "day": "Wednesday",
-      "time": "4:00 PM - 5:30 PM",
-      "subject": "Object Oriented Programming",
-      "teacher": "Dr. Yasir Munir",
-      "room": "Room G-06",
-      "color": "blue"
-    }
-  ]
-}
+]
 }
