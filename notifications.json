@@ -1,24 +1,24 @@
 [
   {
-    "id": 3,
+    "id": 1,
     "title": "Lab Teacher Details Needed",
     "message": "If your lab teacher's name is missing from the schedule, please let me know your lab teacher's name along with your section and lab subject so I can update it",
     "time": "",
     "unread": true
   },
   {
-    "id": 1,
+    "id": 2,
     "title": "Welcome",
     "message": "Welcome to BCS Schedule App. If you find any issue in this app, contact me from Settings.",
     "time": "",
     "unread": true
   },
   {
-    "id": 2,
+    "id": 3,
     "title": "Schedule Updated",
     "message": "The class schedule has been updated.",
     "time": "",
     "unread": true
-  },
+  }
   
 ]
